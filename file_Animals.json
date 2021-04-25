@@ -1,0 +1,3554 @@
+{
+    "tamil_glossary": [
+        {
+            "subject": "Animals",
+            "en_term": "adjuntant lesser",
+            "ta_term": "கொக்கு, மேல்வாய்க்கொக்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "agama, kashmir",
+            "ta_term": "காஷ்மீர்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "agama, peninsular rock",
+            "ta_term": "பாறைப்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "agama, shorttailed",
+            "ta_term": "குட்டைவால்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "agama, toad",
+            "ta_term": "பாலைவனத் தேரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "alligator, american",
+            "ta_term": "அமெரிக்கமுதலை, அலிகேட்டர்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "anemone",
+            "ta_term": "கடற்சாமந்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "antelope indian (black buck)",
+            "ta_term": "வெளிமான், இருள்மான், கலைமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "antelope rat",
+            "ta_term": "மான் எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "antelope tibetan (chiru)",
+            "ta_term": "திபெத்திய கலைமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "antelope, four horned (chowsingha)",
+            "ta_term": "நாற்கொம்பு மான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "antler",
+            "ta_term": "மான்கொம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "apes",
+            "ta_term": "மனிதக்குரங்குகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ass, asiatic wild",
+            "ta_term": "ஆசிய காட்டுக்கழுதை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ass,wild indian (rhoskhar)",
+            "ta_term": "இந்திய காட்டுக்கழுதை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "assam rabbit",
+            "ta_term": "அசாமிய காட்டுமுயல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "avocet",
+            "ta_term": "கோணமூக்கு உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, black headed",
+            "ta_term": "கருந்தலைக்காட்டான் (குருவி வகை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, common",
+            "ta_term": "சிலம்பன், தவிட்டுக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, jungle",
+            "ta_term": "காட்டுச்சிலம்பன், கள்ளிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, large grey",
+            "ta_term": "பெருஞ்சிலம்பன், கருஞ்சாம்பல் வீட்டுக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, quaker",
+            "ta_term": "பழுப்பு ஈப்பிடிப்பான் (குருவி வகை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, rufous",
+            "ta_term": "செஞ்சிலம்பன், கருஞ்சிவப்புத் தவிட்டுக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, scrimitar",
+            "ta_term": "வளைந்தஅலகு காட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, shrike",
+            "ta_term": "சிலம்பன் கீச்சான்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, spotted",
+            "ta_term": "புள்ளிக்காட்டுக் குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, white headed",
+            "ta_term": "வெண்தலைச்சிலம்பன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, white throated",
+            "ta_term": "வெண்தொண்டைக்காட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, yellow breasted",
+            "ta_term": "மஞ்சள்மார்பு காட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "babbler, yellow eyed",
+            "ta_term": "மஞ்சள்கண் காட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "baboon, savanna",
+            "ta_term": "பபூன் (வாலில்லா குரங்குவகை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "badger",
+            "ta_term": "வளைக்கரடி, தரைக்கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "badger, assam",
+            "ta_term": "அசாம் தரைக்கரடி, அசாம் வளைக்கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "badger, hog/ bear-pig",
+            "ta_term": "பன்றிமூக்கு பேட்ஜர், தரைக்கரடி, பன்றிவளைக்கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "badger, honey",
+            "ta_term": "தேன்உண்ணும் தரைக்கரடி, தேன்வளைக்கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "badger, indochina",
+            "ta_term": "இந்தோ-சீனா தரைக்கரடி, இந்தோ-சீனா வளைக்கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bandicoot",
+            "ta_term": "பெருச்சாளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bantam hen black tailed",
+            "ta_term": "கருவால் பேண்டம்கோழி, கருவால் சண்டைக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "banteng/tsaine",
+            "ta_term": "காட்டுமாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "barbet crimson throated",
+            "ta_term": "சிவப்புத்தொண்டை குக்குறுவான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "barbet, green",
+            "ta_term": "பச்சை குக்குறுவான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "barking deer",
+            "ta_term": "கேளையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, bearded shealth tailed",
+            "ta_term": "தாடியுள்ள வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, common yellow",
+            "ta_term": "மஞ்சள் வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, flying fox",
+            "ta_term": "வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, fulvous fruit",
+            "ta_term": "பழந்தின்னி வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, grey eastern horse shoe",
+            "ta_term": "ஆந்தைமுக வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, indian false vampire",
+            "ta_term": "கொம்புமூக்கு வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, indian pipistrelle",
+            "ta_term": "மழுங்குமூக்கு வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, painted",
+            "ta_term": "செந்நிறஇறக்கை வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, short nosed fruit",
+            "ta_term": "சிறுபழந்தின்னி வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bat, tickell’s",
+            "ta_term": "மஞ்சள்சாம்பல்நிற வாலுள்ள வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "baya",
+            "ta_term": "தூக்கணாங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "baza, blackcrested",
+            "ta_term": "கருங்கொண்டை வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "baza, logge’s",
+            "ta_term": "வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bear",
+            "ta_term": "கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bear cat",
+            "ta_term": "கரடிப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bear european brown",
+            "ta_term": "ஐரோப்பிய பழுப்புநிறக் கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bear, himalayan black",
+            "ta_term": "இமயக் கருங்கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bear, himalayan brown",
+            "ta_term": "இமய பழுப்புநிறக் கரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bear, sloth",
+            "ta_term": "சிறுகரடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bee eater, blue bearded",
+            "ta_term": "காட்டுப் பஞ்சுருட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bee eater, blue tailed",
+            "ta_term": "நீலவால் பஞ்சுருட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bee eater, chestnut headed",
+            "ta_term": "செம்பழுப்புத் தலைப்பஞ்சுருட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bee eater, small green",
+            "ta_term": "பசுஞ்சிறு பஞ்சுருட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "beetle",
+            "ta_term": "வண்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bison, (gaur)",
+            "ta_term": "காட்டெருமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bittern",
+            "ta_term": "குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bittern, black",
+            "ta_term": "கருங்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bittern, chestnut",
+            "ta_term": "செங்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bittern, little",
+            "ta_term": "சிறுகுருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bittern, malay",
+            "ta_term": "மலாய்க்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bittern, yellow",
+            "ta_term": "மஞ்சள்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "black drange",
+            "ta_term": "கரிச்சான், வாலிக்கரிச்சான் கரிக்குருமான், கரிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "black necked crane",
+            "ta_term": "கருங்கழுத்துக் கொக்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "blue bird fairy",
+            "ta_term": "நீலச்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "blue chat",
+            "ta_term": "நீலக்கற்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "blue sheep",
+            "ta_term": "நீலமலையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "blue throat",
+            "ta_term": "நீலகண்டன் குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "boa, red sand",
+            "ta_term": "சிவப்பு மண்ணொளிப்பாம்பு (மலைப்பாம்பு வகை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "boar, indianwild",
+            "ta_term": "இந்தியக்காட்டுப்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "buck, black",
+            "ta_term": "கருமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "budgerigars",
+            "ta_term": "காதல் பறவைகள், வண்ணச்சிறு கிஷீகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "buffalo, wild",
+            "ta_term": "காட்டெருமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, black",
+            "ta_term": "கருங்கொண்டைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, greyheaded",
+            "ta_term": "சாம்பல்தலைக் கொண்டைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, red vented",
+            "ta_term": "செம்புழைக் கொண்டலாத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, red whiskered",
+            "ta_term": "செம்மீசைக் கொண்டைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, ruby throated",
+            "ta_term": "செந்தொண்டைக் கொண்டைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, white browed",
+            "ta_term": "வெண்புருவக் கொண்டைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bulbul, yellow browed",
+            "ta_term": "மஞ்சள்புருவ கொண்டைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bull blue or nilgai /(boselaphus - trogocamelus)",
+            "ta_term": "நீலமான், நிலகைமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bunting, redheaded",
+            "ta_term": "செந்தலைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "bustard, great",
+            "ta_term": "வரகுக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "buzzard",
+            "ta_term": "வைரி, (பருந்து வகை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "buzzard, honey crested",
+            "ta_term": "தேன் தலைப்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "buzzard, long legged",
+            "ta_term": "வைரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "buzzard, white eyed",
+            "ta_term": "வைரி, வெள்ளைக்கண் பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "caimar, spectacled",
+            "ta_term": "தென்னமெரிக்க முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "calotes, forest",
+            "ta_term": "காட்டு ஓணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "calotes, jerdon’s / eastern green",
+            "ta_term": "ஜெர்டானின் பச்சைஓணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "calotes, southern green",
+            "ta_term": "மரஓணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "camel",
+            "ta_term": "ஒட்டகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "capuchin, brown",
+            "ta_term": "பழுப்புநிறக் கப்புசின் குரங்கு, தலைக்கவிகைக் குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "caracal",
+            "ta_term": "காட்டுப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cassowary",
+            "ta_term": "நியூகினித் தீக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, golden",
+            "ta_term": "தங்கப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, indian desert",
+            "ta_term": "இந்திய பாலைவனப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, jungle",
+            "ta_term": "வனப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, leopard",
+            "ta_term": "சிறுத்தைப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, marbled",
+            "ta_term": "பளிங்குப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, pallas",
+            "ta_term": "பல்லாப் பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cat, siamese",
+            "ta_term": "சயாமியப் பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chamelion, indian",
+            "ta_term": "இந்தியப்பச்சோந்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chat collared bush",
+            "ta_term": "புதர்ஆரச்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chat pied bush",
+            "ta_term": "புதர்ச்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cheetah",
+            "ta_term": "சிறுத்தைப்புலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cheetah/hunting leopard",
+            "ta_term": "வேங்கைப்புலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chevrotain indian (mouse deer)",
+            "ta_term": "சருகுமான், எலிமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chimpanzee",
+            "ta_term": "சிம்பன்சி (ஆப்பிரிக்க மனிதக்குரங்கு)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chinkara or indian gazelle",
+            "ta_term": "சிங்காரமான் (அ) இந்தியச்சிறுமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chittul",
+            "ta_term": "நீளமூக்கு கடல்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chloropsis goldfronted",
+            "ta_term": "பொன்நெற்றிப் பசுங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chloropsis jerdon’s",
+            "ta_term": "பசுங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "chowsingha (four horned antelope)",
+            "ta_term": "நாற்கொம்புமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cicades",
+            "ta_term": "சிள்வண்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "civet",
+            "ta_term": "புனுகுப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "civet, himalayan palm",
+            "ta_term": "இமய மரப்புனுகுப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "civet, tiger / spotted linsang",
+            "ta_term": "வேங்கைப்புனுகுப்பூனை, புள்ளிப்புனுகுப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cobra, black",
+            "ta_term": "கருநாகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cobra, indian",
+            "ta_term": "இந்தியநாகம், நல்லபாம்பு, நாகப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cobra, king",
+            "ta_term": "ராஜநாகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cockatil grey",
+            "ta_term": "காக்கடீல் கிளிகள், (ஆஸ்திரேலிய) சிறுகொண்டைக்கிஷீகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cockatoo",
+            "ta_term": "(ஆஸ்திரேலிய) பெருங்கொண்டைக் கிஷீகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cockatow, great sulphur crested-",
+            "ta_term": "வெளிர்மஞ்சள்கொண்டை பெருங்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "coot",
+            "ta_term": "நாமக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "coral",
+            "ta_term": "கடற்பவழம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cormorant, large",
+            "ta_term": "பெரும் நீர்க்காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cormorant, little",
+            "ta_term": "சிறு நீர்க்காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "courser",
+            "ta_term": "கல்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "courser, jerdon’s",
+            "ta_term": "ஜெர்டன் கல்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crake, banded",
+            "ta_term": "கானான் கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crake, ruddy",
+            "ta_term": "செங்கானான் கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crane",
+            "ta_term": "நாரை, கொக்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crane, demoisello (or) black necked",
+            "ta_term": "கருங்கழுத்து நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crane, sarus",
+            "ta_term": "சாரஸ் நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crane, siberian",
+            "ta_term": "சைபீரிய நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "creeper, himalayan tree",
+            "ta_term": "மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cricket",
+            "ta_term": "சுவர்க்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile",
+            "ta_term": "முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, african dwarf",
+            "ta_term": "ஆப்பிரிக்கச் சிறுமுதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, estuarine",
+            "ta_term": "கழிமுக முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, marsh / mugger",
+            "ta_term": "சதுப்புநில முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, morlet",
+            "ta_term": "மோர்லெட் முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, nile",
+            "ta_term": "நைல் முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, salt water",
+            "ta_term": "உவர்நீர் முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crocodile, siamese",
+            "ta_term": "சயாமிய முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crow, common",
+            "ta_term": "காக்கை, காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crow, jungle",
+            "ta_term": "அண்டங்காக்கை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "crow, pheasant",
+            "ta_term": "செம்போத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, (common) hawk",
+            "ta_term": "சிகரக்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, bay banded",
+            "ta_term": "செங்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, drango",
+            "ta_term": "கரிச்சான் குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, indian",
+            "ta_term": "இந்தியக் குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, plaintive",
+            "ta_term": "சிறுகுயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, redwinged crested",
+            "ta_term": "செவ்விறக்கைக் கொண்டைக்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "cuckoo, sikler",
+            "ta_term": "கள்ளிக்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "curlew",
+            "ta_term": "கோட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "curlew, stone",
+            "ta_term": "நத்தைக்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "darter / snake bird",
+            "ta_term": "பாம்புத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, barking",
+            "ta_term": "கேளையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, hog",
+            "ta_term": "வராகமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, mouse (indian chevrotain)",
+            "ta_term": "சருகுமான், எலிமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, musk",
+            "ta_term": "கஸ்தூரிமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, sambar",
+            "ta_term": "கடமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, spotted (or) chital",
+            "ta_term": "புள்ளிமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "deer, swamp / barasingh",
+            "ta_term": "சதுப்புநிலமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dog, indian wild",
+            "ta_term": "இந்தியச்செந்நாய், காட்டுநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dolphin, common",
+            "ta_term": "டால்பின், ஒவாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dolphin, gangetic",
+            "ta_term": "கங்கை ஒவாய், கங்கைக்கடற்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dove",
+            "ta_term": "மணிப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dove, emerald",
+            "ta_term": "பச்சைவண்ணப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dove, little brown",
+            "ta_term": "கள்ளிப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dove, red turtle",
+            "ta_term": "தவிட்டுப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dove, ring",
+            "ta_term": "பொட்டல் செங்காலிப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dove, spotted",
+            "ta_term": "புள்ளிப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "drango, black",
+            "ta_term": "கருங்கரிச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "drango, bronzed",
+            "ta_term": "வெண்கலக் கரிச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "drango, grey",
+            "ta_term": "இரட்டைவால் குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "drango, rocktailed",
+            "ta_term": "துடுப்புவால் கரிச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "drango, whitebellied",
+            "ta_term": "வெள்ளைவயிற்று கரிச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "drango-spangled",
+            "ta_term": "கொண்டைக் கரிச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "duck, common",
+            "ta_term": "வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "duck, spotbill",
+            "ta_term": "புள்ளிமூக்கு வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dugong (or) sea - cow",
+            "ta_term": "கடற்பசு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "dunlin",
+            "ta_term": "டன்லின், உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle",
+            "ta_term": "கருடன், கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, fishing",
+            "ta_term": "மீன்தின்னிக் கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, golden",
+            "ta_term": "தங்கக்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, imperial",
+            "ta_term": "ராஜாக்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, serpent crested",
+            "ta_term": "பாம்புத்தின்னி கொண்டைக் கருடன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, short toed",
+            "ta_term": "குட்டைக்கால் கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, spotted",
+            "ta_term": "புள்ளிக்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, tawny",
+            "ta_term": "ஆளிக்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "eagle, whitebellied sea",
+            "ta_term": "கடற்கழுகு, வெள்ளைவயிற்றுக் கடற்கருடன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "egret, cattle",
+            "ta_term": "மாட்டுஉண்ணிக் குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "egret, heron",
+            "ta_term": "குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "egret, large",
+            "ta_term": "கருங்கால் வெண்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "egret, little",
+            "ta_term": "சிறு வெண்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "egret, smaller",
+            "ta_term": "வெண்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "elephant, african",
+            "ta_term": "ஆப்பிரிக்க யானை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "elephant, indian",
+            "ta_term": "இந்திய யானை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "elephant/asiatic",
+            "ta_term": "ஆசிய யானை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "emu",
+            "ta_term": "எமு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "falcon",
+            "ta_term": "ராசாளி (வெள்ளை லகுடு வேட்டைப்பறவை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flamingo",
+            "ta_term": "கோணமூக்குப் பூநாரை, பவளக்கால் நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flamingo, greater",
+            "ta_term": "பெரும் பூநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flamingo, lesser",
+            "ta_term": "சிறு பூநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flower-pecker, nilgiri",
+            "ta_term": "நீலகிரிப்பூஞ்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flower-pecker, thickbilled",
+            "ta_term": "பூங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flower-pecker, tickell’s",
+            "ta_term": "டிக்கல் பூங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "flying squirrel",
+            "ta_term": "பறக்கும் அணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "fowl, gray guinea",
+            "ta_term": "சாம்பல்நிற கினிக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "fowl, jungle grey",
+            "ta_term": "சாம்பல்நிறக் காட்டுக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "fowl, red spur",
+            "ta_term": "செந்நிற முட்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "fox, indian",
+            "ta_term": "குள்ளநரி, இந்திய வயல்நரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "fox, red",
+            "ta_term": "செந்நரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gadwall",
+            "ta_term": "கருவால் வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "garganey",
+            "ta_term": "நீலச்சிறகு வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gaur/indian bison",
+            "ta_term": "இந்தியக் காட்டெருமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, banded",
+            "ta_term": "புள்ளிவரிப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, banded scaled",
+            "ta_term": "செதில்வரிப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, brook’s",
+            "ta_term": "நீரோடைப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, dwarf",
+            "ta_term": "சிறுபல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, emerald",
+            "ta_term": "பச்சைபல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, gliding",
+            "ta_term": "பறக்கும்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, golden",
+            "ta_term": "பொன்னிறப்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, rock",
+            "ta_term": "மலைப்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gecko, termite hil",
+            "ta_term": "கரையான்குன்றுப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "geeko, bark",
+            "ta_term": "மரப்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "geeko, fat tailed",
+            "ta_term": "பருத்தவால் காட்டுப்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gerbille, indian",
+            "ta_term": "இந்திய மான்எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gerbille, indian desert",
+            "ta_term": "இந்தியப்பாலைவன மான்எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gharial",
+            "ta_term": "கங்கைநீர்முதலை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gibbon, hoolock (or white browed)",
+            "ta_term": "வெண்புருவ மனிதக்குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "giraffe",
+            "ta_term": "ஒட்டைச்சிவிங்கி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "goat, wild",
+            "ta_term": "காட்டு வெள்ளாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "godik, bartailed",
+            "ta_term": "பட்டைவால் மூக்கன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "godik, blacktailed",
+            "ta_term": "கருவால் மூக்கன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "goose",
+            "ta_term": "வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "goose, barheaded",
+            "ta_term": "பட்டைத்தலைத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "goose, white",
+            "ta_term": "வெள்ளை வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "goral",
+            "ta_term": "வெண்கழுத்து மலைக்காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "goshawk, crested",
+            "ta_term": "கொண்டை வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "great tibetan sheep",
+            "ta_term": "திபெத்திய காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "grebe, little",
+            "ta_term": "முக்குளிப்பான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gull, blackheaded",
+            "ta_term": "கருந்தலைக்கடல் வெண்காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gull, brown headed",
+            "ta_term": "பழுப்புத்தலை கடற்காக்கை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gull, great blackhead",
+            "ta_term": "பெருங்கருந்தலை கடற்காக்கை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "gull, herring",
+            "ta_term": "கடற்காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hare",
+            "ta_term": "குழிமுயல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hare, himalayan mouse",
+            "ta_term": "இமய காட்டுமுயல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hare, indian",
+            "ta_term": "இந்திய காட்டுமுயல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "harrier, marsh",
+            "ta_term": "கடல்சேற்று, சதுப்புநிலப் பூனைப்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "harrier, pale",
+            "ta_term": "பூனைப்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk",
+            "ta_term": "வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, besra sparrow",
+            "ta_term": "சிட்டு வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, eagle bonell’s",
+            "ta_term": "ராஜாளி வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, eagle booted",
+            "ta_term": "இறகுபோர்த்தகாலுடைய கழுகு, கருடக்கால் வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, eagle crested",
+            "ta_term": "பாம்புப்பருந்து, கொண்டை வல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, eagle rufous bellied",
+            "ta_term": "கருஞ்சிவப்புவயிற்றுப் பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, owl brown",
+            "ta_term": "வேட்டை ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hawk, sparrow",
+            "ta_term": "சிறுவல்லூறு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hedge hogs",
+            "ta_term": "முள்ளொலிகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hedge hogs, long eared",
+            "ta_term": "நெடுங்காது முள்ளொலிகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron",
+            "ta_term": "வக்கா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, black",
+            "ta_term": "கருநாரை (கொக்கு)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, green",
+            "ta_term": "பச்சைநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, grey",
+            "ta_term": "சாம்பல்நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, night",
+            "ta_term": "இரவுநாரை, இராக்கொக்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, pond",
+            "ta_term": "குளநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, purple",
+            "ta_term": "செந்நீல நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "heron, reef",
+            "ta_term": "பாறை நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hippopotamus",
+            "ta_term": "நீர்யானை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hippopotamus, pigmy",
+            "ta_term": "குள்ள நீர்யானை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hobby",
+            "ta_term": "சிறுலகுடு, சிறுவல்லூறு, சிறுராஜாளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hombill, great pied",
+            "ta_term": "இருவாயன் (பறவை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hombill, grey",
+            "ta_term": "சாம்பல் இருவாயன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hombill, pied",
+            "ta_term": "கருப்புவெள்ளை இருவாயன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hoopoe",
+            "ta_term": "கொண்டலாத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hound",
+            "ta_term": "வேட்டைநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "hyaena, stripped",
+            "ta_term": "வரிக்கழுதைப்புலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ibex",
+            "ta_term": "இபெக்ஸ், காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ibis, black",
+            "ta_term": "கருப்பு அரிவாள்மூக்கன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ibis, glossy",
+            "ta_term": "பனங்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "iguana",
+            "ta_term": "தென்னமெரிக்க ஒணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "iora",
+            "ta_term": "மஞ்சள்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "jacana-bronzewinged",
+            "ta_term": "வெண்கல இறக்கை இலைக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "jacana-pheasant tailed",
+            "ta_term": "நீளவால் இலைக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "jackal",
+            "ta_term": "நரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "jaguar",
+            "ta_term": "தென்னமெரிக்கச் சிறுத்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kangaroo, eastern grey",
+            "ta_term": "கங்காரு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kashmir stag",
+            "ta_term": "காஷ்மீர்மான், கலைமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kestrel",
+            "ta_term": "லகுடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kingfisher, black capped",
+            "ta_term": "கருந்தலை மீன்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kingfisher, blue",
+            "ta_term": "நீல மீன்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kingfisher, pied",
+            "ta_term": "கரும்புள்ளி மீன்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kingfisher, storbilled",
+            "ta_term": "பெருஅலகு மீன்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kingfisher, white breasted",
+            "ta_term": "வெண்மார்பு மீன்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kite",
+            "ta_term": "பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kite, blackwinged",
+            "ta_term": "கரும்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kite, brahminy",
+            "ta_term": "செம்முக வெள்ளைப்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "koel",
+            "ta_term": "குயில், கோகிலம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "kora",
+            "ta_term": "வரகன்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "krait, banded",
+            "ta_term": "பட்டைக் கட்டுவிரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "krait, common indian",
+            "ta_term": "இந்திய கட்டுவிரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "langur, capped / leaf monkey",
+            "ta_term": "தொப்பித்தலை குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "langur, common",
+            "ta_term": "அனுமான் குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "langur, golden",
+            "ta_term": "தங்கநிறக் குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "langur, nilgiri",
+            "ta_term": "நீலகிரிக் கருங்குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lapwing, redwattled",
+            "ta_term": "செம்மூக்கு ஆள்காட்டிப்பறவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lapwing, yellowwattled",
+            "ta_term": "மஞ்சள்மூக்கு ஆள்காட்டி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lark bush",
+            "ta_term": "புதர் வானம்பாடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lark crested",
+            "ta_term": "கொண்டை வானம்பாடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lark, ashycrowned finch",
+            "ta_term": "சாம்பல்தலை வானம்பாடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lark, rufous short toed",
+            "ta_term": "குட்டைவிரல் கருஞ்சிவப்பு வானம்பாடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lark, rufoustailed finch",
+            "ta_term": "சிவப்புவால் வானம்பாடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "leopard, cat",
+            "ta_term": "சிறுத்தைப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "leopard, clouded",
+            "ta_term": "படைச்சிறுத்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "leopard, snow",
+            "ta_term": "பனிச்சிறுத்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "leopard/panther",
+            "ta_term": "சிறுத்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lion",
+            "ta_term": "சிங்கம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "liontailed macaque",
+            "ta_term": "சிங்கவால் குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard",
+            "ta_term": "பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, blue throated",
+            "ta_term": "நீலத்தொண்டைப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, fan - throated",
+            "ta_term": "விசிறித்தொண்டைப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, flying",
+            "ta_term": "பறக்கும் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, garden",
+            "ta_term": "ஓணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, japalura",
+            "ta_term": "இமயப் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, rock",
+            "ta_term": "மலை ஒணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lizard, spiny tailed",
+            "ta_term": "செதில்வால் பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "lorikeet",
+            "ta_term": "குறுங்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "loris",
+            "ta_term": "தேவாங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "love bird, peach faced",
+            "ta_term": "செம்முகக் காதல்பறவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "love bird, skyblue masked",
+            "ta_term": "நீலவான்நிறக் காதல்பறவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "love birds (splits)",
+            "ta_term": "காதல்பறவைகள் (கலப்பு)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "macaque, assamese",
+            "ta_term": "அசாம் குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "macaque, bonnet",
+            "ta_term": "நாட்டுக்குரங்கு, சிறுகுரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "macaque, rhesus",
+            "ta_term": "ரீசஸ் குரங்கு, செங்குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "macaw",
+            "ta_term": "பஞ்சவர்ணக்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "magaby, grey cheeked",
+            "ta_term": "சாம்பல்கன்ன மகாபிக்குரங்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "magpie, redbilled blue tailed",
+            "ta_term": "செவ்வலகன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "magpie, robin",
+            "ta_term": "குண்டுக்கரிச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "malkoha, greenbilled",
+            "ta_term": "பச்சைவாயன் குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "malkoha, redfaced",
+            "ta_term": "செம்முகச் செண்பகக்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mallard",
+            "ta_term": "காட்டுவாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mangoose, crab eating",
+            "ta_term": "நண்டுதின்னும் கீரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "markhor",
+            "ta_term": "மார்கோர், காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "marlin, redheaded",
+            "ta_term": "செந்தலை லகுடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "marmot, himalayan",
+            "ta_term": "இமய அணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "marmot, longtailed",
+            "ta_term": "நீளவால் மலைஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "martin, beech",
+            "ta_term": "அணில் பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "martin, crag",
+            "ta_term": "மலைத் தகைவிலான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "martin, dusky crag",
+            "ta_term": "புகைநிறமலைத் தகைவிலான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "metad",
+            "ta_term": "வயல்எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mice",
+            "ta_term": "சுண்டெலிகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "minvet scarlet",
+            "ta_term": "செஞ்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "minvet small",
+            "ta_term": "சிறுசெஞ்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mole",
+            "ta_term": "துன்னெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mole rat",
+            "ta_term": "துன்னெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mongoose common",
+            "ta_term": "கீரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mongoose, striped necked",
+            "ta_term": "வரிக்கழுத்துக் கீரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "monitor, indian desert",
+            "ta_term": "இந்தியப்பாலைவன உடும்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "monitor, lizard / common indian",
+            "ta_term": "இந்திய நிலஉடும்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "monitor, lizard water",
+            "ta_term": "நீர்உடும்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "monitor, lizard yellow",
+            "ta_term": "மஞ்சள் உடும்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "moor, hen",
+            "ta_term": "தாழைக்கோழி, சதுப்புக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "moor, hen purple",
+            "ta_term": "நீலத்தாழைக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mouse - lemur",
+            "ta_term": "சுண்டெலி, லெம்முர்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mouse, house",
+            "ta_term": "வீட்டுச்சுண்டெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mouse, indian filed",
+            "ta_term": "இந்திய வயல்சுண்டெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mouse, long tailed tree",
+            "ta_term": "நீண்டவால் மரச்சுண்டெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mouse, spiny field",
+            "ta_term": "முள்முடி வயல்சுண்டெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "mouse, wood",
+            "ta_term": "மரச்சுண்டெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "munia, black – headed",
+            "ta_term": "நெல்லுக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "munia, red",
+            "ta_term": "சிவப்புத் தினைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "munia, spotted",
+            "ta_term": "புள்ளித் தினைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "munia, white backed",
+            "ta_term": "வெண்முதுகுத் தினைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "munia, white throated",
+            "ta_term": "வெண்தொண்டைத் தினைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "myna, blackheaded",
+            "ta_term": "கருந்தலைமைனா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "myna, greyheaded",
+            "ta_term": "சாம்பல்தலை மைனா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "myna, hill",
+            "ta_term": "மலை நாகணவாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "myna, indian",
+            "ta_term": "நாகணவாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "myna, jungle",
+            "ta_term": "காட்டு நாகணவாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "myna, pied",
+            "ta_term": "பொரிமைனா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "nightjar, jungle",
+            "ta_term": "காட்டுப்பக்கி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "nightjar, little",
+            "ta_term": "சிறுபக்கி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "nut, hatch velvet fronted",
+            "ta_term": "பூம்பட்டுத்தலை சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "nut, hatch-chestnutbellied",
+            "ta_term": "பாக்கு சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "opossum",
+            "ta_term": "பைக்கீரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "oriole, blackheaded",
+            "ta_term": "கருத்தலை மாங்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "oriole, blacknapped",
+            "ta_term": "கரும்பிடரி மாங்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "oriole, golden",
+            "ta_term": "மாங்குயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "osprey",
+            "ta_term": "கடற்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ostrich",
+            "ta_term": "நெருப்புக்கோழி, தீக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "otter, common",
+            "ta_term": "நீர்நாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, barn / screech",
+            "ta_term": "வயல்ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, brown fish",
+            "ta_term": "மீன்ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, brown wood",
+            "ta_term": "பழுப்புக்காட்டு ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, collared scops",
+            "ta_term": "பட்டக்கழுத்து ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, duskyhorned",
+            "ta_term": "புகைநிறக்கொம்பு ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, forest eagle",
+            "ta_term": "பெரிய வனஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, grass",
+            "ta_term": "புல்ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, horned eagle",
+            "ta_term": "கொம்பாந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, mottled wood",
+            "ta_term": "பொரிப்புள்ளி ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, scops",
+            "ta_term": "சிறிய புல்ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owl, short-eared",
+            "ta_term": "சிறுகாது ஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owlet, barred jungle",
+            "ta_term": "சிறிய காட்டுஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "owlet, spotted",
+            "ta_term": "சிறிய புள்ளிஆந்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "oyster, catcher",
+            "ta_term": "சிப்பிக்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "panda, red",
+            "ta_term": "சிவப்புப்பாண்டா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pangolin, indian",
+            "ta_term": "இந்திய எறும்புத்தின்னி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "parakeet, blossom headed",
+            "ta_term": "பூந்தலைக்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "parakeet, bluewinged",
+            "ta_term": "நீல இறக்கைக்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "parakeet, large / alexandrine",
+            "ta_term": "பெரும்பசுங்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "parakeet, redbreasted",
+            "ta_term": "செம்மார்புக்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "parakeet, roseringed",
+            "ta_term": "செந்தார்க்கிளி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "partidge, painted",
+            "ta_term": "வண்ணக்கௌதாரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "partridge, grey",
+            "ta_term": "சாம்பல் கௌதாரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "peacock white",
+            "ta_term": "வெண்மயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "peafowl",
+            "ta_term": "மயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "peahen",
+            "ta_term": "பெண்மயில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pelican",
+            "ta_term": "கூழைக்கடா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "petrel, storm",
+            "ta_term": "கடல்பக்கி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pheasant",
+            "ta_term": "வண்ணக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pheasant, kaleej",
+            "ta_term": "காட்டுக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pheasant, kaliji",
+            "ta_term": "நெடுவால்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pheasant, ring necked",
+            "ta_term": "வளையக்கழுத்து நெடுவால்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pheasant, ringnecked",
+            "ta_term": "வளையக்கழுத்துக்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pheasant, silver",
+            "ta_term": "வெள்ளிநிற நெடுவால்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "phython",
+            "ta_term": "மலைப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pig, wild / wild - boar",
+            "ta_term": "காட்டுப்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pigeon, blue rock",
+            "ta_term": "மாடப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pigeon, green",
+            "ta_term": "பச்சைப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pigeon, grey fronted green",
+            "ta_term": "சாம்பல்தலைப் பச்சைப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pigeon, imperial green",
+            "ta_term": "பெரும் பச்சைப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pigeon, jerdon’s",
+            "ta_term": "ஜெர்டான் புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pigeon, nilgiri wood",
+            "ta_term": "நீலகிரி காட்டுப்புறா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pintail",
+            "ta_term": "ஊசிவால் வாத்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pipit, nilgiri",
+            "ta_term": "நீலகிரி நெட்டைக்காலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pipit, richard’s",
+            "ta_term": "ரிச்சார்டு நெட்டைக்காலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pipit, roch",
+            "ta_term": "மலைநெட்டைக்காலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pipit, tree",
+            "ta_term": "மரநெட்டக்காலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pitta",
+            "ta_term": "ஆறுமணிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "plover, blackbellied",
+            "ta_term": "சாம்பல் உப்புக்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "plover, crab",
+            "ta_term": "நண்டுதின்னும் உப்புக்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "plover, gloden",
+            "ta_term": "தங்கநிற உப்புக்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "plover, greatstone",
+            "ta_term": "முயல்கினாத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "plover, little ringed",
+            "ta_term": "பட்டாணி உள்ளான், பட்டாணி உப்புக்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pochard, redcrested",
+            "ta_term": "செங்கிளுவைக்களியன், சிவப்பு கொண்டைக்களியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pochard, white eyed",
+            "ta_term": "வெள்ளைக்கண்களியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "polecat, marbled",
+            "ta_term": "பளிங்குக் குருவப்பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "porcupine",
+            "ta_term": "முள்ளம்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "porcupine brush tailed",
+            "ta_term": "தூரிகைவால் முள்ளம்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "porcupine, bengal",
+            "ta_term": "வங்க முள்ளம்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "porpoise",
+            "ta_term": "கடற்பன்றி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "pratincole",
+            "ta_term": "தோல்குருவி, உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "python",
+            "ta_term": "மலைப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "quail, blackbreasted",
+            "ta_term": "கருநெஞ்சுக்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "quail, bush",
+            "ta_term": "புதர்க்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "quail, bustard",
+            "ta_term": "குறுங்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "quail, button",
+            "ta_term": "மணிக்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "quail, grey",
+            "ta_term": "பூழான்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "quail, painted bush",
+            "ta_term": "வண்ணக்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rabbit",
+            "ta_term": "முயல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rail, banded",
+            "ta_term": "நீலமார்பு கானான்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rat, bamboo",
+            "ta_term": "மூங்கில் எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rat, brown",
+            "ta_term": "பழுப்புநிற வீட்டுஎலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rat, bush",
+            "ta_term": "காட்டுஎலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rat, field",
+            "ta_term": "வயல்எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rat, wood white tailed",
+            "ta_term": "வெள்ளைவால் மரஎலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "redstart black",
+            "ta_term": "செவ்வாலி (பறவை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rhinoceros / rhino",
+            "ta_term": "காண்டாமிருகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rhinocerus, horned",
+            "ta_term": "ஆசிய இரட்டைக்கொம்பு காண்டாமிருகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "robin, black backed",
+            "ta_term": "கரிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rodents",
+            "ta_term": "கொறிக்கும்விலங்குகள்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "roller",
+            "ta_term": "பனங்காடை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "rose finch",
+            "ta_term": "கூம்பலகுச்சில்லை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "ruff",
+            "ta_term": "பேதைஉள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "saindpiper, common",
+            "ta_term": "உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sand boa, common",
+            "ta_term": "உழவன் பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sand boa, red",
+            "ta_term": "சிவப்பு மண்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sanderling",
+            "ta_term": "வெள்ளைஉள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sandgrouse",
+            "ta_term": "மணற்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sandgrousepainted",
+            "ta_term": "வண்ணக்கௌதாரி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sandpiper, broadbilled",
+            "ta_term": "அகன்றஅலகு உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sandpiper, curlew",
+            "ta_term": "மண் உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sandpiper, green",
+            "ta_term": "ஆற்று உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sandpiper, spotted",
+            "ta_term": "காட்டு உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sea - cow (or) dugong",
+            "ta_term": "கடற்பசு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sea gull, brown headed",
+            "ta_term": "பழுப்புத்தலை கடற்காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sea gull, herring",
+            "ta_term": "கடற்காகம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "seals",
+            "ta_term": "சீல், கடல்நாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "serotine",
+            "ta_term": "தட்டைத்தலை வௌவால்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shag",
+            "ta_term": "நெடுங்கழுத்தான் (பறவை)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shank, green",
+            "ta_term": "பச்சைக்காலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shank, red",
+            "ta_term": "பவளக்காலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shedluck, ruddy",
+            "ta_term": "கருடத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sheep, blue (bharal)",
+            "ta_term": "நீல மலையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sheep, great tibetan (nayar)",
+            "ta_term": "திபெத்தியக்காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sheep, marco polo’s",
+            "ta_term": "மார்கோபோலோவின் காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sheeru",
+            "ta_term": "இமயக்கருங்காது காட்டாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shelduck, common",
+            "ta_term": "காட்டுத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shikra",
+            "ta_term": "செம்பருந்து"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shortwing, rufourbellied",
+            "ta_term": "செவ்வயிற்றுக் குட்டையன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shoveller",
+            "ta_term": "தட்டவாயன் (வாத்து)"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrews, indian tree",
+            "ta_term": "இந்தியக்காட்டு மரச்சுண்டெலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, ashyswallow",
+            "ta_term": "சாம்பல் கீச்சான், சாம்பல் நிறத் தகைவிலான் கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, baybacked",
+            "ta_term": "செம்முதுகு பருந்து கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, blackyhead",
+            "ta_term": "கருந்தலை கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, brown",
+            "ta_term": "பழுப்பு கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, grey",
+            "ta_term": "கருங்கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, large cuckoo",
+            "ta_term": "பெருங்குயில் கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, pied fly catcher",
+            "ta_term": "ஈயுண்ணி கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, rufousbacked",
+            "ta_term": "காட்டு கருஞ்சாம்பல் கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "shrike, wood",
+            "ta_term": "காட்டு கீச்சான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, common",
+            "ta_term": "தோட்டத்து அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, himalayan small",
+            "ta_term": "இமயச்சிறு ஒணான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, little",
+            "ta_term": "சிறு அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, sand",
+            "ta_term": "மணல் அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, sandfish",
+            "ta_term": "குழி அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, sikkim small",
+            "ta_term": "சிக்கிம் சிறு அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, snake",
+            "ta_term": "பாம்பு அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skink, western ghat",
+            "ta_term": "கேரள காட்டு அரணை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sky blue masked love bird",
+            "ta_term": "நீல காதல்பறவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "skylark, small",
+            "ta_term": "வானம்பாடி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake",
+            "ta_term": "பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake yellow sea",
+            "ta_term": "மஞ்சள் கடல்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, beaked blind",
+            "ta_term": "அலகுமூக்கு குருட்டுப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, cat",
+            "ta_term": "காமாபாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, checkered keelback",
+            "ta_term": "தண்ணீர்ப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, common blind",
+            "ta_term": "செவிப்பாம்பு, குருட்டுப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, common wolf",
+            "ta_term": "விரியன்பாம்பு வகை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, condamrous sand",
+            "ta_term": "செம்மஞ்சள்வயிறு மண்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, copper head",
+            "ta_term": "செம்புத்தலைப் பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, diard’s blind",
+            "ta_term": "டயர்ஸ் மண்ணுளிப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, eastern gamma",
+            "ta_term": "கிழக்குப்பிரதேச காமாபாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, estuarine",
+            "ta_term": "கழிமுக நீர்ப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, flat tail",
+            "ta_term": "புள்ளிக்கடல் பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, golden tree/ flying",
+            "ta_term": "தங்கநிற கொம்பேறிமூக்கன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, green /vine/ whip",
+            "ta_term": "பச்சைப்பாம்பு, கண்கொத்திப் பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, green keel back",
+            "ta_term": "பச்சைநீர்ப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, hook - nosed sea 1 (or) valakadiyan",
+            "ta_term": "வளைக்கடியன், கொக்கிமூக்குப் பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, macclelland’s coral",
+            "ta_term": "பல்வண்ண பவளப்பாறை பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, olive keelback",
+            "ta_term": "பசும் நீர்ப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, rat",
+            "ta_term": "சாரைப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, russell’s / variegated kukri",
+            "ta_term": "கண்ணாடிவிரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, show’s wolf",
+            "ta_term": "சங்குவிரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, slender coral",
+            "ta_term": "பவளப்பாறை பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, tranvancore wolf",
+            "ta_term": "தென்னிந்திய விரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, tree",
+            "ta_term": "கொம்பேறிமூக்கன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snake, trinket / beauty",
+            "ta_term": "அழகுப்பாம்பு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snipe, fantail",
+            "ta_term": "விசிறிவால் உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snipe, jack",
+            "ta_term": "கோரை உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snipe, painted",
+            "ta_term": "மயில் உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snipe, pintail",
+            "ta_term": "கூர்வால் உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "snow leopard",
+            "ta_term": "பனிச்சிறுத்தை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sparrow, house",
+            "ta_term": "சிட்டுக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sparrow, wood",
+            "ta_term": "துடுப்புக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sparrow, yellowthroad",
+            "ta_term": "மஞ்சள்கொண்டைச் சிட்டுக் குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "spider - hunter",
+            "ta_term": "சிலந்திப்பிடிப்பான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "spoon billl",
+            "ta_term": "துடுப்புமூக்கு நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "spurfowl, red",
+            "ta_term": "கண்டாங்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, common giant flying",
+            "ta_term": "பறக்கும் மலைஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, five striped palm",
+            "ta_term": "ஐந்துவரி மரஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, giant grizzled",
+            "ta_term": "சாம்பல்நிற மலைஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, giant malabar / indian",
+            "ta_term": "மலபார், இந்திய அணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, himalayan striped",
+            "ta_term": "இமயஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, hoary belled himalayan",
+            "ta_term": "செம்பவளவயிற்று இமயஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "squirrel, three striped palm",
+            "ta_term": "மூன்றுவரி மரஅணில்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stag",
+            "ta_term": "கலைமான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "starling, rosy",
+            "ta_term": "சூரைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stilt, blackwinged",
+            "ta_term": "கருப்பு உள்ளான் (அ) பவளக் கொத்தி உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stint, little",
+            "ta_term": "கொசு உள்ளான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork",
+            "ta_term": "நாரை, கொக்கு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork, adjutant",
+            "ta_term": "சிப்பாய்நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork, black necked",
+            "ta_term": "கருங்கழுத்துநாரை (அ) பெருங்குருகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork, openbilled",
+            "ta_term": "அகலவாய்நாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork, painted",
+            "ta_term": "வண்ணநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork, white",
+            "ta_term": "வெள்ளைநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "stork, white necked",
+            "ta_term": "வெண்கழுத்துநாரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sunbird, marconbreasted",
+            "ta_term": "தேன்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sunbird, purple",
+            "ta_term": "ஊதா தேன்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sunbird, purplerumped",
+            "ta_term": "ஊதா தேன்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "sunbird, yellow backed",
+            "ta_term": "மஞ்சள் முதுகுத்தேன்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swallow",
+            "ta_term": "து£க்கணாங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swallow, house",
+            "ta_term": "நாட்டுத் தகைவிலான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swallow, wiretailed",
+            "ta_term": "செம்பிட்டத் தகைவிலான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swan",
+            "ta_term": "அன்னம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swan, (whooper)",
+            "ta_term": "அன்னம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swan, black",
+            "ta_term": "காசன்னம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swan, mute",
+            "ta_term": "ஊமைஅன்னம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swift, alpine",
+            "ta_term": "ஆல்பைன் உழவாரன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swift, crested tree",
+            "ta_term": "கொண்டை உழவாரன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swift, house",
+            "ta_term": "வீட்டு உழவாரக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swift, plam",
+            "ta_term": "பனை உழவாரன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "swiftlet",
+            "ta_term": "கூட்டு உழவாரன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tahr, himalayan",
+            "ta_term": "இமய வரையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tahr, nilgiri",
+            "ta_term": "நீலகிரி வரையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tailor bird",
+            "ta_term": "தையல்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "takin",
+            "ta_term": "பூட்டான் மலையாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "teal",
+            "ta_term": "நன்னீர்க்கிளுவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "teal, common",
+            "ta_term": "கிளுவைத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "teal, cottam",
+            "ta_term": "குள்ளத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "teal, lesser whistling",
+            "ta_term": "கீச்சுக்கிளுவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, blackbellied",
+            "ta_term": "கரும்வயிற்று ஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, caspian",
+            "ta_term": "காஸ்பியன் ஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, gullbilled",
+            "ta_term": "பெருஅலகு ஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, lesser crested",
+            "ta_term": "கொண்டை கடல்ஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, little",
+            "ta_term": "சிறு கடல்ஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, river",
+            "ta_term": "ஆற்றுஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, roseate",
+            "ta_term": "ரோசாமார்பு கடல்ஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tern, whiskered",
+            "ta_term": "சேற்றுஆலா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "terrapin",
+            "ta_term": "ஆற்றுநீர் ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thamin",
+            "ta_term": "மணிப்பூர் மான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thrush, blue headed",
+            "ta_term": "நீலத்தலைப் பூங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thrush, blue rock",
+            "ta_term": "நீலப்பூங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thrush, malabar whistling",
+            "ta_term": "சீகாரப் பூங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thrush, nilgiri",
+            "ta_term": "நீலகிரிப் பூங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thrush, pied ground",
+            "ta_term": "பொரிப் பூங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "thrush, white throat ground",
+            "ta_term": "வெண்தொண்டைப் பூங்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tiger",
+            "ta_term": "புலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tiger, bengal",
+            "ta_term": "வங்கப்புலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tit, grey",
+            "ta_term": "பட்டாணிக்குருவி, சாம்பல்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tit, whitewinged",
+            "ta_term": "வெண்சிறகு பட்டாணிக்குருவி, நல்லப்பட்டாணிச்சிட்டு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tit, yellowchecked",
+            "ta_term": "மஞ்சள்கன்னப் பட்டாணிக் குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "toad",
+            "ta_term": "தேரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "toad, garo hills tree",
+            "ta_term": "காரோ மலைமரத்தேரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "toad, malabar tree",
+            "ta_term": "மலபார் மரத்தேரை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "toddy cat (or) common palm civet",
+            "ta_term": "மரம்ஏறும் பூனை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tortoise",
+            "ta_term": "நிலஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tortoise, aldabra",
+            "ta_term": "அல்டப்ரா ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tortoise, eastern hill tuptoo",
+            "ta_term": "கிழக்குமலை நிலஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tortoise, indian star",
+            "ta_term": "இந்திய நட்சத்திரஆமை, கல் ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tortoise, travancore",
+            "ta_term": "திருவாங்கூர் ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "treepic, white bellied",
+            "ta_term": "நீலவால் காக்கை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "treepie",
+            "ta_term": "வால் காக்கை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "trogon",
+            "ta_term": "வண்டுக்குத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tsaine/banteng",
+            "ta_term": "காட்டுமாடு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "tuptoo",
+            "ta_term": "கிழக்கிந்திய வீட்டுப்பல்லி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turnstone",
+            "ta_term": "கல்புரட்டிக் கோட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle",
+            "ta_term": "கடல்ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle, flapshelled / turtlemud",
+            "ta_term": "சேற்றுநீர் ஆமை, பால்ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle, green sea",
+            "ta_term": "பச்சை ஆமை, கடல் ஆமை, பேராமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle, indian pond",
+            "ta_term": "இந்திய குளத்து ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle, leather back",
+            "ta_term": "தோல்முதுகு ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle, small roofed",
+            "ta_term": "கூடாரக் கடல்ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "turtle, three striped roofed",
+            "ta_term": "மூவரிக்கூடாரக் கடல்ஆமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "viper, green/bamboopit",
+            "ta_term": "பச்சைக்குழி விரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "viper, himalayan pit",
+            "ta_term": "இமயக்குழி விரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "viper, hump nosed pit",
+            "ta_term": "கூன்மூக்குக்குழி விரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "viper, russel’s",
+            "ta_term": "கண்ணாடி விரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "viper, sawsealed",
+            "ta_term": "சுருட்டை விரியன்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "vole, royal",
+            "ta_term": "பனி எலி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "vulture",
+            "ta_term": "கழுகு, எருவை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "vulture, black",
+            "ta_term": "கருங்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "vulture, griffon",
+            "ta_term": "பிணந்தின்னிக்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "vulture, longbilled",
+            "ta_term": "நீண்டஅலகு பிணந்தின்னிக்கழுகு, பொகுவல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "vulture, scavenger",
+            "ta_term": "தோட்டிக்கழுகு"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wagtail, forest",
+            "ta_term": "காட்டு வாலாட்டிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wagtail, grey",
+            "ta_term": "கருஞ்சாம்பல் வாலாட்டி, சாம்பல் நிற வாலாட்டிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wagtail, greyheaded yellow",
+            "ta_term": "கருந்தலை மஞ்சள் வாலாட்டிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wagtail, large pied",
+            "ta_term": "பொரி வாலாட்டிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wagtail, yellow headed",
+            "ta_term": "மஞ்சள் வாலாட்டிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler",
+            "ta_term": "கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, ashywren",
+            "ta_term": "சாம்பல்நிற கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, booted tree",
+            "ta_term": "மரக்கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, broadtailed grass",
+            "ta_term": "புல் கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, crowned leaf",
+            "ta_term": "பட்டைத்தலை கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, grasshopper",
+            "ta_term": "தத்துக்கிளி கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, great reed",
+            "ta_term": "நாணல் கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, jungle wren",
+            "ta_term": "காட்டுக் கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, redheaded fantail",
+            "ta_term": "செந்தலை விசிறிவால் கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warbler, streaked fantail",
+            "ta_term": "விசிறிவால் தினைக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "warterhen, whitebreasted",
+            "ta_term": "நீர்க்கோழி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "weaseal, pale",
+            "ta_term": "வெளிர் மரநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "weasel, ermine",
+            "ta_term": "இமயப்பனி மரநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "weasel, small white muzzled",
+            "ta_term": "வெள்ளைமூக்கு மரநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "weasel, stripedbacked",
+            "ta_term": "வரிமுதுகு மரநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "weasel, yellowbellied",
+            "ta_term": "மஞ்சள்வயிற்று மரநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wes-tern trangopan",
+            "ta_term": "வெள்ளை வாலாட்டிக்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "whale, blue",
+            "ta_term": "நீலத்திமிங்கிலம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "whale, sperm",
+            "ta_term": "ஸ்பெர்ம் திமிங்கிலம், மாவிழைக்கொழுப்புத் திமிங்கிலம்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "whimbral",
+            "ta_term": "கோட்டான்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "white eye",
+            "ta_term": "வெள்ளைக்கண் குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "white throat, lesser",
+            "ta_term": "வெண்தொண்டைக் கதிர்க்குருவி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wigeon",
+            "ta_term": "நாமத்தலைத்தாரா"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wolf",
+            "ta_term": "ஓநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wolf indian",
+            "ta_term": "இந்திய ஓநாய்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "wood cock",
+            "ta_term": "மரச்சேவல்"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpeckder, greatblack",
+            "ta_term": "பெருங்கருப்பு மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, blackbacked",
+            "ta_term": "கருமுதுகு மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, golden backed",
+            "ta_term": "பொன்முதுகு மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, heartspotted",
+            "ta_term": "கரும்புள்ளி மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, pygmy",
+            "ta_term": "சிறிய மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, rufous",
+            "ta_term": "கருஞ்சிவப்பு மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, scalybellied",
+            "ta_term": "செதிள்வயிற்று மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "woodpecker, yellowfronted",
+            "ta_term": "மஞ்சள்நெற்றி மரங்கொத்தி"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "yak, wild",
+            "ta_term": "சடைமாடு, கடமா, சடைஎருமை"
+        },
+        {
+            "subject": "Animals",
+            "en_term": "zebra",
+            "ta_term": "வரிக்குதிரை"
+        }
+    ]
+}

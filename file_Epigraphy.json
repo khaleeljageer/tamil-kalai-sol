@@ -1,0 +1,4019 @@
+{
+    "tamil_glossary": [
+        {
+            "subject": "Epigraphy",
+            "en_term": "aborigines",
+            "ta_term": "பழங்குடிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "absolute",
+            "ta_term": "வரம்பற்ற, தனி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "acrostic poem",
+            "ta_term": "கரந்துறைப் பாட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "act of security",
+            "ta_term": "பாதுகாப்புச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "act of union",
+            "ta_term": "ஐக்கியச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "adhoc committee",
+            "ta_term": "தற்காலிகக் குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administration",
+            "ta_term": "நிருவாகம், ஆளுகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administration adjudication",
+            "ta_term": "ஆட்சித்துறைத் தீர்ப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administrative assembly of a village",
+            "ta_term": "ஊராட்சி மன்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administrative function",
+            "ta_term": "நிருவாகச் செயல், ஆட்சிச் செயல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administrative institutions",
+            "ta_term": "ஆட்சி நிறுவனங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administrative law",
+            "ta_term": "ஆட்சித்துறைச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "administrator",
+            "ta_term": "ஆட்சியர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "adowson",
+            "ta_term": "திருக்கோயில் பதவிகளுக்கு ஆள் அமர்த்தும் உரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "adult franchise",
+            "ta_term": "வயதுவந்தோர் வாக்குரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "advalorem duty",
+            "ta_term": "பெறுமான விகிதவரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "advisor",
+            "ta_term": "அறிவுரைஞர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "adze",
+            "ta_term": "செதுக்குளி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "agar romanus",
+            "ta_term": "புட்குறி பார்ப்போர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aggression",
+            "ta_term": "வலுத்தாக்குதல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "agreement of the people",
+            "ta_term": "மக்கள் உடன்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "agricultural holdings act",
+            "ta_term": "வேளாண் நிலவுடைமைச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "agricultural proletariat",
+            "ta_term": "வேளாண் கூலித்தொழிலாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aisle",
+            "ta_term": "இடைகழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aldermen",
+            "ta_term": "வணிகக்குழுத் தலைவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "algebra",
+            "ta_term": "இயற்கணிதம், அறமம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aliens",
+            "ta_term": "அந்நியர், அயலர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "allegory",
+            "ta_term": "தொடர் உருவம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "allocation of seats",
+            "ta_term": "இடஒதுக்கீடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "allowances",
+            "ta_term": "படிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "alluvial plain",
+            "ta_term": "வண்டல் சமவெளி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "almug",
+            "ta_term": "அகில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "altar",
+            "ta_term": "படையல் மேடை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "alternate vote system",
+            "ta_term": "மாற்று வாக்குமுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ambassador",
+            "ta_term": "தூதர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "amendments of the constitution",
+            "ta_term": "அரசியலமைப்பியல் திருத்தங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "amethyst",
+            "ta_term": "செவ்வந்திக்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "amphorae jars",
+            "ta_term": "இத்தாலி, கிரிஸ் மட்கலன்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "amulet",
+            "ta_term": "தாயத்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ancient",
+            "ta_term": "பழம், பண்டைய"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "animism",
+            "ta_term": "ஆவியுலகக் கோட்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "annals",
+            "ta_term": "ஆண்டுப் பதிவுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ante chamber",
+            "ta_term": "இடைக்கூடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "antelope",
+            "ta_term": "கலைமான்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "anthropology",
+            "ta_term": "இனமரபியல், மானிடவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "anthropomorphic figure",
+            "ta_term": "விலங்கு மனிதஉரு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "antimony",
+            "ta_term": "அஞ்சனக்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "anti-thesis",
+            "ta_term": "எதிர்கோள், மறிகோள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "antler",
+            "ta_term": "கொம்புடை விலங்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "apartheid",
+            "ta_term": "இன ஒதுக்கல் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aphorism",
+            "ta_term": "மணிமொழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "apostle",
+            "ta_term": "திருத்தூதர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "appeal",
+            "ta_term": "மேல்முறையீடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "appellate jurisdiction",
+            "ta_term": "மேல்முறையீட்டு அதிகாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "appellate jurisdiction act",
+            "ta_term": "மேல்முறையீட்டு (விசாரணை) அதிகாரச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "appropriation of supply",
+            "ta_term": "பண ஒதுக்கீடு, வழங்கல் ஒதுக்கீடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "apse",
+            "ta_term": "திருக்கோயிலின் அரைவட்ட ஒதுக்கிடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aqueduct",
+            "ta_term": "கால்வாய்ப் பாலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aquiline",
+            "ta_term": "நீண்ட வளைந்த அலகு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "arbitrary method",
+            "ta_term": "நெறிசாராப் போக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "arch bishop",
+            "ta_term": "தலைமை குரு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "arch way",
+            "ta_term": "வில்வளைவு விதானம், கவிகை வழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "archaeologist",
+            "ta_term": "தொல்லியலார்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "archaeology",
+            "ta_term": "தொல்லியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "archaic state",
+            "ta_term": "தொல் அரசு, தொடக்கநிலை அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "architecture",
+            "ta_term": "கட்டடக்கலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aristocracy",
+            "ta_term": "உயர்குடியாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "armistice",
+            "ta_term": "தற்காலிகப் போர்நிறுத்த ஒப்பந்தம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "arretine",
+            "ta_term": "அரிட்டைன் மட்கலங்கள் (இத்தாலி)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "articles",
+            "ta_term": "சரக்கு, பொருள், விதிப் பிரிவுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "articles of barons",
+            "ta_term": "பிரபுக்களின் விதிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "artisan",
+            "ta_term": "கைவினைஞர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "artisan dwelling act",
+            "ta_term": "கைவினைஞர் குடியிருப்புச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "asiatic mode of production",
+            "ta_term": "ஆசிய உற்பத்தி முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "aspirated consonant",
+            "ta_term": "மூச்சொலி கலந்த மெய்யெழுத்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "assembly",
+            "ta_term": "சட்டமன்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "assessment",
+            "ta_term": "தீர்வை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "assize",
+            "ta_term": "(ஆங்கிலேய நீதிமன்ற) விசாரணை நடவடிக்கை, சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "assize of arms",
+            "ta_term": "படைக்கருவிகள் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "atlantic charter",
+            "ta_term": "அட்லாண்டிக் சாசனம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "atomism",
+            "ta_term": "அணுக்கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "audience hall",
+            "ta_term": "பார்வையாளர் அறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "audit",
+            "ta_term": "தணிக்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "auditor general",
+            "ta_term": "தணிக்கையர் தலைவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "augury",
+            "ta_term": "புட்குறி, வருவதுரைத்தல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "authority",
+            "ta_term": "அதிகாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "autocracy",
+            "ta_term": "தன்னரசு, தனியர் அதிகாரமுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "autonomous regions",
+            "ta_term": "தன்னாட்சி மண்டலங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "autonomus republics",
+            "ta_term": "தன்னாட்சி குடியரசுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "autonomy",
+            "ta_term": "தன்னாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "awl",
+            "ta_term": "தமரூசி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "axis",
+            "ta_term": "அச்சு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "backward economy",
+            "ta_term": "பின்தங்கிய பொருளாதாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "backwaters",
+            "ta_term": "உப்பங்கழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "balance",
+            "ta_term": "சமநிலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "balance of power",
+            "ta_term": "அதிகாரச் சமநிலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "balkanisation",
+            "ta_term": "சின்னஞ்சிறு நாடுகளாகத் துண்டாடும் முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ballad",
+            "ta_term": "கதைப்பாட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "balles letters",
+            "ta_term": "கவின்கலை இலக்கியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ballot",
+            "ta_term": "வாக்குச்சீட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "baptism",
+            "ta_term": "ஞானக் குளிப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "base",
+            "ta_term": "தூணின் அடிக்கட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "basrelief",
+            "ta_term": "புடைப்புரு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bed rock",
+            "ta_term": "அடித்தளப் பாறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "berths",
+            "ta_term": "துறைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "beryl",
+            "ta_term": "பச்சைக்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bicameralism, bicameral legistrature",
+            "ta_term": "ஈரவைச் சட்டமன்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bight",
+            "ta_term": "விரிகுடா"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bill of rights",
+            "ta_term": "உரிமைகளின் சட்டவரைவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bills of exchange",
+            "ta_term": "அயற்செலாவணிச் சீட்டுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bishop",
+            "ta_term": "ஆயர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bituminous",
+            "ta_term": "புகைமிகு நிலக்கரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "black and red ware",
+            "ta_term": "கறுப்பு சிவப்பு மட்பாண்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "black market",
+            "ta_term": "கள்ளச் சந்தை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "blades",
+            "ta_term": "இருபக்க அலகுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "boundary commission",
+            "ta_term": "எல்லை வரையறை ஆணையம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bronze",
+            "ta_term": "வெண்கலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "brown slipped ware",
+            "ta_term": "பழுப்புநிற மட்கலன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "buffer state",
+            "ta_term": "இடைப்படு நாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bullion",
+            "ta_term": "தங்கக் கட்டிகள், உயர் உலோகங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "bureaucracy",
+            "ta_term": "அரசு அலுவலர் அமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "burin",
+            "ta_term": "செதுக்குக்கருவி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "burnished",
+            "ta_term": "தேய்த்து பளபளப்பாக்கிய, மினுமினுப்பூட்டிய"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "buttress",
+            "ta_term": "சுவர்தாங்கி மூட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cabinet",
+            "ta_term": "அமைச்சரவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cabinet government",
+            "ta_term": "அமைச்சரவை அரசாங்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "calico",
+            "ta_term": "வெண்ணிறப் பருத்தித்துணி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "canopus",
+            "ta_term": "அகத்திய விண்மீன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cape",
+            "ta_term": "முனை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "capital",
+            "ta_term": "தூண் தலைப்புறுப்பு, மூலதனம், தலைநகர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "capital accumulation",
+            "ta_term": "முதல் திரட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "capital formation",
+            "ta_term": "முதலாக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "capital goods",
+            "ta_term": "முதற் கருவிப்பொருள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "capitalism",
+            "ta_term": "முதலாளியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "caravan",
+            "ta_term": "வணிகச் சாத்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "carbon 14 dating",
+            "ta_term": "கரிமம் 14 காலக்கணிப்பு முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cardamon",
+            "ta_term": "ஏலக்காய்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cardinal utility",
+            "ta_term": "அளவிடத்தகுப் பயன்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "carnelian",
+            "ta_term": "சூதுபவளம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cash plan",
+            "ta_term": "பணத்திட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cassia",
+            "ta_term": "நிலவாகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "caste",
+            "ta_term": "வகுப்பு, சாதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "casting vote",
+            "ta_term": "முடிவு வாக்கு, வாக்களித்தல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cathedral",
+            "ta_term": "பெரியமாதா கோயில், திருச்சபை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cattle lifting",
+            "ta_term": "ஆநிரை கவர்தல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "caves",
+            "ta_term": "குகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cedar",
+            "ta_term": "செவ்வகில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "centralisation",
+            "ta_term": "அதிகாரக்குவிப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "centralised government",
+            "ta_term": "குவிந்த ஆட்சியமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ceremony",
+            "ta_term": "சடங்கு, விழா"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chairman",
+            "ta_term": "தலைவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chalcedony",
+            "ta_term": "நீலச்சாயல் வெண்மணிக்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chalcolithic",
+            "ta_term": "செப்புக்காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cheyroot",
+            "ta_term": "சிவப்புச்சாய வேர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chief justice",
+            "ta_term": "தலைமை நீதிபதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chisel",
+            "ta_term": "உளி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chivalry",
+            "ta_term": "வீரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "chopper",
+            "ta_term": "தறிப்பி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "church",
+            "ta_term": "திருச்சபை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cion moulds",
+            "ta_term": "காசுகளை வார்க்கும் அச்சு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "circumambulations",
+            "ta_term": "வலம்வரல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "city states",
+            "ta_term": "நகர அரசுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "civil law",
+            "ta_term": "குடிமையியல் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "civil servants",
+            "ta_term": "குடிமுறைப் பணியாட்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "civilization",
+            "ta_term": "நாகரிகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "clan",
+            "ta_term": "குலம், தாயாதிக் கூட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "class struggle",
+            "ta_term": "வர்க்கப் போராட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "classical",
+            "ta_term": "செவ்வியல், தொன்மை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "classical economist",
+            "ta_term": "தொன்மைப் பொருளியல்வாதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cleaver",
+            "ta_term": "வெட்டுகத்தி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "clergy",
+            "ta_term": "சமயக்குருக்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "clerk",
+            "ta_term": "வரைவாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "clients",
+            "ta_term": "வாடிக்கையாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cliff",
+            "ta_term": "செங்குத்துப் பாறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "coarse red ware",
+            "ta_term": "பருவட்டான சிவப்பு மட்கலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "coefficients of proportionality",
+            "ta_term": "விகிதசமக் கெழுக்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "collective farm",
+            "ta_term": "கூட்டுப் பண்ணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "collective responsibility",
+            "ta_term": "கூட்டுப் பொறுப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "commercial town",
+            "ta_term": "நகரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "commissariat of finance",
+            "ta_term": "நிதி அமைச்சரவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "commissariat of food",
+            "ta_term": "உணவு அமைச்சரவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "commissariat of internal trade",
+            "ta_term": "உள்நாட்டு வாணிக அமைச்சரவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "committee",
+            "ta_term": "குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "committee of supply",
+            "ta_term": "வழங்கு குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "committee of the whole house",
+            "ta_term": "முழு அவைக்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "committee of ways and means",
+            "ta_term": "வழிவகைக் குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "communal ownership",
+            "ta_term": "இனக்குழு உடைமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "communal representation",
+            "ta_term": "வகுப்புச் சார்பாண்மை, வகுப்பு பிரதிநிதித்துவம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "communism",
+            "ta_term": "பொதுவுடைமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "communist ideology",
+            "ta_term": "பொதுவுடைமைக் கருத்தியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "commutation",
+            "ta_term": "இனமாற்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "comparative study",
+            "ta_term": "ஒப்பீட்டாய்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "composition",
+            "ta_term": "கலைப் படைப்பு, உட்கூறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "concave",
+            "ta_term": "குழிவான"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "concilar movement",
+            "ta_term": "சங்க இயக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "concordat",
+            "ta_term": "சமய உடன்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "confederacy",
+            "ta_term": "கூட்டாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "confederation",
+            "ta_term": "நாட்டுக் கூட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "confirmation",
+            "ta_term": "உறுதிப்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "constituent assembly",
+            "ta_term": "அரசியலமைப்பு உருவாக்க அவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "constitution",
+            "ta_term": "அரசியலமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "constitutional law",
+            "ta_term": "அரசியலமைப்புச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "consul",
+            "ta_term": "அயல்இட நாட்டுப் பேராளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "continent",
+            "ta_term": "கண்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "continental shelf",
+            "ta_term": "கண்டத்திட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "contingency fund",
+            "ta_term": "வருநிகழ் செலவு நிதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "control figures",
+            "ta_term": "கட்டுப்படுத்தும் எண்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "convention",
+            "ta_term": "பழக்கவழக்கங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "conventional syndicate",
+            "ta_term": "மரபுவழி ஆட்சிக்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "copper",
+            "ta_term": "செம்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "copperplate grant",
+            "ta_term": "செப்புப் பட்டயம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "core",
+            "ta_term": "மூலக்கல், அகட்டுக் கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "correlation",
+            "ta_term": "ஒட்டுறவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cosmic radiation",
+            "ta_term": "அண்டக் கதிர்வீச்சு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cosmogeny",
+            "ta_term": "அண்டப்பிறப்பியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cosmology",
+            "ta_term": "அண்டவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cosmopolitan",
+            "ta_term": "பரந்த நோக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "council of states",
+            "ta_term": "மாநிலங்களின் அவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "creek",
+            "ta_term": "ஆற்றுப்பகுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "criminal case",
+            "ta_term": "குற்றவியல் வழக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "criminal law",
+            "ta_term": "குற்றவியல் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "crusades",
+            "ta_term": "சிலுவைப்போர்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "cultural revolution",
+            "ta_term": "பண்பாட்டுப் புரட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "culture",
+            "ta_term": "பண்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "currency",
+            "ta_term": "செலாவணி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dagger",
+            "ta_term": "குத்துவாள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "daily allowance",
+            "ta_term": "நாட்படி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dam",
+            "ta_term": "அணைக்கட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dating method",
+            "ta_term": "காலக்கணிப்பு முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "debentures",
+            "ta_term": "கடனீட்டுப் பத்திரங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "deciduous (adj)",
+            "ta_term": "இலையுதிர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "decorate",
+            "ta_term": "அலங்கரி(த்தல்)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "delegated legislation",
+            "ta_term": "அதிகாரம் வழங்கப்பட்ட சட்டமியற்றல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "delta",
+            "ta_term": "கழிமுகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "democracy",
+            "ta_term": "மக்களாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "density",
+            "ta_term": "அடர்த்தி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "deposition",
+            "ta_term": "படிதல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "depression",
+            "ta_term": "பள்ளம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "desert",
+            "ta_term": "பாலைவனம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "design",
+            "ta_term": "வடிவமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "despotism",
+            "ta_term": "வரம்பற்ற ஆட்சி, கொடுங்கோன்மை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "determinism",
+            "ta_term": "நியதிவாதம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dialectics",
+            "ta_term": "இணைமுரணியல், இயக்கவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dictator",
+            "ta_term": "வல்லாட்சியாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dictatorship of the proletariot",
+            "ta_term": "தொழிலாளர்களின் வல்லாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "die",
+            "ta_term": "வார்ப்பச்சு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "diet",
+            "ta_term": "நாடாளுமன்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "diplomacy",
+            "ta_term": "அரசதந்திரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "diplomatic powers",
+            "ta_term": "தூதுவர் அதிகாரங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "directive principle",
+            "ta_term": "வழிகாட்டுதல் நெறிமுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "discoids",
+            "ta_term": "தட்டுருவக் கருவிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "discovery",
+            "ta_term": "கண்டுபிடிப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "discretionary powers",
+            "ta_term": "விருப்புரிமை அதிகாரங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dish on stand",
+            "ta_term": "தாங்கியுடன் கூடிய வட்டில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "distribution",
+            "ta_term": "பரவல், பகிர்வு, பங்கீடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "divine",
+            "ta_term": "தெய்வீக"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "divine right",
+            "ta_term": "கடவுள் தந்த உரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "division of power",
+            "ta_term": "அதிகாரப் பிரிவினை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "doab",
+            "ta_term": "இடைத்துறை நிலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dome",
+            "ta_term": "கவிகை மாடம், கும்மட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "doublet",
+            "ta_term": "உட்சட்டை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dualism",
+            "ta_term": "இருமைக்கொள்கை, துவைதம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ducat",
+            "ta_term": "இத்தாலியப் பழம் பொற்காசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "due process of law",
+            "ta_term": "தக்க சட்டமுறைப்படி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "duel wars",
+            "ta_term": "இரட்டையர் சண்டை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dump",
+            "ta_term": "குப்பைக் கொட்டில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dyarchy",
+            "ta_term": "இரட்டையாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "dyke",
+            "ta_term": "அகழி, அணைக்கட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "economic depression",
+            "ta_term": "பொருளாதார மந்தம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "edict",
+            "ta_term": "கட்டளை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "egalitarianism",
+            "ta_term": "சமூகச் சமத்துவம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "electoral college",
+            "ta_term": "தேர்வுக் கல்லூரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "electoral committee",
+            "ta_term": "தேர்வாளர் குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "electron",
+            "ta_term": "மின்னணு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "emergency power",
+            "ta_term": "நெருக்கடிக்கால அதிகாரங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "empire",
+            "ta_term": "பேரரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "endogamy",
+            "ta_term": "அகமணம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "environment",
+            "ta_term": "சூழ்நிலை, சுற்றுப்புறம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "eolithic age",
+            "ta_term": "தொடக்கக் கற்கருவி காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "epigraph",
+            "ta_term": "கல்வெட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "epigraphy",
+            "ta_term": "கல்வெட்டியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "epilogue",
+            "ta_term": "முடிவுரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "equities",
+            "ta_term": "புரவிப்படை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "espionage",
+            "ta_term": "ஒற்று"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "estuary",
+            "ta_term": "ஓதம் பொங்கும் கழிமுகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ethics",
+            "ta_term": "அறவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ethnic",
+            "ta_term": "இன"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ethnic territory",
+            "ta_term": "இனமரபு வட்டாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ethnography",
+            "ta_term": "இனவிளக்கவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "eucharist",
+            "ta_term": "புனிதத் திருவிருந்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "evidence",
+            "ta_term": "சான்று"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "evolution",
+            "ta_term": "படிமலர்ச்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "excavation",
+            "ta_term": "அகழாய்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "excommunication",
+            "ta_term": "சமய விளக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "executive",
+            "ta_term": "ஆட்சியர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "exploration",
+            "ta_term": "களஆய்வு, தேட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "explorer",
+            "ta_term": "களஆய்வாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "facade",
+            "ta_term": "முகப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "farrago",
+            "ta_term": "கதம்பம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "fauna",
+            "ta_term": "விலங்கினம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "federal government",
+            "ta_term": "கூட்டரசு முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "federation",
+            "ta_term": "கூட்டாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ferruginous",
+            "ta_term": "இரும்புக்கலைசார்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "feudalism",
+            "ta_term": "நிலநல்கை முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "feudatory",
+            "ta_term": "சிற்றரசன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "finance commission",
+            "ta_term": "நிதி ஆணையம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "fixed executive",
+            "ta_term": "உறுதியுள்ள நிருவாகத் துறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "flake tool facies",
+            "ta_term": "சிம்பு கற்கருவிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "flakes",
+            "ta_term": "செதுக்குகள், சிம்புகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "flexible constitution",
+            "ta_term": "நெகிழ்தகு அரசியலமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "fluted cones",
+            "ta_term": "வரிந்த கூம்புருக்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "fragile",
+            "ta_term": "எளிதில் உடையக்கூடியவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "frieze",
+            "ta_term": "ஒப்பனைப் பட்டை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "furnace",
+            "ta_term": "உலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "genealogy",
+            "ta_term": "குடும்பமரபு வரலாறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "gentle slope",
+            "ta_term": "மென்சரிவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "geography",
+            "ta_term": "புவிப்பரப்பியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "geological survey",
+            "ta_term": "புவியியல் அளக்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "geologist",
+            "ta_term": "புவியியலர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "girdle",
+            "ta_term": "அரைக்கச்சை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "glacial period",
+            "ta_term": "பனியூழிக் காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "glacier",
+            "ta_term": "பனியாறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "globe",
+            "ta_term": "கோளம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "gneiss",
+            "ta_term": "படிவுப்பாறை வகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "godlings",
+            "ta_term": "சிறுதேவதைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "gorge",
+            "ta_term": "ஆற்றுக்குடைவு, மலையிடுக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "government",
+            "ta_term": "அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "governor general",
+            "ta_term": "தலைமை ஆளுநர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "graffiti",
+            "ta_term": "(சுவர்) வரைவுகள் (ஓவியங்கள், எழுத்துக்கள்)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "grain",
+            "ta_term": "நெல்மணி எடை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "granary",
+            "ta_term": "களஞ்சியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "granatoid",
+            "ta_term": "கருங்கல் வடிவ"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "grant",
+            "ta_term": "நல்கை, மானியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "grass land",
+            "ta_term": "புல்வெளி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "grave",
+            "ta_term": "ஈமக்குழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "gravity",
+            "ta_term": "(புவி)ஈர்ப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "grey brown soil",
+            "ta_term": "சாம்பல் பழுப்புநிற மண்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "grey ware",
+            "ta_term": "சாம்பல்நிற மட்கலன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "growth",
+            "ta_term": "வளர்ச்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "guild",
+            "ta_term": "வணிகக்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "habeas corpus",
+            "ta_term": "ஆளுரிமைக் காப்பு, ஆட்கொணர் (ஆணை)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hammer",
+            "ta_term": "சுத்தியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "harbour",
+            "ta_term": "துறைமுகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "harvester",
+            "ta_term": "கதிரறுக்கும் எந்திரம், அறுவடை எந்திரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "header",
+            "ta_term": "தலைப்பகுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hedonism",
+            "ta_term": "இன்பகக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "heir apparent",
+            "ta_term": "பட்டத்து இளவரசன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "heirloom",
+            "ta_term": "வழிவழி உடைமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hereditary peers",
+            "ta_term": "மரபுவழி பிரபுக்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "heredity",
+            "ta_term": "மரபுவழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hopscotch",
+            "ta_term": "சில்லு விளையாட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "horizontal excavation",
+            "ta_term": "கிடை அகழ்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "horse sacrifice",
+            "ta_term": "பரிவேள்வி (அசுவமேத யாகம்)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "house of commons",
+            "ta_term": "பொதுமக்கள் அவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "house of lords",
+            "ta_term": "பிரபுக்கள் அவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "house of people",
+            "ta_term": "மக்களவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "house of representatives",
+            "ta_term": "சார்பாளர் அவை, பேராளர் அவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "howdah",
+            "ta_term": "அம்பாரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "humanism",
+            "ta_term": "மனிதநேயம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hunt",
+            "ta_term": "வேட்டையாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hut",
+            "ta_term": "குடிசை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "hypothesis",
+            "ta_term": "கருதுகோள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "iconography",
+            "ta_term": "படிமவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ideocracy",
+            "ta_term": "கொள்கை ஆட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ideogram",
+            "ta_term": "கருத்தெழுத்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "idol",
+            "ta_term": "சிலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "impeachment",
+            "ta_term": "பதவிநீக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "imperium",
+            "ta_term": "இறைமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "indigo",
+            "ta_term": "அவுரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "industrialist",
+            "ta_term": "தொழிலதிபர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "inherent",
+            "ta_term": "உள்ளார்ந்த"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "inlet",
+            "ta_term": "கடற்கழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "inlet channel",
+            "ta_term": "கால்வாயின் வாய்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "instinct",
+            "ta_term": "இயல்பூக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "insurance",
+            "ta_term": "காப்புறுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "integration",
+            "ta_term": "ஒருங்கிணைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "interactions",
+            "ta_term": "இடைவினைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "intercessional interdict",
+            "ta_term": "தடை ஆணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "intrusive rock",
+            "ta_term": "துருத்துப் பாறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "inundation lake",
+            "ta_term": "வெள்ள ஏரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "invocation",
+            "ta_term": "வழிபாட்டுத் தொடக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "iron age",
+            "ta_term": "இரும்புக் காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "iron slags",
+            "ta_term": "இரும்புக் கசடுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "irrigation",
+            "ta_term": "நீர்ப்பாசனம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "island",
+            "ta_term": "தீவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "jar",
+            "ta_term": "தாழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "jasper",
+            "ta_term": "மணி வகை (செம்மணிக்கல்)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "javelin",
+            "ta_term": "எறிவேல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "jehad",
+            "ta_term": "(இசுலாமிய) சமயப்போர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "joint sitting",
+            "ta_term": "கூட்டு அமர்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "joint-type village",
+            "ta_term": "கணபோக ஊர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "judicial review",
+            "ta_term": "நீதிமன்ற மீள் ஆய்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "judiciary",
+            "ta_term": "நீதித்துறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "junk",
+            "ta_term": "கட்டையான அடிச் சீன மரக்கலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "justice of peace",
+            "ta_term": "அமைதிக் காவலர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "kinship",
+            "ta_term": "உறவுமுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "knight",
+            "ta_term": "வீரத்திருத்தகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "knoll",
+            "ta_term": "சிறுகுன்று"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "kopeki",
+            "ta_term": "உருசிய சிறுநாணயம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "lagoon",
+            "ta_term": "உப்பங்கழி, காயல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "land holder \\ land owner",
+            "ta_term": "நிலக்கிழார், காணியாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "land tenure",
+            "ta_term": "நில உடைமை முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "lapis lazuli",
+            "ta_term": "வைடூரியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "laterite",
+            "ta_term": "இரும்பகச் செங்களிமண், செம்புரை மண்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ledge",
+            "ta_term": "ஒடுங்கிய நீள்விளிம்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "legislative",
+            "ta_term": "சட்டமன்ற"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "liberalism",
+            "ta_term": "தாராளக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "life peerage act",
+            "ta_term": "வாணாள் நிலக்கிழார் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "limestone",
+            "ta_term": "சுண்ணாம்புக்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "linen",
+            "ta_term": "நார்மடி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "list system",
+            "ta_term": "பட்டியல் முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "lithic (adj)",
+            "ta_term": "கல், பாறைசார்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "lithic inscription",
+            "ta_term": "கல்வெட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "littoral",
+            "ta_term": "கடலோர(ப் பகுதி)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "local administration",
+            "ta_term": "உள்ளாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "local autonomy law",
+            "ta_term": "உள் தன்னாட்சிச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "local government",
+            "ta_term": "உள்ளாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "locality",
+            "ta_term": "வட்டாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "longitudinal",
+            "ta_term": "நீளவாட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "madras hand axe",
+            "ta_term": "சென்னை கைக்கோடாரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "magistrate",
+            "ta_term": "நடுவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "magma",
+            "ta_term": "பாறைக்குழம்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "main continent",
+            "ta_term": "பெருங்கண்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "main land",
+            "ta_term": "பெருநிலப்பகுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "manifestation",
+            "ta_term": "வெளிப்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "manor house",
+            "ta_term": "பண்ணை வீடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "manorial system",
+            "ta_term": "பண்ணை முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "manumission",
+            "ta_term": "அடிமைநிலையிலிருந்து விடுபெறல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "manure",
+            "ta_term": "உரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "maxim",
+            "ta_term": "மூதுரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mayor",
+            "ta_term": "மாநகராட்சித் தலைவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "megalithic age",
+            "ta_term": "பெருங்கற்படைக் காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mercantilism",
+            "ta_term": "வணிகவியற் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "merchant guilds",
+            "ta_term": "வணிகக் குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mesolithic",
+            "ta_term": "இடைக்கற்காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "metal age",
+            "ta_term": "உலோகக்காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "micro environment",
+            "ta_term": "நுண்சூழல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "micro region",
+            "ta_term": "குறுநில வட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "microlevel research",
+            "ta_term": "குற்றளவு ஆய்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "microlith tools",
+            "ta_term": "நுண் கற்கருவிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "millet",
+            "ta_term": "திணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "minaret",
+            "ta_term": "உருளைவடிவான"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "miniatures",
+            "ta_term": "சிற்றோவியங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monarchy",
+            "ta_term": "முடியாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monastery",
+            "ta_term": "மடாலயம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monism",
+            "ta_term": "அத்தைவம், ஒருமைக்கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monogamy",
+            "ta_term": "ஒருதுணை மணம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monograph",
+            "ta_term": "ஒருபொருள் நூல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monopoly",
+            "ta_term": "முற்றுரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monotheism",
+            "ta_term": "ஓரிறை வழிபாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monsoon",
+            "ta_term": "பருவக்காற்று"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "monument",
+            "ta_term": "நினைவுச்சின்னம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "morpheme",
+            "ta_term": "உருபன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "motif",
+            "ta_term": "கலைப்பண்புக் கூறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mould",
+            "ta_term": "வார்ப்படம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mound",
+            "ta_term": "மண்மேடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mountain",
+            "ta_term": "மலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mountain building",
+            "ta_term": "மலையாக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mountain range",
+            "ta_term": "மலைத்தொடர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mud creeks",
+            "ta_term": "மண்விரிசல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "municipality",
+            "ta_term": "நகராட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mural frescos",
+            "ta_term": "சுவர்ச் சித்திர ஒப்பனை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "murals",
+            "ta_term": "சுவரோவியங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "muslin",
+            "ta_term": "மென்துகில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "musqueteer",
+            "ta_term": "துப்பாக்கிவீரன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "mysticism",
+            "ta_term": "இறைமையொன்றல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "national assembly",
+            "ta_term": "நாட்டு அவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "national line",
+            "ta_term": "நாட்டு வழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "nationality",
+            "ta_term": "நாட்டினம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "natural vegetation",
+            "ta_term": "இயற்கைத் தாவரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "naturalism",
+            "ta_term": "இயல்மெய்ச் சித்தரிப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "nave",
+            "ta_term": "திருக்கோயில் நடுக்கூடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "neolithic age",
+            "ta_term": "புதிய கற்காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "new deal",
+            "ta_term": "புதிய ஒப்பந்தம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "nilghai",
+            "ta_term": "சிறுகொம்புடைய மான், நிலகைமான்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "no confidence motion",
+            "ta_term": "நம்பிக்கையில்லாத் தீர்மானம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "non-brahmin village",
+            "ta_term": "பார்ப்பனரில்லா ஊர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "northern black polished ware",
+            "ta_term": "வடக்கத்திய பளபளப்பான மட்கலன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "numismatics",
+            "ta_term": "நாணயவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "nunnery",
+            "ta_term": "கன்னிமாடங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "occupation",
+            "ta_term": "தொழில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "offset",
+            "ta_term": "பக்க உட்சாய்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ogress",
+            "ta_term": "மனிதனைத் தின்னு அரக்கி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "old age pension",
+            "ta_term": "முதுமைப்பருவ ஓய்வூதியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "oligarchy",
+            "ta_term": "சிறு குழுஆட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "oligopoly",
+            "ta_term": "சில்லோர் முற்றுரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ontology",
+            "ta_term": "இயல்வியல், உள்ளதன் இயல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ordeal",
+            "ta_term": "கடுஞ்சோதனை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "order",
+            "ta_term": "மரபொழுங்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "orders",
+            "ta_term": "ஆணைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ordinance",
+            "ta_term": "அவசரச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ordination",
+            "ta_term": "பதவியளிப்பு, ஆணையிடல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ore",
+            "ta_term": "தாது"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "organic",
+            "ta_term": "கரிமச் சேர்மானம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "organic laws",
+            "ta_term": "அமைப்பியல் சட்டங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "oriental despotism",
+            "ta_term": "கீழை வல்லாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "origin of bureaucracy",
+            "ta_term": "அதிகாரவர்க்கத் தோற்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "original jurisdiction",
+            "ta_term": "முதல்வழக்கு அதிகாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ornaments",
+            "ta_term": "அணிகலன்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "orpiment",
+            "ta_term": "அரிதாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "outcastes",
+            "ta_term": "பஞ்சமர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "overlord",
+            "ta_term": "மேலதிபர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "paleography",
+            "ta_term": "தொல்லெழுத்துக் கலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "paleolithic age",
+            "ta_term": "பழங்கற்காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "palm",
+            "ta_term": "பனைமரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "parallel sided blade",
+            "ta_term": "இணைநீள்பக்க அலகு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "parallelism",
+            "ta_term": "இணையியக்கக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "parliamentary executive",
+            "ta_term": "நாடாளுமன்றச் செயற்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "patois",
+            "ta_term": "திசைமொழி, சேரிமொழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "patrician",
+            "ta_term": "ரோமானிய நாட்டில் ஆளும்வர்க்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pattern",
+            "ta_term": "ஒப்பனை வடிவம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "peak",
+            "ta_term": "சிகரம், கொடுமுடி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pebbles",
+            "ta_term": "கூழாங்கற்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "penal law",
+            "ta_term": "தண்டனைச் சட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "peninsula",
+            "ta_term": "தீவம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "peniplain",
+            "ta_term": "அரிப்பான சமநிலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "persecution",
+            "ta_term": "மத ஒறுப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "personality",
+            "ta_term": "ஆளுமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pessimism",
+            "ta_term": "தீமை எதிர்பார்ப்புக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "philogenetic",
+            "ta_term": "மரபுசார், தொகுதிசார்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "phoneme",
+            "ta_term": "ஒலியன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "physical anthropology",
+            "ta_term": "உடல்சார் மானிடவியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pictography",
+            "ta_term": "படஎழுத்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pile",
+            "ta_term": "நிலத்தூண்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pillared mandapam",
+            "ta_term": "தூண்கள்மிகு மண்டபம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pit dwellings",
+            "ta_term": "தோண்டு குழி வீடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "plateau",
+            "ta_term": "மேட்டுச்சமவெளி, பீடபூமி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "platform for royal throne",
+            "ta_term": "கொலுமேடை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "plebian",
+            "ta_term": "பழம் ரோமானிய குடிமகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "plural executive",
+            "ta_term": "பல்தலைவர் செயற்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "points",
+            "ta_term": "கூர்முனைக் கருவிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "polished",
+            "ta_term": "தேய்த்து வழவழப்பாக்கிய"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "political traditions",
+            "ta_term": "அரசியல் மரபுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "political unity",
+            "ta_term": "அரசியல் ஒருமைப்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "polity",
+            "ta_term": "அரசியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pontiff",
+            "ta_term": "சமய முதல்வர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "popular initiative",
+            "ta_term": "மக்கள் தொடக்க உரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "portico",
+            "ta_term": "கவி முன்றில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "post holes",
+            "ta_term": "சாலைக் குழிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "potestas",
+            "ta_term": "அதிகாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "potin",
+            "ta_term": "கலப்பு உலோகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pounder",
+            "ta_term": "உலக்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "power structure",
+            "ta_term": "அதிகாரக் கட்டமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "prasasti",
+            "ta_term": "மெய்க்கீர்த்தி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pre history",
+            "ta_term": "வரலாற்றுக்கு முற்பட்ட காலம், முந்துவரலாறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "preamble",
+            "ta_term": "முகப்புரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "preferential voting",
+            "ta_term": "விருப்ப வரிசை வாக்களிப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "premier",
+            "ta_term": "பிரதமர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "prerogative (adj)",
+            "ta_term": "தனிச்சிறப்புரிமைசார்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "presidential system of government",
+            "ta_term": "தலைவர் முறை அரசாங்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "presidium",
+            "ta_term": "உருசியநாட்டுச் செயற்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pressure groups",
+            "ta_term": "செல்வாக்குக் குழுக்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "prime minister",
+            "ta_term": "தலைமை அமைச்சர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "primitive man",
+            "ta_term": "ஆதிமனிதன், முதனிலை மனிதன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "primogeniture",
+            "ta_term": "மூத்தமகன்வழி சொத்துரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "prince",
+            "ta_term": "இளவரசன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "principiate",
+            "ta_term": "இளவரசராட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "priory purse bill",
+            "ta_term": "அரசநல்கைச் சட்டவரைவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "private land ownership",
+            "ta_term": "தனியார் நிலஉடைமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "procedure established by law",
+            "ta_term": "சட்டம் நிறுவியுள்ள முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "promontory",
+            "ta_term": "நிலக்கூம்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "proportional representation",
+            "ta_term": "விகிதச் சார்பாண்மை முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "protect",
+            "ta_term": "பாதுகா(த்தல்)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "proto-australian type",
+            "ta_term": "முதனிலை (தொடக்க) ஆஸ்திரேலிய இனவகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "proto-history",
+            "ta_term": "வரலாற்றுத் தொடக்கக்காலம், முதனிலை வரலாற்றுக் காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "protruding",
+            "ta_term": "துருத்திக்கொண்டிருக்கிற"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "province",
+            "ta_term": "மாநிலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "provincial board",
+            "ta_term": "மாநில வாரியம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "public finance",
+            "ta_term": "பொது நிதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "public works and repairs",
+            "ta_term": "பொதுப்பணியும் பேணுதலும்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "pulpit",
+            "ta_term": "சொற்பொழிவு மேடை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "punch marked coins",
+            "ta_term": "முத்திரை நாணயங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "purgatory",
+            "ta_term": "அளறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "quilt",
+            "ta_term": "இணைப்புப் பஞ்சுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "quota",
+            "ta_term": "வீதப்பங்கு, ஒதுக்கப் பங்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "radicalism",
+            "ta_term": "தீவிரவாதம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rapids",
+            "ta_term": "விரைவோட்டம், துள்ளாறு (இளநிலையாறு)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rationalisation",
+            "ta_term": "சீரமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rationalism",
+            "ta_term": "பகுத்தறிவு வாதம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "real executive",
+            "ta_term": "நடைமுறைச் செயலர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "realgar",
+            "ta_term": "செந்தாளகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "realism",
+            "ta_term": "நடப்பியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "recall",
+            "ta_term": "மீட்புரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "recension",
+            "ta_term": "திருத்தப்பட்ட மூலபாடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "record keeper",
+            "ta_term": "ஆவணக் காப்பாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "red slipped ware",
+            "ta_term": "செம்பூச்சு மட்கலன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "refectory",
+            "ta_term": "துறவிமட உணவுக்கூடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "referendum",
+            "ta_term": "குடியொப்பம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "regent",
+            "ta_term": "பகர ஆளுநர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "region",
+            "ta_term": "வட்டாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "relic",
+            "ta_term": "திருச்சின்னம், எச்சம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "religion",
+            "ta_term": "சமயம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "replica",
+            "ta_term": "உருவ நேர்படி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "representation",
+            "ta_term": "சார்பாண்மை, பேராண்மை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "republic",
+            "ta_term": "குடியரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "reserve powers",
+            "ta_term": "ஒதுக்கப்பட்ட அதிகாரங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "reservoir",
+            "ta_term": "நீர்த்தேக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "residuary powers",
+            "ta_term": "எஞ்சிய அதிகாரங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "responsible government",
+            "ta_term": "பொறுப்பாட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "revenue",
+            "ta_term": "(அரசு) வருவாய்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "revolution",
+            "ta_term": "புரட்சி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rhetoric",
+            "ta_term": "சொல்லாட்சிக் கலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rigid constitution",
+            "ta_term": "நெகிழ்விலா அரசியலமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "river deposits",
+            "ta_term": "ஆற்றுப்படிவுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "roadstead",
+            "ta_term": "கப்பல் தங்குதுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rock",
+            "ta_term": "பாறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rock cavern",
+            "ta_term": "மலைக்குகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "roofing tiles",
+            "ta_term": "கூரை ஓடுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rose wood",
+            "ta_term": "கருங்காலி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rouletted ware",
+            "ta_term": "ரோமானிய பானை வகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "royal commission",
+            "ta_term": "அரச ஆணைக்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "royal demesne",
+            "ta_term": "அரசருடைமை நிலப்பகுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rubbing stone",
+            "ta_term": "மெருகுக்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ruins",
+            "ta_term": "பாழான இடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "rule of law",
+            "ta_term": "சட்ட ஆதிக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sacrament",
+            "ta_term": "புனிதச் சடங்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sanctuary",
+            "ta_term": "புகலிடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sand bank",
+            "ta_term": "நீரடி மணல்திட்டு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sarcophagus",
+            "ta_term": "சுடுமண் ஈமப்பேழை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scarp",
+            "ta_term": "செங்குத்தான சாய்வு, செஞ்சரிவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scepticism",
+            "ta_term": "ஐயுறவு வாதம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scholasticism",
+            "ta_term": "புலமைக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "science of administration",
+            "ta_term": "ஆட்சியியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scope",
+            "ta_term": "நோக்கெல்லை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scraper",
+            "ta_term": "சுரண்டு கருவி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scribe",
+            "ta_term": "எழுத்தர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scriputres",
+            "ta_term": "புனிதநூல்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "scullion",
+            "ta_term": "அடுக்களைச் சிற்றாள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sculpture",
+            "ta_term": "சிற்பக்கலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sea frontier",
+            "ta_term": "கடல் எல்லை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sea level",
+            "ta_term": "கடல் மட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sea miles",
+            "ta_term": "கடல் மைல்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sea route",
+            "ta_term": "கடல்வழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "seal",
+            "ta_term": "முத்திரை, இலச்சினை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "search",
+            "ta_term": "தேடல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "seasons",
+            "ta_term": "பருவகாலங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "secession",
+            "ta_term": "நாடு பிரிதல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "second ballot system",
+            "ta_term": "இரண்டாவது வாக்கெடுப்பு முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "second chamber",
+            "ta_term": "மேலவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "secretariat",
+            "ta_term": "செயலகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "secular",
+            "ta_term": "சமயச்சார்பற்ற"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "security of tenure",
+            "ta_term": "பதவிக்கால பாதுகாப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "segmentary state",
+            "ta_term": "கூறாக்கநிலை அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "semantics",
+            "ta_term": "பொருண்மையியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "semi precious stone",
+            "ta_term": "அரிய கல்மணிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "senate",
+            "ta_term": "கீழவை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "separation of power",
+            "ta_term": "அதிகாரப் பிரிவினை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "serfdom",
+            "ta_term": "பண்ணைக் குடிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "session",
+            "ta_term": "கூட்டத்தொடர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "settlement",
+            "ta_term": "குடியிருப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "severalty-type village",
+            "ta_term": "ரயத்துவாரி ஊர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "shale",
+            "ta_term": "களிப்பலகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "shelter",
+            "ta_term": "இருப்பிடம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sickle",
+            "ta_term": "அரிவாள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "single member constituency",
+            "ta_term": "ஓர் உறுப்பினர் தொகுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "single preferential vote",
+            "ta_term": "ஒற்றை மாற்று வாக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sinomy",
+            "ta_term": "பதவி விற்றல் வாங்கல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sitting",
+            "ta_term": "அமர்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "skeleton",
+            "ta_term": "மண்டையோடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "slavery",
+            "ta_term": "அடிமைத்தனம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "smoking pipes",
+            "ta_term": "புகைபிடிக் குழல்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "social contract",
+            "ta_term": "சமுதாய ஒப்பந்தம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "social elites",
+            "ta_term": "சமூக மேலோர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "social forces",
+            "ta_term": "சமுதாய விசைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "social justice",
+            "ta_term": "சமூக நீதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "social reproduction",
+            "ta_term": "சமூக மீளாக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "social security",
+            "ta_term": "சமூகநலப் பாதுகாப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "socialism",
+            "ta_term": "சமதர்மம், நிகரறக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "soft consonant",
+            "ta_term": "தளர்வுறழ்வான மெய்யெழுத்து"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "soil cover",
+            "ta_term": "மண்மூட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "source",
+            "ta_term": "வாயில், தோற்றுவாய்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sovereign democratic (adj)",
+            "ta_term": "முற்றிறையாண்மைக் குடியரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sovereignty",
+            "ta_term": "இறையாண்மை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "spherule",
+            "ta_term": "சிறுகோளம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "spice",
+            "ta_term": "நறுமணப்பொருள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "spikenard",
+            "ta_term": "இலாமிச்சை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "spindle whorl",
+            "ta_term": "மணி வகைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "spouted bowls",
+            "ta_term": "மூக்குடைய கிண்ணங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "spurs",
+            "ta_term": "பக்க மலைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stamped pottery",
+            "ta_term": "உருவம்பதித்த மட்கலன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "standardisation",
+            "ta_term": "தரப்பாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "standing committee",
+            "ta_term": "நிலைக்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "standing orders",
+            "ta_term": "நிலை ஆணைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "state",
+            "ta_term": "அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "state council",
+            "ta_term": "நாட்டுக்குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "state orders",
+            "ta_term": "அரசு ஆணைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "statistical method",
+            "ta_term": "புள்ளியியல் முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "status",
+            "ta_term": "பதவிநிலை, தகவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sterile layer",
+            "ta_term": "தொல்பொருளற்ற மண்ணடுக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stone age",
+            "ta_term": "கற்காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stone circle",
+            "ta_term": "கல் வட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "storage jar",
+            "ta_term": "கொள்கலன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "strand",
+            "ta_term": "கடலோரம், ஏரிக்கரை, ஆற்றங்கரை, புரி, புரியிழை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "strata",
+            "ta_term": "நில அடுக்குப் படிவம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stratification",
+            "ta_term": "படிநிலை ஆக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stratigraphy",
+            "ta_term": "பாறையடுக்கியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stream",
+            "ta_term": "ஓடை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "stretcher",
+            "ta_term": "நேர்ப்பகுதி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "structural temple",
+            "ta_term": "கட்டமைப்புக் கோயில்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "submerged coast",
+            "ta_term": "அமிழ்ந்த கடற்கரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "subordinate chieftain",
+            "ta_term": "சிற்றரசன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "suit",
+            "ta_term": "வழக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "sumptuary allowance",
+            "ta_term": "குறைந்த அளவு படி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "super ego",
+            "ta_term": "மீஅகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "supremacy of the constitution",
+            "ta_term": "அரசியலமைப்பு மேலோச்சம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "supreme court",
+            "ta_term": "உச்சநீதிமன்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "surplus",
+            "ta_term": "உபரி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "survey",
+            "ta_term": "அளக்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "suzerainty",
+            "ta_term": "மேலாதிக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "swamp",
+            "ta_term": "சதுப்புநிலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "syncline",
+            "ta_term": "பாறைக்குழிவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "synthesis",
+            "ta_term": "தொகுகோள், ஆய்வுரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "table land",
+            "ta_term": "மேட்டுச் சமவெளி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "talipot",
+            "ta_term": "தாளிப்புப் பானை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tamed animal",
+            "ta_term": "வளர்ப்பு விலங்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tapestries",
+            "ta_term": "திரைச்சீலைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tenure",
+            "ta_term": "நிலக்கிழமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "terra sigilata",
+            "ta_term": "ரோமானிய மட்கலவகை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "terrace",
+            "ta_term": "நில அடுக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "terracotta",
+            "ta_term": "உருவாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "territorial waters",
+            "ta_term": "கரையோரக் கடற்பரப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "territory",
+            "ta_term": "நிலஎல்லை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "the corporate body of the villages",
+            "ta_term": "ஊரார்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "theist",
+            "ta_term": "கடவுட் கோட்பாடுள்ளவர், இறைப்பற்றாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "thematology",
+            "ta_term": "அடிப்பொருள் ஆய்வு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "theocratic irrigation state",
+            "ta_term": "சமயக்குரவர் ஆதிக்கப் பாசன அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "theology",
+            "ta_term": "இறையியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "thesis",
+            "ta_term": "தொடுகோள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tibia",
+            "ta_term": "கால் முன்னெலும்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "time liability",
+            "ta_term": "காலப் பொறுப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "title",
+            "ta_term": "பட்டம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tools",
+            "ta_term": "கருவிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "topography",
+            "ta_term": "இடக்கிடப்பியல், நிலத்திணையியல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "torture",
+            "ta_term": "வன்கொடுமை (சித்திரவதை)"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "totem",
+            "ta_term": "குலச்சின்னம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tour-de-force",
+            "ta_term": "விசைச் சோதனை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "trallis",
+            "ta_term": "பொற்பின்னல் வேலைப்பாடுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "transition period",
+            "ta_term": "இடைப்பட்ட காலம், நிலைமாற்றக் காலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "transubstantiation",
+            "ta_term": "புனிதப்பொருள் மாறுபாட்டுக் கொள்கை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "traveling allowance",
+            "ta_term": "பயணப் படி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "treason",
+            "ta_term": "அரச துரோகம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "treasurer",
+            "ta_term": "கருவூல அலுவலர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "treatise",
+            "ta_term": "ஆய்வுநூல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "treaty",
+            "ta_term": "ஒப்பந்தம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "trench warfare",
+            "ta_term": "அகழிப் போர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "trial trench",
+            "ta_term": "சோதனைக் குழி"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tribal chief",
+            "ta_term": "குடித் தலைவர், இனக்குழுத் தலைவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tribal councils",
+            "ta_term": "குடிமன்றங்கள், இனக்குழு மன்றங்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tributary",
+            "ta_term": "கிளைஆறு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tribute",
+            "ta_term": "கப்பம், திறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "trident",
+            "ta_term": "திரிசூலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "trivium",
+            "ta_term": "முப்பாற்கலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tropic of cancer",
+            "ta_term": "கடக வரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tropic of capricon",
+            "ta_term": "மகர வரை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tropical belt",
+            "ta_term": "வெப்பமண்டலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "truce of god",
+            "ta_term": "தற்காலிக அமைதி நாட்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "tube wells",
+            "ta_term": "குழாய்க் கிணறுகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "two party system",
+            "ta_term": "இருகட்சி முறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "ultravires",
+            "ta_term": "வரம்பு கடந்த"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "uncivilized",
+            "ta_term": "நாகரிகமற்ற"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "under secretary of state",
+            "ta_term": "அமைச்சரின் உதவியாளர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "unguent",
+            "ta_term": "நறுமணத்தைலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "unicameralism",
+            "ta_term": "ஓரவைச் சட்டமன்றம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "union public service commission",
+            "ta_term": "நடுவண் தேர்வாணைக் குழு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "unitary state",
+            "ta_term": "ஒருமுக அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "unwritten law",
+            "ta_term": "எழுதா அரசியலமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "upper middle class",
+            "ta_term": "உயர் நடுத்தர வகுப்பினர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "usage",
+            "ta_term": "வழக்கம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "usher",
+            "ta_term": "வாயிலோன்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "usurpation",
+            "ta_term": "அடாவழி (அரசுரிமைப்) பறிப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "utensil",
+            "ta_term": "அடுக்குப்பாறை, ஏனம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "valley",
+            "ta_term": "பள்ளத்தாக்கு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "vase",
+            "ta_term": "ஒப்பனைக் குடும்பம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "vassals",
+            "ta_term": "நல்கையாளர்கள், அடிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "vaulted hall",
+            "ta_term": "கவிகைமாடப் பொதுஅறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "verandah",
+            "ta_term": "தாழ்வாரம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "vertical excavation",
+            "ta_term": "ஆழத்தோண்டல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "veto",
+            "ta_term": "மறுப்பாணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "vice president",
+            "ta_term": "துணைத் தலைவர்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "vill",
+            "ta_term": "உள்ளாட்சிப் பிரிவு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "villein",
+            "ta_term": "உட்குடிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "virgin soil",
+            "ta_term": "கன்னிநிலம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "volcano",
+            "ta_term": "எரிமலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "wager of battle",
+            "ta_term": "சண்டைவழித் தீர்வுமுறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "wardship",
+            "ta_term": "காப்புரிமை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "warrant",
+            "ta_term": "பணிமுறை அதிகாரப் பத்திரம், கொணர் ஆணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "watch and ward",
+            "ta_term": "சுற்றுக்காவல்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "water ways",
+            "ta_term": "நீர்வழிகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "watershed",
+            "ta_term": "நீர் பிரிமேடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "weapons",
+            "ta_term": "ஆயுதங்கள், படைக்கலன்கள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "weather",
+            "ta_term": "வானிலை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "welfare state",
+            "ta_term": "பொதுநல அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "wharf",
+            "ta_term": "படகுத்துறை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "workers welfare state",
+            "ta_term": "தொழிலாளர் நல அரசு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "world map",
+            "ta_term": "உலக நிலப்படம்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "worship",
+            "ta_term": "வழிபாடு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "writ",
+            "ta_term": "நீதிப் பேராணை, கட்டளை, ஆணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "writ of right",
+            "ta_term": "உரிமைக் கட்டளை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "writs of course",
+            "ta_term": "வழக்கமான ஆணைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "writs out of course",
+            "ta_term": "வழக்கத்திற்கு மாறான ஆணை"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "written constitution",
+            "ta_term": "எழுதப்பட்ட அரசியலமைப்பு"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "yards",
+            "ta_term": "துறைகள்"
+        },
+        {
+            "subject": "Epigraphy",
+            "en_term": "zone",
+            "ta_term": "மண்டலம்"
+        }
+    ]
+}
