@@ -1,0 +1,1414 @@
+{
+    "tamil_glossary": [
+        {
+            "subject": "Folk lore",
+            "en_term": "acculturation",
+            "ta_term": "பண்பாட்டுப் பேறு, பண்பாட்டு ஏற்றல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "aesthetics",
+            "ta_term": "முருகியல், அழகியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "aetiological legends",
+            "ta_term": "காரணகாரிய விளக்க பழமரபுக் கதைகள், உலகத்தோற்றப் பழங்கதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "agnatic descent",
+            "ta_term": "ஆண்வழி மரபு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "agricultural magic",
+            "ta_term": "வேளாண் மந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "alligator teeth",
+            "ta_term": "முதலைப் பல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "allo-motifeme",
+            "ta_term": "மாற்று கதைக்கூறல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "amulet",
+            "ta_term": "தாயத்து"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "analytical category",
+            "ta_term": "பகுப்பாய்வு வகையினம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ancestor worship",
+            "ta_term": "முன்னோர் வழிபாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "angels",
+            "ta_term": "தேவதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "animal guardians",
+            "ta_term": "காவல் விலங்குகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "animal tale",
+            "ta_term": "விலங்குக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "animatism",
+            "ta_term": "உயிரியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "animism",
+            "ta_term": "ஆவியுலகக் கோட்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "anonymous",
+            "ta_term": "பெயரில்லா"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "anthropomorphism",
+            "ta_term": "மனிதப் பண்பேற்றுதல் (விலங்குக்கு)"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "apotropaism",
+            "ta_term": "தீங்கு விலக்குகை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "applied folklore",
+            "ta_term": "பயன்பாட்டு நாட்டுப்புற வழக்காறுகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "arche-type",
+            "ta_term": "மூலவடிவம், தொல்வகைமை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "artifacts",
+            "ta_term": "கலைப் படைப்புகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "assimilation",
+            "ta_term": "ஓரினமாதல், தன்மயமாதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "astrology",
+            "ta_term": "சோதிடம், கணியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "atomistic",
+            "ta_term": "அணுவியல் போக்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "augury",
+            "ta_term": "குறிகூறுதல், முன்னுணர்வு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "austerities",
+            "ta_term": "துறவறம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "avuncypotestal family",
+            "ta_term": "தாய்மாமன் தலைமைக் குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ballad",
+            "ta_term": "கதைப்பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "barbarism",
+            "ta_term": "காட்டாண்டி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "belief",
+            "ta_term": "நம்பிக்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "binary opposition",
+            "ta_term": "இரட்டை எதிர்மறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "black magic",
+            "ta_term": "தீயமந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "boat song",
+            "ta_term": "படகுப் பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cartomancy",
+            "ta_term": "சீட்டுகள் வைத்துக் குறிசொல்லும் முறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "castration",
+            "ta_term": "காயடித்தல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "charm",
+            "ta_term": "வசியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "children’s song",
+            "ta_term": "குழந்தைப் பாடல்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "choronicket",
+            "ta_term": "வம்சாவழி கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "chorus",
+            "ta_term": "குழுவிசை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "clantotem",
+            "ta_term": "குலம்சார் குலக்குறி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "codification",
+            "ta_term": "அடையாளப்படுத்துதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "contagious magic",
+            "ta_term": "தொத்து மந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "contaminated text",
+            "ta_term": "இடைச்செருகல்மிகு பனுவல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "context",
+            "ta_term": "சூழல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "contextual theory",
+            "ta_term": "சூழலியல் கோட்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "contra acculturation",
+            "ta_term": "எதிர்ப்பண்பாட்டுப் பேறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "counter culture",
+            "ta_term": "எதிர்ப்பண்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cradle song",
+            "ta_term": "தாலாட்டு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "creation myth",
+            "ta_term": "படைப்புத் தொன்மம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural area",
+            "ta_term": "பண்பாட்டுப் பரப்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural boundaries",
+            "ta_term": "பண்பாட்டு எல்லை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural determinism",
+            "ta_term": "பண்பாட்டு அறுதிப்பாட்டியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural ecology",
+            "ta_term": "பண்பாட்டுச் சூழலியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural log",
+            "ta_term": "பண்பாட்டுப் பதிவு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural relativism",
+            "ta_term": "பண்பாட்டுச் சார்புடைமைக் கொள்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural universals",
+            "ta_term": "பண்பாட்டுப் பொதுமைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cultural values",
+            "ta_term": "பண்பாட்டு விழுமியங்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "culture complex",
+            "ta_term": "பண்பாட்டுக் கலவை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cumulative\\ chain tales",
+            "ta_term": "சங்கிலித்தொடர் கதைகள், திரட்டுக் கதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "cursing",
+            "ta_term": "சாபமிடுதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "customary laws",
+            "ta_term": "மரபுசார் சட்டங்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "data",
+            "ta_term": "தரவு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "dependent variables",
+            "ta_term": "சார் மாறிகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "destructive (adj)",
+            "ta_term": "அழிப்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "devolution",
+            "ta_term": "ஒடுங்குப் படிமலர்ச்சி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "digression",
+            "ta_term": "மற்றொன்று விரித்தல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "divine spirit",
+            "ta_term": "தெய்வீக ஆவி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "diviniation",
+            "ta_term": "அருள் வாக்குரைத்தல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "echo word motif tale",
+            "ta_term": "எதிரொலி கதைக்கூற்றுக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ecotypification",
+            "ta_term": "திணைசார் வகைப்படுத்தம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "elder’s genre",
+            "ta_term": "மூத்தோர் வழக்காற்று வகையினம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "emic approach",
+            "ta_term": "அகவய அணுகுமுறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "emplotment",
+            "ta_term": "கதைப்பின்னல் உருவாக்கம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "endogamy",
+            "ta_term": "அகமணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "epic idiolect",
+            "ta_term": "காப்பிய மொழி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "epic register",
+            "ta_term": "காப்பியப் பதிவு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "esoteric",
+            "ta_term": "தற்குழு வழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ethnic genre",
+            "ta_term": "இன வழக்காற்று வகையினம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ethnic shir",
+            "ta_term": "இனக்கொறுக்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ethno music",
+            "ta_term": "பண்பாட்டு இசை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ethnocentrism",
+            "ta_term": "தன்னின உயர்வுவாதம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ethnography",
+            "ta_term": "இனவரைவியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ethnography of speaking",
+            "ta_term": "பேசும் இனவரைவியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "etic approach",
+            "ta_term": "புறவய அணுகுமுறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "etic unit",
+            "ta_term": "கட்டற்ற அலகு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "evil eye",
+            "ta_term": "கண்ணேறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "evolution",
+            "ta_term": "படிமலர்ச்சி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "exogamy",
+            "ta_term": "புறமணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "exoteric",
+            "ta_term": "அயற்குழு வழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fable",
+            "ta_term": "நீதிக்கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fake lore",
+            "ta_term": "போலி வழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fertility belief",
+            "ta_term": "வளம் செழிப்பு பற்றிய நம்பிக்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fertility cult",
+            "ta_term": "வள வழிபாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fertility ritual",
+            "ta_term": "வளமைச் சடங்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fetishism",
+            "ta_term": "போலிப்பொருள் வழிபாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "field work",
+            "ta_term": "கள ஆய்வு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "fixed phrase genre",
+            "ta_term": "நிலைத்த தொடரமைப்பு வழக்காற்று வகையினம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk drama",
+            "ta_term": "நாட்டுப்புற நாடகம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk idea",
+            "ta_term": "நாட்டுப்புற மக்கள் கருத்து"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk life",
+            "ta_term": "நாட்டுப்புற வாழ்வு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk musieum",
+            "ta_term": "வழக்காற்று அருங்காட்சியகம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk performing arts",
+            "ta_term": "நாட்டுப்புற நிகழ் கலைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk religion",
+            "ta_term": "நாட்டுப்புறச் சமயம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk saying",
+            "ta_term": "நாட்டார் வாக்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folk tale",
+            "ta_term": "நாட்டுப்புறக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folklore",
+            "ta_term": "நாட்டுப்புறவியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "folklorism",
+            "ta_term": "வழக்காற்றியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "follk wisdom",
+            "ta_term": "நாட்டார் அறிவு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "formula",
+            "ta_term": "வாய்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "formula tale",
+            "ta_term": "வாய்பாட்டுக் கதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "function",
+            "ta_term": "செயல்பாடு, வினை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "functionalism",
+            "ta_term": "செயற்பாட்டியல் கொள்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "genre",
+            "ta_term": "இலக்கிய வகையினம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "genuine culture",
+            "ta_term": "உண்மைப் பண்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "gestures",
+            "ta_term": "சைகைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ghost marriage",
+            "ta_term": "ஆவித் திருமணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "historical ballad",
+            "ta_term": "வரலாற்றுக் கதைப்பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "historical geographical method",
+            "ta_term": "வரலாற்று நிலவியல் ஆய்வுமுறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "historical legend",
+            "ta_term": "வரலாற்றுப் பழமரபுக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "horizontal transmission",
+            "ta_term": "கிடைமட்டப் பரிமாற்றம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "human sacrifice",
+            "ta_term": "நரபலி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "hypothesis",
+            "ta_term": "கருதுகோள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "imitative magic",
+            "ta_term": "பாவனை மந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "independent variables",
+            "ta_term": "சாரா மாறிகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "individual totem",
+            "ta_term": "தனித்தக் குலக்குறி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "induced context",
+            "ta_term": "தூண்டப்பட்டச் சூழல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "induced natural context",
+            "ta_term": "தூண்டப்பட்ட இயற்கைச்சூழல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "industrial lore",
+            "ta_term": "தொழிலக வழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "informant",
+            "ta_term": "தகவலாளி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "instrumental music",
+            "ta_term": "கருவி இசை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "intertextuality",
+            "ta_term": "பனுவலிடையாக்கம், ஊடுபனுவலாக்கம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "interview method",
+            "ta_term": "பேட்டி முறை, நேர்காணல்முறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "isomorphism",
+            "ta_term": "வடிவ ஒப்புமைப் பண்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "kaniyan",
+            "ta_term": "கணியன்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "kolattam",
+            "ta_term": "கோலாட்டம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "kummi",
+            "ta_term": "கும்மி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "lamentation",
+            "ta_term": "ஒப்பாரி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "latrinalia",
+            "ta_term": "கழிவறை வாசகம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "legend",
+            "ta_term": "பழமரபுக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "life cycle ceremony",
+            "ta_term": "வாழ்க்கை வட்டச் சடங்குகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "lineage",
+            "ta_term": "கால்வழி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "local legend",
+            "ta_term": "உள்ளூர் பழமரபுக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "lore",
+            "ta_term": "வழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "lullaby",
+            "ta_term": "தாலாட்டு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "magico religious",
+            "ta_term": "மந்திரம்சார் சமயச் சடங்குகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "martial art",
+            "ta_term": "தற்காப்புக் கலை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mask",
+            "ta_term": "முகமூடி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "material arts",
+            "ta_term": "பொருட்கலைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "matriarchal family",
+            "ta_term": "தாய்த் தலைமைக் குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "matrilineal descent",
+            "ta_term": "தாய்வழி மரபு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "medicinal (adj)",
+            "ta_term": "மூலிகை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "medicinal rites",
+            "ta_term": "மருத்துவச் சடங்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "memorate",
+            "ta_term": "அனுபவ ஓர்மைக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mentaltext",
+            "ta_term": "மனப்பனுவல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "merrytale",
+            "ta_term": "மகிழ் கதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "meta folklore",
+            "ta_term": "கருவி வழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "migrational theory",
+            "ta_term": "இடம்பெயர்தல் கோட்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mimetic dance",
+            "ta_term": "பாவனை நடனம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "monogamian family",
+            "ta_term": "ஒருதுணை மணக்குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "monogamy",
+            "ta_term": "ஒருதார மணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "monogenesis",
+            "ta_term": "ஒருமைவழித் தோற்றம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "monothcism",
+            "ta_term": "ஒற்றைத் தெய்வக் கொள்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "monsters",
+            "ta_term": "பூதங்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mother worship, mariology",
+            "ta_term": "தாய்த் தெய்வ வழிபாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "motif",
+            "ta_term": "கதைக்கூறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "motifeme",
+            "ta_term": "கதைக்கூறன்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "multiform",
+            "ta_term": "பல்வடிவம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "myth ritualist",
+            "ta_term": "தொன்மச் சடங்கியலார்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mythem",
+            "ta_term": "தொன்மவியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mythical ballad",
+            "ta_term": "தொன்மக் கதைப்பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "mythology",
+            "ta_term": "தொன்மவியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "narrator",
+            "ta_term": "கதைஞன்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "natural context",
+            "ta_term": "இயற்கைச் சூழல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "necic riddles",
+            "ta_term": "தலைதப்பும் விடுகதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "necromancy",
+            "ta_term": "குறிசொல்லல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "non sororal polygyny",
+            "ta_term": "உடன்பிறவா மனைவியர் மணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "non verbal arts",
+            "ta_term": "மொழிசாராக் கலைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "nuclear family",
+            "ta_term": "தனிக்குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "numskull story or noddle story",
+            "ta_term": "மூடக்கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "obscemity",
+            "ta_term": "ஆபாசம், அம்மணக் காட்சி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "observation method",
+            "ta_term": "நோக்கீட்டு முறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "omen",
+            "ta_term": "சகுனம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "oral culture",
+            "ta_term": "வாய்மொழிப் பண்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "oral formulaic theory",
+            "ta_term": "வாய்மொழி வாய்பாட்டுக் கோட்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "oral literature",
+            "ta_term": "வாய்மொழி இலக்கியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "original tale",
+            "ta_term": "மூலக்கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "paradigmatic analysis",
+            "ta_term": "வாய்பாட்டு உறவு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "patriarchal family",
+            "ta_term": "தந்தைத் தலைமைக் குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "patrilineal descent",
+            "ta_term": "தந்தைவழி மரபு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "performer",
+            "ta_term": "நிகழ்த்துநர்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "personal narrative",
+            "ta_term": "தன்னறிவுக் கதை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "pilot study",
+            "ta_term": "முன்னோடி ஆய்வு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "planting song",
+            "ta_term": "நடவுப்பாட்டு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "play song",
+            "ta_term": "விளையாட்டுப் பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ploughing song",
+            "ta_term": "உழவுப்பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "polydandrous family",
+            "ta_term": "பலகணவர் குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "polygamous family",
+            "ta_term": "பலதுணைவியர் மணக்குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "polygenesis",
+            "ta_term": "பன்மைவழித் தோற்றம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "polygynous family",
+            "ta_term": "பலமனைவிக் குடும்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "polytheism",
+            "ta_term": "பலதெய்வக் கொள்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "popular antiquities",
+            "ta_term": "மக்கள்வழி பழமையியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "possession",
+            "ta_term": "ஆவியேற்றம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "primary source",
+            "ta_term": "முதன்மை மூலம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "private folklore",
+            "ta_term": "தனியார் வழக்காறுகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "productive magic",
+            "ta_term": "உற்பத்தி மந்திரம், செழிப்பு மந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "propitiation",
+            "ta_term": "சாந்தி செய்தல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "prose narratives",
+            "ta_term": "உரைநடைக் கதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "protective magic",
+            "ta_term": "பாதுகாப்பு மந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "proverb",
+            "ta_term": "பழமொழி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "proverbial phrase",
+            "ta_term": "பழமொழித் தொடர்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "puberty rites",
+            "ta_term": "பூப்புச் சடங்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "public folklore",
+            "ta_term": "பொதுவழக்காறு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "purification",
+            "ta_term": "தூய்மைப்படுத்துதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "recent past",
+            "ta_term": "அண்மைப் பழங்காலம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "relic",
+            "ta_term": "மரபு எச்சம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "repertoire",
+            "ta_term": "சேமப்பாதுகாப்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "riddles",
+            "ta_term": "விடுகதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "rite of transference",
+            "ta_term": "மாற்றீட்டுச் சடங்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "rites of crisis",
+            "ta_term": "நெருக்கடிநிலைச் சடங்குகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "rites of passage",
+            "ta_term": "கடந்துசெல்லும் சடங்குகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ritual drama",
+            "ta_term": "சடங்கியல் நாடகம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ritual language",
+            "ta_term": "சடங்கியல் மொழி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "ritual performance",
+            "ta_term": "சடங்கியல் நிகழ்த்துதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sacred animal",
+            "ta_term": "புனித விலங்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sacred thread",
+            "ta_term": "பூணூல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sacrifice",
+            "ta_term": "பலியிடுதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "savage past",
+            "ta_term": "விலங்காண்டி நிலை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "scapegoat",
+            "ta_term": "பதிலிப்பலி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "scatological folklore",
+            "ta_term": "சாணவியல் நாட்டார் வழக்காறுகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "seasonal ceremonies",
+            "ta_term": "பருவகால விழாக்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "secondary source",
+            "ta_term": "துணைமை வாயில்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "secular performance",
+            "ta_term": "சடங்கியல் அல்லாத நிகழ்த்துதல், சமயஞ்சாரா நிகழ்த்துதல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "serial monogamy",
+            "ta_term": "தொடர் ஒருதார மணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sex totem",
+            "ta_term": "பால்வேறுபாட்டுக் குலக்குறி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "shaman",
+            "ta_term": "மாந்திரிகன்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sign",
+            "ta_term": "குறி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sign language",
+            "ta_term": "குறிகை மொழி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "social institutions",
+            "ta_term": "சமூக நிறுவனங்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "social organism",
+            "ta_term": "சமூகக் குழுமல், சமூக உயிரி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "sororal polygamy",
+            "ta_term": "சகோதரி மனைவியர் மணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "spirit",
+            "ta_term": "ஆவி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "split totems",
+            "ta_term": "உறுப்புக் குலக்குறிகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "spurious culture",
+            "ta_term": "போலிப் பண்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "story riddles",
+            "ta_term": "கதைபொதிந்த விடுகதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "structuralism",
+            "ta_term": "அமைப்பியல், கட்டமைப்பியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "structure",
+            "ta_term": "கட்டமைப்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "subculture",
+            "ta_term": "உட்பண்பாடு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "superstition",
+            "ta_term": "மூடநம்பிக்கை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "syntagmatic analysis",
+            "ta_term": "தொடர்பாட்டு ஆய்வுமுறை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "syntagmatic structural analysis",
+            "ta_term": "தொடர்பாட்டுக் கட்டமைப்பியல் ஆய்வு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "tale type",
+            "ta_term": "கதை வகை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "taliman",
+            "ta_term": "தாயத்து"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "temporary god",
+            "ta_term": "தற்காலிகக் கடவுள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "territorial endogamy",
+            "ta_term": "நிலத்திணை அகமணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "text",
+            "ta_term": "பனுவல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "texture",
+            "ta_term": "இழைவு அமைப்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "theme",
+            "ta_term": "அடிக்கருத்து, உரிப்பொருள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "tongue twisters",
+            "ta_term": "நாப்பயிற்சி பாடல்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "totem",
+            "ta_term": "குலக்குறி, குலமரபுச் சின்னம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "totem animals",
+            "ta_term": "குலக்குறி விலங்குகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "totem pole",
+            "ta_term": "குலக்குறி கம்பம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "totemism",
+            "ta_term": "குலக்குறியியல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "tragic heroes",
+            "ta_term": "சோகக்கதைத் தலைவர்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "trans culturation",
+            "ta_term": "பண்பாட்டு ஊடுகலப்பு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "transformation",
+            "ta_term": "உருமாற்றம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "trickster",
+            "ta_term": "எத்துவாளி"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "trickster tales",
+            "ta_term": "எத்துவாளிக் கதைகள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "unilineal descent group",
+            "ta_term": "ஒருகால்வழி மரபுக்குழு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "unsaturated question",
+            "ta_term": "நிறைவுறா வினா"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "values",
+            "ta_term": "விழுமியங்கள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "variant",
+            "ta_term": "திரிபு வடிவம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "verbal art",
+            "ta_term": "வாய்மொழிக் கலை"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "version",
+            "ta_term": "வடிவம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "vertical transmission",
+            "ta_term": "குத்துநிலைப் பரிமாற்றம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "village endogamy",
+            "ta_term": "சிற்றூர் அகமணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "village exogamy",
+            "ta_term": "சிற்றூர் புறமணம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "vow",
+            "ta_term": "நேர்ச்சை, சூள்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "white magic",
+            "ta_term": "தூய மந்திரம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "witch craft",
+            "ta_term": "சூனியம், சூனியக்கலை, பில்லிசூனியம்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "work song/ labour song",
+            "ta_term": "தொழிற்பாடல்"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "world view",
+            "ta_term": "உலக நோக்கு"
+        },
+        {
+            "subject": "Folk lore",
+            "en_term": "xenocentrism",
+            "ta_term": "அயலின உயர்வுவாதம்"
+        }
+    ]
+}

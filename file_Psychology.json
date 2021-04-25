@@ -1,0 +1,5974 @@
+{
+    "tamil_glossary": [
+        {
+            "subject": "Psychology",
+            "en_term": "ability",
+            "ta_term": "திறன், திறமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ability tests",
+            "ta_term": "திறனறிச் சோதனைகள், திறமைச் சோதனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "abnormal behaviour",
+            "ta_term": "பிறழ் நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "abnormal electrical activity",
+            "ta_term": "பிறழ் மின்னியக்கம் (மூளை)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "abnormality",
+            "ta_term": "பிறழ்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "absolute threshold",
+            "ta_term": "கண்டுபிடிப்பு நுழைநிலை (வாயில்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "abstract word",
+            "ta_term": "நுண்மச் சொல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "abuse",
+            "ta_term": "தவறான பயன்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "acalculia",
+            "ta_term": "அல்கணிப்பு, கணிப்பல்லா"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "accidental poisoning",
+            "ta_term": "நேர்ச்சி நச்சேற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "accomodation",
+            "ta_term": "தகவேற்பு, தகுநிலைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "achievement motivation",
+            "ta_term": "சாதனை உந்துதல், ஈட்டார்வ உந்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "achievement tests",
+            "ta_term": "சாதனைச் சோதனைகள், ஈட்டார்வச் சோதனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "acquisition",
+            "ta_term": "ஈட்டுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "acquisition curve",
+            "ta_term": "ஈட்டல் வரைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "activational role of sex hormones",
+            "ta_term": "பாலினக் கிளர்மங்களின் தூண்டுவிப்புப் பணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "acupuncture anaesthaesia",
+            "ta_term": "அலகுகுத்து உணர்விழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "acute stressors",
+            "ta_term": "கடும் இறுக்கமூட்டிகள், துடிப்பான அழுத்தக் காரணிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "addison’s disease",
+            "ta_term": "அடிசன் நோய்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "adolescence",
+            "ta_term": "விடலைப் பருவம், வளரிளம் பருவம், குமரப் பருவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "adrenal glands",
+            "ta_term": "அண்ணீரகச் சுரப்பிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "affect",
+            "ta_term": "(உளவியலில்) மனப்பாங்கு, மனநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "affection",
+            "ta_term": "அன்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "affective disorders",
+            "ta_term": "மனநிலைக் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "afferent",
+            "ta_term": "ஏல், ஏற்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "afferent codes",
+            "ta_term": "ஏல் சுட்டுகள், ஏற்புச் சுட்டுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "affiliation",
+            "ta_term": "இணைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "age scale",
+            "ta_term": "அகவை அளவுகோல், வயது அளவுகோல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aggression",
+            "ta_term": "வன்தாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aggressive",
+            "ta_term": "வன்தாக்க"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aggressive behaviour",
+            "ta_term": "வன்தாக்க நடத்தை, காட்டமான நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "agnosia",
+            "ta_term": "உணர்திறனின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "alarm reaction",
+            "ta_term": "எச்சரிப்பு எதிர்வினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "alerting response",
+            "ta_term": "விழிப்புத் துலங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "alexia",
+            "ta_term": "அல்வாசிப்பு, வாசிப்பல்லா"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "all or none law",
+            "ta_term": "ஆம் அல்லது இல்லை விதி, உண்டு அல்லது இல்லை விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "already-formed memories",
+            "ta_term": "முன் ஆக்க நினைவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "altruism",
+            "ta_term": "இன நலங்காணல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "alzhemeir’s disease",
+            "ta_term": "அல்சீமர்ஸ் நோய், அல்சீமரியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "amenorrhoea",
+            "ta_term": "மாதவிலக்கின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "amnesia",
+            "ta_term": "நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "amnesiac",
+            "ta_term": "நினைவிழந்தவர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "amnesic episode",
+            "ta_term": "நினைவிழப்பு நிகழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "amygdala",
+            "ta_term": "சிறுமூளை மடல், வாதுமை மடல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anal expulsive",
+            "ta_term": "மலவாய்த் தள்ளமைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anal retentive",
+            "ta_term": "மலவாய்த் தங்கமைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anal stage",
+            "ta_term": "மலவாய் நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "analogue",
+            "ta_term": "ஒப்புமை, ஒப்புரு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "analogue study",
+            "ta_term": "ஒப்புமை ஆய்வு, ஒப்புரு ஆய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "analytical therapy",
+            "ta_term": "பகுமுறை மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anatomy of language",
+            "ta_term": "மொழியின் அமைப்பியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anchoring",
+            "ta_term": "ஊன்றுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "androgens",
+            "ta_term": "ஆண்மை இசைமம் (இயக்கு நீர்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anger",
+            "ta_term": "சினம், கோபம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "angiotensin ii",
+            "ta_term": "இரத்த அழுத்த மிகைப்பி மிமி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "angular gyrus",
+            "ta_term": "கோண விடரிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anhedonia",
+            "ta_term": "மகிழ்மறுப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anima",
+            "ta_term": "பண்டணங்கு, தொல்லணங்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "animism",
+            "ta_term": "(உளவியலில்) உயிர்காரணியம், இயல்காரணியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "animus",
+            "ta_term": "உள்ளுணர்ச்சி, பகைமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anorexia nervosa",
+            "ta_term": "அனாரெக்சியா நெர்வோசா, பசியின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anterograde amnesia",
+            "ta_term": "முன்னோக்கு நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "antibodies",
+            "ta_term": "எதிர்மங்கள், எதிர்திரள்விகள், எதிர்மக்கூறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "antigen",
+            "ta_term": "வினையியக்கப் பொருள், விளைவியக்கக் கூறு, விளைவியம் (விளைவைத் தூண்டும் பொருள்), உடற்காப்பு ஊக்கி, காப்புமூலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "antioxidants",
+            "ta_term": "எதிர் ஆக்சிகரணிகள், உயிரகந் தடுப்பிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "antisocial personality disorder",
+            "ta_term": "சமூகவெதிர்ப்பு ஆளுமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "antonomic nervous system",
+            "ta_term": "தன்னியக்க (மறிவினை) நரம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anxiety",
+            "ta_term": "மனப்பதற்றம், பதற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anxiety disorders",
+            "ta_term": "பதற்றக் கோளாறுகள், மனப்பதற்ற நோய்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "anxiety provoking information",
+            "ta_term": "பதற்றம் தூண்டு தகவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aphasia",
+            "ta_term": "பேச்சிழப்பு, பேச்சின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "apnoea",
+            "ta_term": "மூச்சு நிறுத்தம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "apparent motion",
+            "ta_term": "தோற்ற இயக்கம், தோற்ற அசைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "appraisal",
+            "ta_term": "மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "approach-approach conflict",
+            "ta_term": "அணுக்க-அணுக்க முரண்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "approach-avoidance conflict",
+            "ta_term": "அணுக்க-தவிர்ப்பு முரண்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "apraxia",
+            "ta_term": "உணர்வியக்கமின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aptitude",
+            "ta_term": "மனப்பாங்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aptitude tests",
+            "ta_term": "மனப்பாங்குச் சோதனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "archetypes",
+            "ta_term": "தொல் வகையன்கள், தொல்படிமங்கள், கருத்துப்படிமங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "arcuate fasciculus",
+            "ta_term": "வளைவுக் கற்றை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "arousal",
+            "ta_term": "கிளர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aroused emotional state",
+            "ta_term": "கிளர் உணர்ச்சி நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "art",
+            "ta_term": "கலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ascending reticular activating system",
+            "ta_term": "ஏறு பின்னலியத் தூண்டுவிப்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "assimilation",
+            "ta_term": "உள்ளீர்ப்பு, தன்மயமாதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "association areas",
+            "ta_term": "தொடர்புப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "association cortex",
+            "ta_term": "தொடர்புப் புறணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "assortative mating",
+            "ta_term": "தெரிகலப்புச் சேர்க்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ataxia",
+            "ta_term": "நிலைதடுமாற்றம், நடைச்சிக்கல், தள்ளாட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "atherosclerosis",
+            "ta_term": "இரத்தநாள இறுக்கம், குருதிக்குழல் தடிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attachment",
+            "ta_term": "ஒட்டுதல், பற்று"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attention",
+            "ta_term": "கவனம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attention deficit disorder",
+            "ta_term": "கவனக் குறைபாட்டுக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attention getting features",
+            "ta_term": "கவன ஈர்ப்புக் கூறுபாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attentional response",
+            "ta_term": "கவன ஈர்ப்புத் துலங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attitude",
+            "ta_term": "அணுகுமுறை, போக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attitude item",
+            "ta_term": "அணுகுமுறை உறுப்படி, மனப்போக்கு உறுப்படி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attitude polling",
+            "ta_term": "கருத்துக் கணிப்பு, மனப்போக்குக் கணிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attitude scale",
+            "ta_term": "அணுகுமுறை அளவுகோல், மனப்போக்கு அளவுகோல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attitude similarity",
+            "ta_term": "அணுகுமுறை ஒற்றுமை, மனப்போக்கு ஒற்றுமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attribution",
+            "ta_term": "இயற்பண்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "attributional style",
+            "ta_term": "இயற்பண்புப் பாணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "auditory agnosia",
+            "ta_term": "கேட்பு உணர்திறனின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "autism",
+            "ta_term": "புறந்தவிர்மை, புறந்தெளிவின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "autistic thinking",
+            "ta_term": "தன்னகச் சிந்தனை, புறநினைப்பற்றச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "auto shaping",
+            "ta_term": "தற்செம்மையாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "auto suggestion",
+            "ta_term": "தன்பரிந்துரை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "autokinetic effect",
+            "ta_term": "தன்னியக்க விளைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "automatic thoughts",
+            "ta_term": "தன்னியக்கச் சிந்தனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "autonomy",
+            "ta_term": "தன்னதிகாரம், தன்கட்டுப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aversion therapy",
+            "ta_term": "அருவருப்பு மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "aversive conditioning",
+            "ta_term": "வெறுப்பூட்டுப் பழக்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "avoidance learning",
+            "ta_term": "தவிர்ப்புக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "avoidance-avoidance conflict",
+            "ta_term": "தவிர்ப்பு-தவிர்ப்பு முரண்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "avoidant personality disorder",
+            "ta_term": "தவிர்ப்பு ஆளுமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "balance theory",
+            "ta_term": "சமனிலைக் கொள்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "balanced figure",
+            "ta_term": "சமன்பட்ட உருவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "basal ganglia",
+            "ta_term": "அடிமூளை நரம்பு முடிச்சு, அடிமூளை நரம்புத்திரள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "baseline",
+            "ta_term": "அடிநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "basic anxiety",
+            "ta_term": "அடிப்படைப் பதற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "basic hostility",
+            "ta_term": "அடிப்படை வெறுப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "basic trust",
+            "ta_term": "அடிப்படை நம்பிக்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behaviour genetics",
+            "ta_term": "நடத்தை மரபியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behaviour modification",
+            "ta_term": "நடத்தைத் திருத்தம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behaviour shaping",
+            "ta_term": "நடத்தைச் செம்மையாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behaviour therapy",
+            "ta_term": "நடத்தை மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural assessment",
+            "ta_term": "நடத்தைக் கணிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural belief",
+            "ta_term": "நடத்தை நம்பிக்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural control",
+            "ta_term": "நடத்தைக் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural intention",
+            "ta_term": "நடத்தை நோக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural medicine",
+            "ta_term": "நடத்தை மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural perspective",
+            "ta_term": "நடத்தைக் கண்ணோட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behavioural rating scale",
+            "ta_term": "நடத்தைக் கணிப்பு அளவுகோல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behaviourism",
+            "ta_term": "நடத்தையியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "behaviourist",
+            "ta_term": "நடத்தையியலர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "beliefs",
+            "ta_term": "நம்பிக்கைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "belongingness",
+            "ta_term": "உரித்தான தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bereavement",
+            "ta_term": "இழப்புத்துயரம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "binocular cues",
+            "ta_term": "இரட்டைவிழிக் குறிப்புகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "biogram",
+            "ta_term": "உயிர்வரைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "biological amnesia",
+            "ta_term": "உயிரியல் நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "biological events",
+            "ta_term": "உயிரியல் நிகழ்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "biological perspective",
+            "ta_term": "உயிரியல் கண்ணோட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "biomedical therapy",
+            "ta_term": "உயிர்மருத்துவமுறை நோயாற்றுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bipolar",
+            "ta_term": "இருமுனைய"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bipolar disorder",
+            "ta_term": "இருமுனையக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bisexuals",
+            "ta_term": "இருபாலின"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "blind spot",
+            "ta_term": "குருட்டுப் புள்ளி, அந்தகப் புள்ளி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "body language",
+            "ta_term": "உடல்மொழி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bonding",
+            "ta_term": "ஒட்டுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bone mineral density",
+            "ta_term": "எலும்புக் கனிம அடர்த்தி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "borderline personality disorder",
+            "ta_term": "விளிம்புநிலை ஆளுமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brain",
+            "ta_term": "மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brain cells",
+            "ta_term": "மூளையணுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brain comparator",
+            "ta_term": "மூளை ஒப்பீட்டாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brain electrical activity mapping",
+            "ta_term": "மூளை மின்னியக்க வரைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "breathing related sleeping disorder",
+            "ta_term": "மூச்சுச்சார் உறக்கக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "bright vision",
+            "ta_term": "பொலிவுப் பார்வை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brightness",
+            "ta_term": "பொலிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brightness constancy",
+            "ta_term": "பொலிவுமாறா"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "brisk walking",
+            "ta_term": "விரைவு நடை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "broca pattern of speech",
+            "ta_term": "புரோக்கா பேச்சமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "broca’s area",
+            "ta_term": "புரோக்கா பகுதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cardinal traits",
+            "ta_term": "முதன்மைத் தற்சாயல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cardiovascular disease",
+            "ta_term": "இதயநாள நோய்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "case",
+            "ta_term": "(மருத்துவஞ்சார் முறைகளில்) ஆளர், பிணியாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "castration anxiety",
+            "ta_term": "விரையகற்றப் பதற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "catatonic type",
+            "ta_term": "திரிபுத்தோரணை வகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "categorical perception of phonemes",
+            "ta_term": "ஒலியன் வகைமை உய்த்துணர்வு (புலன்காட்சி)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "catharsis",
+            "ta_term": "உணர்ச்சி வெளிப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "causal beliefs",
+            "ta_term": "தற்செயல் நம்பிக்கைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cellular dehydration thirst",
+            "ta_term": "உயிரணு நீரிழப்புத் தாகம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "central nervous system",
+            "ta_term": "மைய நரம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "central traits",
+            "ta_term": "மையத் தற்சாயல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cerebellum",
+            "ta_term": "சிறுமூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cerebral cortex",
+            "ta_term": "பெருமூளைப் புறணி, மூளைப் புறணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cerebrum",
+            "ta_term": "பெருமூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "challenge",
+            "ta_term": "அறைகூவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "child psychology",
+            "ta_term": "குழந்தை உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "childhood amnesia",
+            "ta_term": "குழந்தைப்பருவ நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "childhood underweight",
+            "ta_term": "எடைகுறைந்த குழந்தைப்பருவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "choleric",
+            "ta_term": "முற்சின, முன்கோப"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chosen action",
+            "ta_term": "தெரிவுசெய்யப்பட்ட செயல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chromoceptive",
+            "ta_term": "வண்ண உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chromosomes",
+            "ta_term": "பண்பகங்கள் (மரபுத்திரிகள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chronic intermittent stressor",
+            "ta_term": "நீள்கால இடைவிட்ட இறுக்கமூட்டி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chronic stressors",
+            "ta_term": "நீண்டகால இறுக்கமூட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chronoceptive",
+            "ta_term": "கால உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chronological age",
+            "ta_term": "உடல் வயது"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "chunking",
+            "ta_term": "தொகுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "circadian rhythm sleep disorder",
+            "ta_term": "சுழல்பருவ ஒத்திசைவு உறக்கக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cirrhosis of the liver",
+            "ta_term": "கல்லீரல் கரணை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clanging",
+            "ta_term": "ஒலிக்கோப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "classical conditioning",
+            "ta_term": "செவ்வியல் பழக்குதல், செவ்வியல் பழக்கமுறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "classical conditioning techniques",
+            "ta_term": "செவ்வியல் பழக்கு நுட்பங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "claustrophobia",
+            "ta_term": "சிற்றிடவச்சம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clearness",
+            "ta_term": "தெளிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clearness in depth perception",
+            "ta_term": "ஆழ உணர்வுத் தெளிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "client centred therapy",
+            "ta_term": "பயனாளர் மைய மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "climacteric",
+            "ta_term": "பாலினமுற்று"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clinical method",
+            "ta_term": "மனைசார் முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clinical psychologist",
+            "ta_term": "மனைசார் உளவியலாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clinical psychology",
+            "ta_term": "மனைசார் உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "clinical syndromes",
+            "ta_term": "மனைசார் நோயியங்கள் (நோய்த்தொகைகள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "closed - ended questions",
+            "ta_term": "மூடெல்லை வினாக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "closure",
+            "ta_term": "நிரப்புகை, மூடுகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognition",
+            "ta_term": "அறிதல்(நிகழ்வு), தெரிவாற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive",
+            "ta_term": "தெரிவுசார், அறிதல்சார்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive - appraisal theory of emotions",
+            "ta_term": "உணர்ச்சிகள் குறித்த தெரிவுசார் மதிப்பீட்டுக் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive behaviour therapy",
+            "ta_term": "தெரிவு நடத்தை மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive development",
+            "ta_term": "தெரிவு வளர்ச்சி, அறிதல்திற வளர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive disorders",
+            "ta_term": "தெரிவுக் கோளாறுகள், அறிதற் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive dissonance",
+            "ta_term": "தெரிவு வேற்றுமை, அறிதல் எதிரிசைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive distortion",
+            "ta_term": "தெரிவுச் சிதைவு, அறிதிறக் குலைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive framework",
+            "ta_term": "தெரிவு அமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive learning",
+            "ta_term": "தெரிவு வகைக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive map",
+            "ta_term": "தெரிவு வரைபடம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive perspective",
+            "ta_term": "தெரிவுக் கண்ணோட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive processes",
+            "ta_term": "தெரிவு நிகழ்வுகள், அறிதல் நிகழ்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive psychology",
+            "ta_term": "தெரிவு உளவியல், அறிதல்சார் உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive response approach",
+            "ta_term": "தெரிவுத்துலங்கல் அணுகுமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive restructuring",
+            "ta_term": "தெரிவு மீள்கட்டுமானம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive slippage and derailment",
+            "ta_term": "தெரிவுத் தடுமாற்றமும் தடம் புரளலும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive specificity hypothesis",
+            "ta_term": "தெரிவுச் சிறப்புக் கருதுகோள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive structural school",
+            "ta_term": "தெரிவுக் கட்டுமானக் கொள்கையாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive therapy",
+            "ta_term": "தெரிவு மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cognitive triad of depression",
+            "ta_term": "மனச்சோர்வுத் தெரிவு (அறிதல்) மும்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cold sensation",
+            "ta_term": "குளிருணர்வு, பனித்த உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "collective conscious",
+            "ta_term": "கூட்டு நனவுநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "collective unconscious",
+            "ta_term": "கூட்டு நனவிலி நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "collegial marriage",
+            "ta_term": "தனிப்பொறுப்புத் திருமணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "colour vision",
+            "ta_term": "நிறக்காட்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "comforting behaviour",
+            "ta_term": "ஆறுதலிப்பு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "commitment",
+            "ta_term": "கடப்பாடு, ஈடுபாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "common fate",
+            "ta_term": "பொது விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "communication",
+            "ta_term": "தொடர்பு, தகவல் தொடர்பு, புலப்படுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "community mental health movement",
+            "ta_term": "சமுதாய மனநல இயக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "community psychology",
+            "ta_term": "சமுதாய உளவியல், சமூகநல உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "comorbidity",
+            "ta_term": "சகக்கோளாறு, நட்புக்கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "companionship marriage",
+            "ta_term": "தோழமைத் திருமணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "comparison level",
+            "ta_term": "ஒப்பீட்டு அளவு, ஒப்பீட்டு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "comparison level for alternatives",
+            "ta_term": "மாற்றுகளின் ஒப்பீட்டு நிலை, ஒன்றுவிட்டவற்றின் ஒப்பீட்டு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compatible",
+            "ta_term": "பொருந்திய, பொருத்தமான"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compatible goals",
+            "ta_term": "பொருந்திய இலக்குகள், ஒத்திசைவான இலக்குகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compensation",
+            "ta_term": "ஈடு, ஈடுசெய்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compensation and over compensation",
+            "ta_term": "ஈடும் மிகையீடும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "competence",
+            "ta_term": "பொருந்துதிறம், தகுதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "competition",
+            "ta_term": "போட்டி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "competition tendency",
+            "ta_term": "போட்டி மனப்பான்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "complex",
+            "ta_term": "(உளவியலில்) சிக்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compliance",
+            "ta_term": "இணக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compulsion of utter",
+            "ta_term": "உரை வற்புறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compulsion(s)",
+            "ta_term": "வற்புறுத்தல்(கள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compulsive gambler",
+            "ta_term": "வற்புறுத்தச் சூதாடி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compulsive personality",
+            "ta_term": "வற்புறுத்து ஆளுமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "compulsive personality disorder",
+            "ta_term": "வற்புறுத்து ஆளுமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "computerized axial tomography",
+            "ta_term": "கணினிய அச்சுப் பரு வரைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "concept",
+            "ta_term": "கருத்துரு, கருத்துப் படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "concordance",
+            "ta_term": "ஒப்புறவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "concrete imagery",
+            "ta_term": "பருநிலை உளப்படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "concrete operation",
+            "ta_term": "நிகழ்நிலைச் செயல்பாடு, பருஞ்செயல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "concrete word",
+            "ta_term": "உருவச் சொல், பருஞ்சொல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditional positive regard",
+            "ta_term": "வரையறை நேர்முக மதிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditioned emotional response",
+            "ta_term": "பழகிய உணர்ச்சித் துலங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditioned reflex",
+            "ta_term": "பழகிய மறிவினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditioned reinforcer",
+            "ta_term": "பழகிய மீளுறுதியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditioned response",
+            "ta_term": "பழகியத் துலங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditioned stimulus",
+            "ta_term": "பழக்கமுறு தூண்டல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditioning",
+            "ta_term": "பழக்கமுறுத்தல், பழக்குதல், உருவாக்குதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conditions of worth",
+            "ta_term": "விழுமியக் கட்டளைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conduct disorder",
+            "ta_term": "நடத்தைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cone cells",
+            "ta_term": "கூம்பு அணுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cone system",
+            "ta_term": "கூம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "confabulation",
+            "ta_term": "ஊகநிரப்புகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conflict",
+            "ta_term": "பூசல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conformity",
+            "ta_term": "ஒத்துப்போதல், வடிவொப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "connotative meaning",
+            "ta_term": "குறிப்புப் பொருள், மறைந்துறை பொருள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conscious",
+            "ta_term": "நனவுநிலை, உணர்நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "consensus information",
+            "ta_term": "பொது இசைவுத் தகவல், பொதுவேற்புத் தகவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conservative withdrawal reaction",
+            "ta_term": "மரபு பின்வாங்குதல் மறிவினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "consistency",
+            "ta_term": "சீர்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "consistency theories",
+            "ta_term": "சீர்மைக் கோட்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "constancy",
+            "ta_term": "நிலைத்தன்மை, மாறிலித்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "construct validity",
+            "ta_term": "கட்டுமானச் செல்லீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "constructive process",
+            "ta_term": "ஆக்கநிலைச் செயல்முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contact comfort",
+            "ta_term": "தொடுகை வசதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "content validity",
+            "ta_term": "உள்ளடக்கச் செல்லீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "context",
+            "ta_term": "நிலையமைப்பு, சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "continuation",
+            "ta_term": "தொடர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "continuous amnesia",
+            "ta_term": "தொடர் நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "continuous development",
+            "ta_term": "தொடர் வளர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "continuous reinforcement",
+            "ta_term": "தொடர் வலிவூட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contour",
+            "ta_term": "சமன்வரை, உருவரை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contrabilation",
+            "ta_term": "உடனுறைதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contralateral",
+            "ta_term": "மாற்றுப்பக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contralateral neglect",
+            "ta_term": "மாற்றுப்பக்கப் புறக்கணிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contraprepared behaviour",
+            "ta_term": "முரண் ஆயத்த நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "contributions rule",
+            "ta_term": "பங்களிப்பு(கள்) விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "control",
+            "ta_term": "கட்டுப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "control group",
+            "ta_term": "நிலைக்குழு, கட்டுப்பாட்டுக் குழு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "control group design",
+            "ta_term": "கட்டுப்பாட்டுக் குழு வடிவமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "control groups",
+            "ta_term": "கட்டுப்பாட்டுக் குழுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "control in experiments",
+            "ta_term": "செய்முறைகளில் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "control subjects",
+            "ta_term": "நிலைக்குழு ஆளர்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "controlled social drinking",
+            "ta_term": "கட்டுப்படுத்தப்பட்டச் சமூகக் குடிப்பழக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conventional level",
+            "ta_term": "வழக்க நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "convergent thinking",
+            "ta_term": "குவிநோக்குச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conversion disorder",
+            "ta_term": "மாற்றக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "conversion reaction",
+            "ta_term": "மாற்ற மறிவினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cooperative play",
+            "ta_term": "கூட்டு விளையாட்டு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "coping appraisal",
+            "ta_term": "சமாளிப்பு மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "coping behaviour",
+            "ta_term": "சமாளிப்பு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "coping capabilities",
+            "ta_term": "சமாளிப்புத் திறன்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "coping strategy",
+            "ta_term": "சமாளிப்புச் செயல்நெறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "coping style",
+            "ta_term": "சமாளிப்புப் பாணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "correlation",
+            "ta_term": "ஒப்புறவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counsel",
+            "ta_term": "அறிவுரை, கருத்துரை, வழக்குரைஞர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counselling",
+            "ta_term": "கலந்தாய்வியல், ஆலோசனையியல், ஆலோசனை வழங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counselling psychology",
+            "ta_term": "ஆலோசனை உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counsellor",
+            "ta_term": "ஆலோசகர், அறிவுரையாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counter attitudinal roleplaying",
+            "ta_term": "மாற்று அணுகுமுறை பாத்திர நடிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counter conditioning",
+            "ta_term": "மாற்றுப் பழக்கமுறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "counter transference reaction",
+            "ta_term": "எதிர்மாற்று வினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "creative self",
+            "ta_term": "படைப்பாக்க தன்னிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "creative thinker",
+            "ta_term": "படைப்புச் சிந்தனையாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "creative thinking",
+            "ta_term": "படைப்புச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "crime victims",
+            "ta_term": "குற்ற பாதிப்பாளர்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "critical period",
+            "ta_term": "உய்யக் காலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cross sectional method",
+            "ta_term": "குறுக்கு வெட்டு முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "crystallised intelligence",
+            "ta_term": "படிந்த அறிவுத்திறன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cultural - familial retardation",
+            "ta_term": "பண்பாட்டு-குடும்பக் குன்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "culture bound",
+            "ta_term": "பண்பாட்டு பிடிப்புற்ற"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "culture related",
+            "ta_term": "பண்பாடுசார்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "cushing’s syndrome",
+            "ta_term": "குஷிங் நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "daily stressors",
+            "ta_term": "அன்றாட இறுக்கமூட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "daylight vision",
+            "ta_term": "பகல் பார்வை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "decision making",
+            "ta_term": "முடிவெடுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "declarative memory",
+            "ta_term": "எடுத்துரைப்பு (பிரகடன) நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deduction",
+            "ta_term": "கொணர்முறைத் தீர்வு, காரணகாரியத் தீர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deductive reasoning",
+            "ta_term": "கொணர்முறைச் சிந்தனை, காரணகாரியத் தீர்வெடுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deep phase structure",
+            "ta_term": "ஆழ்நிலைக் கட்டமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deep structure",
+            "ta_term": "ஆழ் கட்டமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deepseated anger",
+            "ta_term": "கருவறுப்புச் சினம், ஆழ்சினம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "defence mechanisms",
+            "ta_term": "தற்காப்புச் செயல்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "defensive amnesia",
+            "ta_term": "தற்காப்பு நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "defensive avoidance",
+            "ta_term": "தற்காப்புத் தவிர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "defensive, high anxious",
+            "ta_term": "தற்காப்பு, உயர்பதற்ற"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "defensiveness",
+            "ta_term": "தற்காப்புத்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "delusional disorder",
+            "ta_term": "திரிவரண்மைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "delusions",
+            "ta_term": "திரிவரண்மைகள், மயக்க உணர்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "demand induced care",
+            "ta_term": "தேவைத் தூண்டும் கவனிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dementia",
+            "ta_term": "அறிவுத்திறன் வீழ்ச்சி, மன வளக்குறைவு, மனக்குறுக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "demonological model",
+            "ta_term": "தீநிலைப் படிமம், அரக்கப் படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "denial",
+            "ta_term": "மறுதலிப்பு, மறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "denotational meanings",
+            "ta_term": "தெரிநிலைப் பொருள்கள், சுட்டுப் பொருள்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dependence",
+            "ta_term": "சார்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dependent personality disorders",
+            "ta_term": "சார்புற்ற ஆளுமைக் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dependent variable",
+            "ta_term": "சார்புள்ள மாறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "depersonalization",
+            "ta_term": "தன்நீக்கம், தன்மை மறுப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "depersonalization disorder",
+            "ta_term": "தன்மறுப்புக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "depression",
+            "ta_term": "மன இழிபு, மனச்சோர்வு, அமிழ்விப்பு (செயல்பாடுகளைக் குறிக்கும்போது)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "depth perception",
+            "ta_term": "ஆழ உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "descriptive statistics",
+            "ta_term": "விவரிப்புப் புள்ளியியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "developmental perspective",
+            "ta_term": "வளர்ச்சிக் கண்ணோட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "developmental psychology",
+            "ta_term": "வளர்ச்சி உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deviance",
+            "ta_term": "விலக்கம், விலகிப்போதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "deviation iq",
+            "ta_term": "விலக்கம் அறிதிறன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dichotic",
+            "ta_term": "வேற்றுச் செவிய (உளவியலில்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "differential aptitude tests",
+            "ta_term": "வேறுபாட்டு மனப்பாங்குச் சோதனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "differential reinforcement",
+            "ta_term": "வேறுபாட்டு மீளுறுதிமை, நுண்ணிலை உறுதியூட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "differential threshold",
+            "ta_term": "வேறுபாட்டு நுழைநிலை, நுண்வாயில்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "difficult child syndrome",
+            "ta_term": "முரட்டுக் குழந்தை நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "directed thinking",
+            "ta_term": "குவிமுகச் சிந்தனை, நெறிபடுச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "disaster",
+            "ta_term": "பேரிடர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "discontinuous development",
+            "ta_term": "தொடர்ச்சியற்ற வளர்ச்சி, இடைவிட்ட வளர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "discrimination",
+            "ta_term": "பாகுபடுத்தல், பிரித்துணர்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "discrimination experiment",
+            "ta_term": "பாகுபாட்டுச் செய்முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "discrimination learning",
+            "ta_term": "பாகுபாட்டுக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "discriminative stimuli",
+            "ta_term": "பாகுபடுத்துத் தூண்டல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "disease related stressors",
+            "ta_term": "நோய்சார் இறுக்கமூட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "disguise urge",
+            "ta_term": "புனை உருவ உந்தல், மாறுவேடத் துடிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "disorders of affect",
+            "ta_term": "மனநிலைக் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "disorganized type",
+            "ta_term": "ஒழுங்குமுறையற்ற வகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "disorientation",
+            "ta_term": "குழப்பநிலை, திசைப்பிறழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "displacement",
+            "ta_term": "நிலைமாற்றம், நிலைப்பெயர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dispositional approach",
+            "ta_term": "தன்மைசார் அணுகுமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dissociative amnesia",
+            "ta_term": "பிரிப்பு நினைவிழப்பு, தொடர்புநீக்க நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dissociative disorder",
+            "ta_term": "பிரிப்புக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dissociative fugue",
+            "ta_term": "பிரிப்புப் பறத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dissociative identity disorder",
+            "ta_term": "பிரிப்பு அடையாளக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "distinctiveness",
+            "ta_term": "தனித்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "distress cycle",
+            "ta_term": "இன்னல் சுழற்சி, இடர் சுழற்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "divergent thinking",
+            "ta_term": "விரிநோக்குச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "divided brain",
+            "ta_term": "பகுமூளை, பிளவுற்ற மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dizygotic twins",
+            "ta_term": "இரு கருமுட்டை இரட்டையர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "doctor centred medicine",
+            "ta_term": "மருத்துவர் சார்பு மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dominant responses",
+            "ta_term": "ஓங்கியத் துலங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "double - bind communication",
+            "ta_term": "இரட்டைக் கட்டுத் தகவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "double depletion hypothesis",
+            "ta_term": "இரட்டை வறட்சிக் கருதுகோள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "double depression",
+            "ta_term": "இரட்டைச் சோர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dream amnesia",
+            "ta_term": "கனவு நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dream analysis",
+            "ta_term": "கனவு பகுப்பாய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dream anxiety disorder",
+            "ta_term": "கனவு பதற்றக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dreaming brain",
+            "ta_term": "கனவுகாண் மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dreamnig",
+            "ta_term": "கனவு காணல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "drive for superiority",
+            "ta_term": "மேலோங்கலுக்கான உந்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "drive theories",
+            "ta_term": "உந்தல் கோட்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "drug abuse",
+            "ta_term": "தவறான மருந்து பயன்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "duplicity theory of vision",
+            "ta_term": "பார்வைப்புலன் இருமைக் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "duty to warn",
+            "ta_term": "எச்சரிப்புக் கடமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dyads",
+            "ta_term": "இருவர் சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dynamic approaches",
+            "ta_term": "இயங்குநெறி அணுகுமுறை(கள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dyslexia",
+            "ta_term": "திரிபு வாசிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "dysphasia",
+            "ta_term": "திரிபுப் பேச்சு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "echolalia",
+            "ta_term": "எதிரொலிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ecological theory",
+            "ta_term": "சூழலியல் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "education psychology",
+            "ta_term": "கல்வி உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "effectance motivation",
+            "ta_term": "விளைவுறுத்து உந்துதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "efferent",
+            "ta_term": "இயல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego",
+            "ta_term": "தன்முனைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego analyst",
+            "ta_term": "தன்முனைப்பு ஆய்வாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego dystonic",
+            "ta_term": "முனைப்பு அயன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego ideal",
+            "ta_term": "முனைப்புக் கருத்தியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego identity",
+            "ta_term": "முனைப்பு அடையாளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego psychology",
+            "ta_term": "முனைப்பு உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ego syntonic",
+            "ta_term": "முனைப்பு உள்ளீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "egocentric cultures",
+            "ta_term": "தன்முனைப்பு மையப் பண்பாடுகள் (பழக்கங்கள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "eidetic imagery",
+            "ta_term": "மிகுநுட்ப உளப்படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "elaboration",
+            "ta_term": "விரிவாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "elaborative rehearsal",
+            "ta_term": "விரிவாக்க ஒத்திகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "elective mutism",
+            "ta_term": "தெரிவு ஊமைத்தனம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "electra complex",
+            "ta_term": "எலக்ட்ரா உளச் சிக்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "electroconvulsive therapy",
+            "ta_term": "மின்அதிர்ச்சி மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "electroencephalograph",
+            "ta_term": "மூளை மின்னலை வரைவி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "electromyograph",
+            "ta_term": "தசை மின்னலை வரைவி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "electroshock therapy",
+            "ta_term": "மின்னதிர்ச்சி மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emergency reaction",
+            "ta_term": "நெருக்கடிநிலை எதிர்வினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotion",
+            "ta_term": "உணர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotion focussed coping",
+            "ta_term": "உணர்ச்சி முனைப்பு சமாளிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional adjustment",
+            "ta_term": "உணர்ச்சிமய இணக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional disorder",
+            "ta_term": "உணர்ச்சிக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional disturbance",
+            "ta_term": "உணர்ச்சி குலைவுக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional expression",
+            "ta_term": "உணர்ச்சி வெளிப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional meaning",
+            "ta_term": "உணர்ச்சிமயப் பொருள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional numbness",
+            "ta_term": "உணர்ச்சி மரத்த நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotional regulation",
+            "ta_term": "உணர்ச்சி ஒழுங்குமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotionality",
+            "ta_term": "உணர்ச்சிமய நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "emotion-focussed coping strategy",
+            "ta_term": "உணர்ச்சிக் குவிந்த சமாளிப்புச் செயல்நெறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "empty nest",
+            "ta_term": "வெற்றுக்கூடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "encoding",
+            "ta_term": "குறிமுறையேற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "encounter group",
+            "ta_term": "நற்சேர்ப்புக் குழு (உளவியலில்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "encounter groups",
+            "ta_term": "எதிர்வினையாளர் குழுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "endogenous (adj)",
+            "ta_term": "உட்தோற்ற, உள்ளீட்டு, உள்ளமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "engram",
+            "ta_term": "நினைவு வரைபடம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "environmental forces",
+            "ta_term": "சூழல் விசைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "environmental frustration",
+            "ta_term": "சூழல் விரக்தி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "environmental obstacles",
+            "ta_term": "சூழல் தடைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "epilepsy",
+            "ta_term": "வலிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "episodic memory",
+            "ta_term": "நிகழ்வு நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "equalilty rule",
+            "ta_term": "சமன்மை விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "equilibrioceptive",
+            "ta_term": "சமநிலை உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "erogenous zones",
+            "ta_term": "பாலுணர்வுப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "eros",
+            "ta_term": "உயிர்ப்பூக்கம் (உளவியலில்), காம உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "erotomania",
+            "ta_term": "கையறு காதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "escape learning",
+            "ta_term": "தவிர்வுக் கற்றல், தப்பித்தல் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "esteem needs",
+            "ta_term": "விழுமியத் தேவைகள், மதிப்புத் தேவைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "estrogen",
+            "ta_term": "பெண்மை இயக்குநீர் (இசைமம்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ethologist",
+            "ta_term": "இன நடத்தையியலர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ethology",
+            "ta_term": "இன நடத்தையியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "etiology",
+            "ta_term": "காரணி, நோய்க்காரணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "evaluation",
+            "ta_term": "மதிப்பீடு, கணிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "evaluative meaning",
+            "ta_term": "கணிப்புப் பொருள், மதிப்பீட்டுப் பொருள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "exaggerated pain perception",
+            "ta_term": "மிகைப்பட்ட வலி உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "excitation",
+            "ta_term": "கிளர்வுறுதல், கிளர்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "executive functions of self",
+            "ta_term": "தனது செயல் இயக்கங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "exhibitionism",
+            "ta_term": "காட்சிமைத்தனம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "existential therapy",
+            "ta_term": "இருத்தலிய மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "expectancy",
+            "ta_term": "எதிர்பார்ப்பு மதிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "expectation",
+            "ta_term": "எதிர்பார்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "experimental controls",
+            "ta_term": "செய்முறைக் கட்டுப்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "experimental group",
+            "ta_term": "செய்முறைக் குழு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "experimental methods",
+            "ta_term": "செய்முறைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "experimental psychology",
+            "ta_term": "செய்முறை உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "external attribution",
+            "ta_term": "புறஞ்சார் பண்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "external locus of control",
+            "ta_term": "புறக்கட்டுப்பாட்டு மையம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "external stimulating environment",
+            "ta_term": "புறத் தூண்டுவிப்புச் சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "extinction",
+            "ta_term": "அணைதல், அழிதல், மறைதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "extrasensory perception",
+            "ta_term": "மீப்புலன் உணர்வு, புலன்கடந்த உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "extravert",
+            "ta_term": "புறநோக்கிய, புறம்போகும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "extrinsic motivation",
+            "ta_term": "புறநிலை உந்துதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "extroversion",
+            "ta_term": "புறநோக்குத்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "face validity",
+            "ta_term": "முகப்புத் தகுதி (தகவு)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "factitious disorder",
+            "ta_term": "இட்டுக்கட்டுக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "factor analysis",
+            "ta_term": "காரணிப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "factor theories",
+            "ta_term": "காரணிக் கோட்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "failure to thrive",
+            "ta_term": "பிழைப்புத் தோல்வி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "false nagative",
+            "ta_term": "பொய்மை எதிர்மறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "family resemblance structures",
+            "ta_term": "குடும்ப நினைவூட்டு கட்டமைவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "family stressors",
+            "ta_term": "குடும்ப இறுக்கமூட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "family therapy",
+            "ta_term": "குடும்ப மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fast food culture",
+            "ta_term": "ஆயத்த உணவுப் பண்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fat cells",
+            "ta_term": "கொழுப்பு அணுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fear",
+            "ta_term": "அச்சம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fear avoidance",
+            "ta_term": "அச்சந் தவிர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fear of pain",
+            "ta_term": "வலி குறித்த அச்சம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fear stimulus hierarchy",
+            "ta_term": "அச்சந் தூண்டல் படித்தளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "feedback",
+            "ta_term": "பின்னூட்டம், மீளூட்டம், மீள்தகவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "female orgasmic disorder",
+            "ta_term": "பெண் புணரின்பக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "female sexual arousal disorder",
+            "ta_term": "பெண்பாலினக் கிளர்நிலைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fetal alcohol syndrome",
+            "ta_term": "கருக்குழந்தை மது நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "field of experience",
+            "ta_term": "பட்டறிவுப் புலம், பட்டறிவுக் களம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "figure and ground",
+            "ta_term": "உருவமும் பின்புலமும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "filter bottleneck",
+            "ta_term": "வடிநிலை இடுக்கண், வடிகால் சல்லடை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "filter models of attention",
+            "ta_term": "கவனஈர்ப்பு வடிகால் படிமங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "filtering",
+            "ta_term": "வடித்தல், வடிகாலிடுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "first mental health revolution",
+            "ta_term": "முதலாவது மனநலப் புரட்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fixate",
+            "ta_term": "நிலைச்சுட்டு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fixation",
+            "ta_term": "நிலைப்புறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fixed action pattern",
+            "ta_term": "நிலைச் செயற்பாணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fixed interval schedule",
+            "ta_term": "நிலை இடைவெளித் திட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "flashback",
+            "ta_term": "நினைவு மீட்சி, நினைவு மீள்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "flat affect",
+            "ta_term": "தட்டை மனப்பாங்கு, தட்டை மனநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "flexibility",
+            "ta_term": "நெகிழ்வு, நெகிழ்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "flight of idea",
+            "ta_term": "கருத்து ஓடை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "flight or flight response",
+            "ta_term": "பறத்தல் அல்லது துலங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "flooding",
+            "ta_term": "வெள்ளப்பெருக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fluid intelligence",
+            "ta_term": "பாய்ம அறிவுத்திறன், ஆற்றொழுக்கு அறிவுத்திறன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "focal person",
+            "ta_term": "மையத் தனியர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "focus of experience",
+            "ta_term": "பட்டறிவு மையம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "foetal alcohol syndrome",
+            "ta_term": "கருக்குழந்தை மது நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "food choice",
+            "ta_term": "உணவுத் தேர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "forced choice format",
+            "ta_term": "கட்டாயத் தெரிவு முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "forebrain",
+            "ta_term": "முன்மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "forgetting",
+            "ta_term": "மறந்துபோதல், மறத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "form perception",
+            "ta_term": "வடிவ உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "formal operational stage",
+            "ta_term": "இயல் செயல்பாட்டு நிலை, இயல்பியக்கக் கட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "formal operations",
+            "ta_term": "இயல் செயல்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fraternal twins",
+            "ta_term": "உடன்பிறப்பு இரட்டையர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "free association",
+            "ta_term": "கட்டற்றத் தொடர்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "free floating anxiety",
+            "ta_term": "கட்டற்ற மிதப்புப் பதற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "free recall",
+            "ta_term": "கட்டற்ற நினைவு கூர்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "frequency",
+            "ta_term": "அலைவெண், நிகழ்வெண்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "frontal association cortex",
+            "ta_term": "நுதல் தொடர்புப் புறணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "frontal lobe",
+            "ta_term": "நுதல் மடல், நெற்றிப்பக்க மடல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "frustration",
+            "ta_term": "விரக்தி, ஆற்றாமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "frustration aggression hypothesis",
+            "ta_term": "ஆற்றாமை வன்தாக்கக் கருதுகோள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "full scale iq",
+            "ta_term": "முழு அளவுகோல் அறிதிறன் ஈவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "functional analysis of behaviour",
+            "ta_term": "நடத்தையின் செயல்பாட்டு ஆய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "functional fixedness",
+            "ta_term": "செயல்பாட்டு நிலைத்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "functionalism",
+            "ta_term": "செயல்பாட்டியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "fundamental frequency",
+            "ta_term": "அடிப்படை அலைவெண்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gamblers fallacy",
+            "ta_term": "சூதாடிப் பிழை (பிறழ்மை)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gender identity",
+            "ta_term": "பாலின அடையாளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gender identity disorder",
+            "ta_term": "பாலின அடையாளக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gender roles",
+            "ta_term": "பாலினப் பாத்திரங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "general adaptation syndrome",
+            "ta_term": "பொதுத் தகவமைவு நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "general arousal level",
+            "ta_term": "பொதுக் கிளர்மட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "generalised amnesia",
+            "ta_term": "பொதுமை நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "generalised anxiety disorder",
+            "ta_term": "பொதுமைப் பதற்றக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "generator potential",
+            "ta_term": "ஆக்கித் திறல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "genes",
+            "ta_term": "மரபணுக்கள், ஜீன்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "genetic disposition",
+            "ta_term": "மரபியல் சார்புநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "genetic psychology",
+            "ta_term": "மரபியல் உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "genetics",
+            "ta_term": "மரபியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "genital stage",
+            "ta_term": "பாலுறுப்புக் கட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gestalt psychology",
+            "ta_term": "முழுமன உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gestures",
+            "ta_term": "மெய்ப்பாடுகள், சைகைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "goal",
+            "ta_term": "இலக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "goal box",
+            "ta_term": "இலக்குப் பெட்டி, நோக்கப் பெட்டி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gonads",
+            "ta_term": "பாலினத் தூண்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "good behaviour/conduct",
+            "ta_term": "நல்லொழுக்க நடத்தை, நன்னடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "good figure",
+            "ta_term": "நல்வடிவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "good will",
+            "ta_term": "நல்லெண்ணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gradient of generalisation",
+            "ta_term": "பொதுவாக்கச் சரிமானம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gradient of texture",
+            "ta_term": "நயத் துல்லியச் சரிமானம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "gradual exposure",
+            "ta_term": "படிநிலை ஆட்பாடு, படிப்படியான வெளிப்படுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "grasp",
+            "ta_term": "புரி, தொடுபற்று"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "grip",
+            "ta_term": "(கைப்)பிடிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "group norms",
+            "ta_term": "குழு வரன்முறைகள், குழு விதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "group therapy",
+            "ta_term": "குழு மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "growth spurt",
+            "ta_term": "வளர்ச்சி வீச்சு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "haemoglobin",
+            "ta_term": "குருதிநிறமி, குருதிப் புரதமணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "halfway house",
+            "ta_term": "இடைவழிச் சாலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hallucination",
+            "ta_term": "பொய்க்காட்சி, கற்பிதத் திரிபுணர்வு, திரித்தெண்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hardiness",
+            "ta_term": "அஞ்சாமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "healing process",
+            "ta_term": "நோயாறும் நிகழ்முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health behaviour",
+            "ta_term": "நலவாழ்வு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health belief",
+            "ta_term": "நலவாழ்வு நம்பிக்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health care provider",
+            "ta_term": "நலக் கவனிப்பு வழங்குநர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health impairing behaviour",
+            "ta_term": "நலவாழ்வுச் சிதை நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health motivation",
+            "ta_term": "நலவாழ்வு உந்துதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health promotion",
+            "ta_term": "நலவாழ்வு மேம்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health protective behaviour",
+            "ta_term": "நலவாழ்வுப் பாதுகாப்பு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health psychology",
+            "ta_term": "நலவாழ்வு உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health risk behaviour",
+            "ta_term": "நலவாழ்வு இடர் நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "health threatening event",
+            "ta_term": "நலவாழ்வு அச்சுறுத்து நிகழ்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "helplessness",
+            "ta_term": "கையறுநிலை, ஆதரவற்ற நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hemispheric specialization",
+            "ta_term": "அரைக்கோளத் தெரிவு வல்லமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "heuristics",
+            "ta_term": "கூறாக்கியாய்தல், உடைத்தல், கூறுபோடுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hierarchial theory",
+            "ta_term": "படித்தளக் கொள்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hierarchial thinking",
+            "ta_term": "படித்தளச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hierarchy",
+            "ta_term": "படிநிலை, படித்தளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hierarchy of needs",
+            "ta_term": "தேவைப் படித்தளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "high anxious",
+            "ta_term": "உயர்பதற்ற"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "high consensus",
+            "ta_term": "உயர்நிலைப் பொது இசைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "high consistency",
+            "ta_term": "உயர்நிலைச் சீர்மை (ப் பதம்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "high distinctiveness",
+            "ta_term": "உயர்நிலைத் தனித்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "higher brain areas",
+            "ta_term": "உயர்மூளைப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "highstrain",
+            "ta_term": "மிகையிறுக்கம், மிகையழுத்தம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "highstrain job",
+            "ta_term": "மிகையிறுக்கப் பணி, மிகையழுத்தப் பணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hindbrain",
+            "ta_term": "பின் மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "histrionic personality disorder",
+            "ta_term": "தன்னீர்ப்பு ஆளுமைக் கோளாறு, மிகை மெய்ப்பாட்டு ஆளுமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "holophrase",
+            "ta_term": "வாக்கியச் சொல், முழுமைச் சொற்றொடர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hormone",
+            "ta_term": "இசைமம், அகச்சுரப்பு, இயக்குநீர், கிளர்மம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hostile aggression",
+            "ta_term": "வெறுப்பு வன்தாக்கம், பகை முற்றுகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hot reactors",
+            "ta_term": "வெப்ப வினையாளர்கள், வெப்ப வினைகலங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "humanistic approaches",
+            "ta_term": "மனிதநேய அணுகுமுறைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "humanistic perspective",
+            "ta_term": "மனிதநேயக் கண்ணோட்டம், மனிதநேய அணுகுமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "humanistic psychology",
+            "ta_term": "மனிதநேய உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "humanistic therapy",
+            "ta_term": "மனிதநேய மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hyperactivity",
+            "ta_term": "மிகைச் செயல்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypersomnia",
+            "ta_term": "மிகையுறக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hyperventilation",
+            "ta_term": "மிகுகாற்றோட்டம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypnogogic (adj)",
+            "ta_term": "உறக்கம் நுழை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypnopompic (adj)",
+            "ta_term": "உறக்கம் நீங்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypnosis",
+            "ta_term": "ஆழ்துயில், மனோவசியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypnotherapy",
+            "ta_term": "ஆழ்துயில் மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypoactive sexual desire disorder",
+            "ta_term": "குறைச்செயல்பாட்டுப் பாலின நாட்டக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypochondriasis",
+            "ta_term": "நோயெண்ணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypomania",
+            "ta_term": "தாழ்பித்தமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypothalamus",
+            "ta_term": "ஹைப்போதாலமஸ், மூளையடித் தலைமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypothetical thinking",
+            "ta_term": "கருதுகோள் முறைச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hypoxia",
+            "ta_term": "உயிரகக் குறை, ஆக்சிஜன் குறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "hysteria",
+            "ta_term": "அச்சவெறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "id",
+            "ta_term": "உள்முனைப்பு, அகம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ideal(adj)",
+            "ta_term": "உயர் குறிக்கோளுடைய, கருத்தியலான"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ideas of persecution",
+            "ta_term": "பழிதீர்ப்பு எண்ணங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ideas of reference",
+            "ta_term": "உள்நோக்க எண்ணங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "identification",
+            "ta_term": "அடையாளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "identity concept",
+            "ta_term": "அடையாளக் கருத்துரு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ideology",
+            "ta_term": "கருத்தியல், கொள்கை நெறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "illness belief",
+            "ta_term": "நோய் நம்பிக்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "illness identity",
+            "ta_term": "நோய் அடையாளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "illness representation",
+            "ta_term": "நோய்சார் பரிந்துரைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "illumination",
+            "ta_term": "அறிவுணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "illusion",
+            "ta_term": "திரிபுணர்வு, காட்சி மயக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "image and feeling memories",
+            "ta_term": "படிம, உணர்வு நினைவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "image, brain",
+            "ta_term": "மூளைப் படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "imagery",
+            "ta_term": "மனப்படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "imitiating factors",
+            "ta_term": "போல நிகழ்த்தும் கூறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "immediate memory",
+            "ta_term": "உடனடி நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "immune system",
+            "ta_term": "ஏம மண்டலம், நோயெதிர்ப்பு மண்டலம், தடுப்பாற்றல் மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "impaired attention",
+            "ta_term": "சிதைந்த கவனிப்பு, கவனக் குறைபாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "implicit personality theory",
+            "ta_term": "உள்ளார்ந்த ஆளுமைக் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "imprepared behaviours",
+            "ta_term": "ஆயத்தமுறா நடத்தைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "impression formation",
+            "ta_term": "உளப்பதிவு உருவாக்கம், மதிப்பு உருவாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "impulse control disorders",
+            "ta_term": "உந்தல் கட்டுப்பாட்டுக் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "in vivo",
+            "ta_term": "மெய்வாழ்வில்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incentive",
+            "ta_term": "ஊக்குவிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incentive motivation",
+            "ta_term": "ஊக்குவிப்பு உந்துதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incentive theories",
+            "ta_term": "ஊக்குவிப்புக் கோட்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incidence",
+            "ta_term": "நிகழ்வீதம், நிகழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "income dependency",
+            "ta_term": "வருமானச் சார்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incompatible",
+            "ta_term": "ஒத்திசையாத"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incompatible goals",
+            "ta_term": "ஒத்திசைவற்ற இலக்குகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "incubation",
+            "ta_term": "அடைகாப்புக் காலம், உள்ளுறை காலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "independent variable",
+            "ta_term": "தற்சார்பற்ற மாறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "indirect pathway",
+            "ta_term": "மறைமுகப் பாதை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "individual psychology",
+            "ta_term": "தனியர் உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "individuation",
+            "ta_term": "தனியராதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "indoor smoke",
+            "ta_term": "வீட்டகப் புகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inductive thinking",
+            "ta_term": "விரிப்புமுறைச் சிந்தனை, பொதுமைப்படுத்தல் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "industrial psychology",
+            "ta_term": "தொழிலக உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inference",
+            "ta_term": "உய்த்துணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inferiority complex",
+            "ta_term": "தாழ்வு மனப்பான்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inflammation",
+            "ta_term": "அழற்சி, வீக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inflexibility",
+            "ta_term": "நெகிழ்வின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "information and expectation",
+            "ta_term": "தகவலும் எதிர்பார்ப்பும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "information bottleneck",
+            "ta_term": "தகவல் இடுக்கண் (சல்லடை)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "information flow",
+            "ta_term": "தகவல் பாய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inhibited orgasm",
+            "ta_term": "தடுப்புற்ற புணரின்பம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "inhibition",
+            "ta_term": "தடையுறுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "input processing",
+            "ta_term": "உள்ளூட்ட முறைப்படுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "insanity defense",
+            "ta_term": "பித்துநிலைத் தற்காப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "insecurity",
+            "ta_term": "காப்பறுநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "insight",
+            "ta_term": "அகக்காட்சி, நுண்ணறிவு, ஆழ்ந்த அறிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "insight learning",
+            "ta_term": "உள்ளுறைக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "insomnia",
+            "ta_term": "உறக்கமின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "instinct",
+            "ta_term": "இயல்பூக்கம், உள்ளுணர்வு, உள்ளியல்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "institutionalization syndrome",
+            "ta_term": "நிறுவனமுறை நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "instrumental conditioning",
+            "ta_term": "கருவிமுறைப் பழக்குதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intake interview",
+            "ta_term": "ஆளெடுப்பு நேர்முகம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intellectual functionning",
+            "ta_term": "அறிதிறச் செயல்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intellectual maturity",
+            "ta_term": "அறிதிறன் முதிர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intelligence",
+            "ta_term": "அறிதிறன், மதிநுட்பம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intelligence quotient (I.Q)",
+            "ta_term": "அறிதிற ஈவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intelligence scale",
+            "ta_term": "அறிதிறன் அளவுகோல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intelligent quotient",
+            "ta_term": "அறிதிற ஈவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intense guilt",
+            "ta_term": "செறிந்த குற்றவுணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intense stimuli",
+            "ta_term": "செறிந்த தூண்டல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "internal attribution",
+            "ta_term": "அக இயற்பண்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "internal environment",
+            "ta_term": "உட்சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "internal locus of control",
+            "ta_term": "அகக் கட்டுப்பாட்டு மையம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "internal stimulating environment",
+            "ta_term": "அகத் தூண்டுவிப்புச் சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "interposition",
+            "ta_term": "இடையீடு, இடைக்கூற்று"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "interpretation",
+            "ta_term": "விளக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "interpropositional logic",
+            "ta_term": "கூற்றிடை ஏரணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intimate relationship",
+            "ta_term": "அணுக்க உறவு, நெருக்க உறவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "intravert (v)",
+            "ta_term": "அகநோக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "introversion",
+            "ta_term": "அகநோக்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "ipsilateral",
+            "ta_term": "தன்பக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "irony",
+            "ta_term": "வஞ்சப்புகழ்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "job stressors",
+            "ta_term": "பணிசார் இறுக்கமூட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "justification",
+            "ta_term": "சரியென நிறுவுகை, எண்பிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "juvenile delinquency",
+            "ta_term": "இளமைக் குற்றச்செயல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "juvenile offender",
+            "ta_term": "இளங் குற்றவாளி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "kleptomania",
+            "ta_term": "களவூக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "korsakoff’s syndrome",
+            "ta_term": "கொர்சகொஃப் நோயியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "laceration",
+            "ta_term": "சிராய்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "language communication",
+            "ta_term": "மொழிவழித் தொடர்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "language dominated memories",
+            "ta_term": "மொழி மேலோங்கு நினைவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "latent content",
+            "ta_term": "மறை உள்ளடக்கம், மறைபொருள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "latent learning",
+            "ta_term": "மறைமுகக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "lateralization",
+            "ta_term": "பக்கமுனைப்பு, பக்கமுனைப்புறுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "lateralized",
+            "ta_term": "பக்கமுனைப்புற்ற"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "law of closure",
+            "ta_term": "நிரப்புகை விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "law of good figure",
+            "ta_term": "நல்வடிவ விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "law of proximity",
+            "ta_term": "அணுக்க விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "law of similarity",
+            "ta_term": "ஒப்பமைவு விதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "learned helplessness",
+            "ta_term": "கற்ற கையறுநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "learning",
+            "ta_term": "கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "learning curve",
+            "ta_term": "கற்றல் வரை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "learning disabilities",
+            "ta_term": "கற்றல் குறைபாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "learning disorder",
+            "ta_term": "கற்றல் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "learning theorist",
+            "ta_term": "கற்றல் கோட்பாட்டாளர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "left brained people",
+            "ta_term": "இடது மூளையாளர்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "left handers",
+            "ta_term": "இடக்கையாளர்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "left-sided paralysis",
+            "ta_term": "இடது பக்கவாதம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "legal commitment",
+            "ta_term": "சட்டநிலைக் கடப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "leukocytes",
+            "ta_term": "வெள்ளணுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "liaison psychiatry",
+            "ta_term": "தொடர்பு உளமருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "life crisis",
+            "ta_term": "வாழ்நிலை நெருக்கடி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "life-change unit",
+            "ta_term": "வாழ்நிலை மாற்ற அலகு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "lifestyle modification",
+            "ta_term": "வாழ்முறை மாற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "limbic system",
+            "ta_term": "உறுப்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "linguistic competence",
+            "ta_term": "மொழித்தகுதி, மொழியியல் தகைமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "lipoprotein",
+            "ta_term": "கொழுபுரதம், கொழுமப் புரதம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "localised amnesia",
+            "ta_term": "காலச்சுட்டு நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "locus of control",
+            "ta_term": "கட்டுப்பாட்டு மையம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "long term",
+            "ta_term": "நீண்டகால"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "longitudinal studies",
+            "ta_term": "நெடுநிலை ஆய்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "love needs",
+            "ta_term": "அன்புத் தேவைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "low anxious",
+            "ta_term": "குறைபதற்ற"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "low consensus",
+            "ta_term": "தாழ்நிலைப் பொது இசைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "low consistency",
+            "ta_term": "தாழ்நிலைச் சீர்மை(ப் பதம்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "low distinctiveness",
+            "ta_term": "தாழ்நிலைத் தனித்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "lunacy and mental deficiency",
+            "ta_term": "பித்துநிலையும் வளரா மனநிலையும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "lunatic",
+            "ta_term": "பித்தன், பைத்தியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "magnetic resonance imaging (MRI)",
+            "ta_term": "காந்த ஒத்திசைவு உருவரைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "maintenance rehearsal",
+            "ta_term": "பேணல் ஒத்திகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "male erectile disorder",
+            "ta_term": "ஆண் கிளர்நிலைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "male orgasmic disorder",
+            "ta_term": "ஆண் புணரின்பக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "male sex hormones",
+            "ta_term": "ஆண் பாலின இசைமங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "malingering",
+            "ta_term": "நோய்நடிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mania",
+            "ta_term": "வெறி, வெறிமை, பித்தமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "manic depressive disorder",
+            "ta_term": "வெறிமை மனஇறுக்கக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "manic disorder",
+            "ta_term": "வெறிமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "manic episode",
+            "ta_term": "வெறிமை நிகழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "manifest content",
+            "ta_term": "வெளிப்படையான உள்ளுறை, தெரிநிலைப் பொருண்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mantra",
+            "ta_term": "மந்திரம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "margin of attention",
+            "ta_term": "கவன வரம்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "margin of experience",
+            "ta_term": "பட்டறிவு வரம்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "marital partners",
+            "ta_term": "திருமண இணையர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "markers",
+            "ta_term": "அடையாள அறிகுறிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mate selection",
+            "ta_term": "வாழ்க்கைத்துணைத் தேர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "maternal underweight",
+            "ta_term": "எடைகுறைந்த தாய்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "medical model",
+            "ta_term": "மருத்துவப் படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "meditative emotional state",
+            "ta_term": "அறிதுயில் வகை உணர்ச்சி நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "medulla",
+            "ta_term": "மூளை அகணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "medulla oblongata",
+            "ta_term": "முகுளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "melancholia",
+            "ta_term": "மிகுசோர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory formation",
+            "ta_term": "நினைவு உருவாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory gap",
+            "ta_term": "நினைவு இடைவெளி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory impairment",
+            "ta_term": "நினைவுச் சிதைபு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory improvement",
+            "ta_term": "நினைவு மேம்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory interference",
+            "ta_term": "நினைவுக் குறுக்கீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory machine",
+            "ta_term": "நினைவெந்திரம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "memory pegs",
+            "ta_term": "நினைவு முளைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "meningitis",
+            "ta_term": "மூளையுறை அழற்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mental age",
+            "ta_term": "மனமுதிர்ச்சி வயது"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mental dictionary",
+            "ta_term": "மன அகராதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mental status examination",
+            "ta_term": "மனநிலை ஆய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "method of loci",
+            "ta_term": "இட அமைப்பு முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "method of shaping",
+            "ta_term": "செம்மையாக்க வழிமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "method of successive approximations",
+            "ta_term": "தொடர்நிலைத் தோராயமாக்க முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "midbrain",
+            "ta_term": "இடை மூளை, நடு மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "midlife crisis",
+            "ta_term": "நடுவாழ்க்கை நெருக்கடி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "misplaced size constancy",
+            "ta_term": "பிறழ் அளவு மாறாமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mnemonic statement",
+            "ta_term": "நினைவுக் கூற்று"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "model",
+            "ta_term": "படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "modeling",
+            "ta_term": "படிமமாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "moderator",
+            "ta_term": "தணிப்பி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "monocular cues",
+            "ta_term": "ஒற்றைவிழி குறிப்புகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "monozygotic twins",
+            "ta_term": "ஒருகருமுட்டை இரட்டையர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mood",
+            "ta_term": "மனப்பாங்கு, மனநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "moral delinquency",
+            "ta_term": "ஒழுக்கத் தவறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "moral judgement",
+            "ta_term": "அறநெறி மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "moral principle",
+            "ta_term": "அறநிலை நெறிமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "moral therapy",
+            "ta_term": "அறநிலை மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "motivated forgetting",
+            "ta_term": "உந்துநிலை மறத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "motivational conflict",
+            "ta_term": "உந்துதல் முரண்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "motor areas",
+            "ta_term": "இயக்கப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "mouthing",
+            "ta_term": "வாயீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "multi level intervention",
+            "ta_term": "பல்தள இடையீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "multiphasic",
+            "ta_term": "பலகட்ட, பல தறுவாய்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "myocardial infarction",
+            "ta_term": "நெஞ்சுச் சுவர் இழைம நசிவு/ திசு நசிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "narcissistic personality disorder",
+            "ta_term": "தன்கவனிப்பு ஆளுமைக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "naturalistic observation method",
+            "ta_term": "இயல் கவனிப்பு முறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "nature-nurture controversy",
+            "ta_term": "இயற்கை-செயற்கை முரண்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "need for achievement",
+            "ta_term": "சாதனைக்கான தேவை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "negative emotions",
+            "ta_term": "எதிர்மறை உணர்ச்சிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "negative goal",
+            "ta_term": "எதிர்மறை இலக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "negative reinforcers",
+            "ta_term": "எதிர்மறை மீளுறுதியங்கள் (வலிவூட்டிகள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "negative symptoms",
+            "ta_term": "எதிர்மறை அறிகுறிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "neologisms",
+            "ta_term": "புத்தேரணங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "nerve impulses",
+            "ta_term": "நரம்பு உந்தல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "neuro transmitter",
+            "ta_term": "நரம்பியல் செலுத்தி (அனுப்பி)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "neuron",
+            "ta_term": "நரம்பணு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "neutral stimulus",
+            "ta_term": "நடுநிலைத் தூண்டல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "night vision",
+            "ta_term": "இரவுப் பார்வை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "nociceptive",
+            "ta_term": "நோயுணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "non language sounds",
+            "ta_term": "மொழிசாரா ஒலிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "noncortical areas",
+            "ta_term": "புறணியல்லாத பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "non-events",
+            "ta_term": "அல்நிகழ்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "normative belief",
+            "ta_term": "நெறிமுறை நம்பிக்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "novel stimuli",
+            "ta_term": "புதுத் தூண்டல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "noxious stimulus",
+            "ta_term": "தீங்குத் தூண்டல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "obedience",
+            "ta_term": "கீழ்ப்படிதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "obestiy",
+            "ta_term": "மிகை எடை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "object permanence",
+            "ta_term": "பொருள் நிலைப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "object relations",
+            "ta_term": "உட்பொருள் உறவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "object relations theory",
+            "ta_term": "உட்பொருள் உறவுகள் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "observational learning",
+            "ta_term": "கவனிப்புக் கற்றல், நோக்கீட்டுமுறைக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "obtrusive thoughts",
+            "ta_term": "உறுத்துச் சிந்தனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "oedipus complex",
+            "ta_term": "ஈடிபஸ் உளச்சிக்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "omission of reinforcement",
+            "ta_term": "வலிவூட்டம் விடுபாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "omission training",
+            "ta_term": "விடுபாட்டுப் பயிற்சி, நீக்கல் பயிற்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "opened questions",
+            "ta_term": "திறந்தநிலை வினாக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "operant conditioning",
+            "ta_term": "செயல்முறைப் பழக்குதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "oppositional defiant disorder",
+            "ta_term": "எதிர்ப்புறுதிக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optical illusions",
+            "ta_term": "பார்வைத் திரிபுணர்வு (காட்சி மயக்கம்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optimal (adj)",
+            "ta_term": "உகமநிலைசார், தகுநிலைசார்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optimism",
+            "ta_term": "நம்பிக்கைமுனைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optimistic",
+            "ta_term": "நம்பிக்கைக்கொண்ட"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optimistic behaviour",
+            "ta_term": "நம்பிக்கை நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optimum",
+            "ta_term": "உகப்புநிலை, தகுநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "optimum intellectual functioning",
+            "ta_term": "உகப்புநிலை அறிதிறன் செயல்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "oral stage",
+            "ta_term": "வாய்மொழி நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "organisational role of sex hormones",
+            "ta_term": "பாலின இசைமங்களின் நெறிப்படுத்தும் பங்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "over anxious disorder",
+            "ta_term": "மிகுபதற்றக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "overcompensation",
+            "ta_term": "மிகைஈடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "oxidative damage",
+            "ta_term": "ஆக்சிஜனேற்ற அழிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pain perception threshold",
+            "ta_term": "வலி உணர் வாயில்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pain sensation",
+            "ta_term": "நோவுணர்வு, வலியுணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pain threshold",
+            "ta_term": "வலி வாயில்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pain tolerance level",
+            "ta_term": "வலிதாங்கு நிலை, வலிப்பொறுதி நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "paired-associate technique",
+            "ta_term": "இணைத்தொடர்பு நுட்பம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "panic disorder",
+            "ta_term": "அச்சக் கோளாறு, திகில் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "paralinguistic",
+            "ta_term": "மொழியியலிகந்த, போலி மொழி(சார்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "parallel play",
+            "ta_term": "இணைநிலை விளையாட்டு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "parallel processing",
+            "ta_term": "இணைபோகு (வகை) செயல்முறைப்படுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "paranoid",
+            "ta_term": "மூட ஐயம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "paranoid type",
+            "ta_term": "மூட ஐய வகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "paraphilias",
+            "ta_term": "மாற்றீர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "parasomnias",
+            "ta_term": "மாற்றுறக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "parasympathetic nervous system",
+            "ta_term": "துணைப்பரிவு நரம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "parent deprivation",
+            "ta_term": "பெற்றோர் கிட்டாமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "parkinson’s disease",
+            "ta_term": "பார்க்கின்சன் நோய்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "passive smoking",
+            "ta_term": "பணிப்புப் புகைப்பு, புகைப்பு ஆட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "past learning",
+            "ta_term": "கடந்தகாலக் கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pathogen",
+            "ta_term": "நோயீனி, நோயூக்கி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pathological gambler",
+            "ta_term": "பிணி சூதாடி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "patient centred medicine",
+            "ta_term": "நோயாளிசார் மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pavlovian conditioning",
+            "ta_term": "பாவ்லோவிய பழக்குதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "peak experience",
+            "ta_term": "உச்சப் பட்டறிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pedophilia",
+            "ta_term": "பிள்ளையீர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "perception of emotion",
+            "ta_term": "உணர்ச்சி உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "perceptual constancy",
+            "ta_term": "உணர்திற மாறாமை, புலன்காட்சி நிலைத்தன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "perceptual organization",
+            "ta_term": "உய்த்துணர்வு ஒருங்கமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "perceptual process",
+            "ta_term": "உய்த்துணர்வு நிகழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "performance",
+            "ta_term": "செயல்திறம், நிகழ்த்துநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "performance anxiety",
+            "ta_term": "நிகழ்த்துநிலைப் பதற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "period prevalence",
+            "ta_term": "காலமுறை நிலவுகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "perpetuating factors",
+            "ta_term": "தொடர்விப்புக் காரணிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "perseveration",
+            "ta_term": "தொடர்திறம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "person centred theory",
+            "ta_term": "தனியர் மையக் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personal conscious",
+            "ta_term": "தனியர் நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personal forces",
+            "ta_term": "தன்னிலை விசைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personal frustration",
+            "ta_term": "தனியர் ஆற்றாமை (விரக்தி)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personalilty dimension",
+            "ta_term": "ஆளுமைப் பன்முகம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personality",
+            "ta_term": "ஆளுமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personality characteristics",
+            "ta_term": "ஆளுமைப் பான்மைகள், ஆளுமைத் தன்மைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personality disorders",
+            "ta_term": "ஆளுமைக் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "personality tests",
+            "ta_term": "ஆளுமைச் சோதனைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pessimism",
+            "ta_term": "நம்பிக்கைத் தளர்ச்சி, நம்பிக்கையின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "phallic stage",
+            "ta_term": "பாலுறுப்பு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "phoneme",
+            "ta_term": "ஒலியன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "photosensitive (adj)",
+            "ta_term": "ஒளிக்கூர், ஒளிப்புலன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "photosensitive pigments",
+            "ta_term": "ஒளிக்கூர் நிறமிகள், ஒளிப்புலன் நிறமிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "physical age",
+            "ta_term": "உடல் முதிர்ச்சி வயது"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "physiological dependence",
+            "ta_term": "உடலியங்கியல் சார்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "physiological psychology",
+            "ta_term": "உடலியக்க உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "physiology of emotion",
+            "ta_term": "உணர்ச்சியின் உடலியங்கியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "physiology of language",
+            "ta_term": "மொழியின் உடலியங்கியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pincer motion",
+            "ta_term": "பற்றுக்கோல் அசைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "placebo",
+            "ta_term": "மருந்தில்லா மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pleasure areas",
+            "ta_term": "களிப்புப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pleasure principle",
+            "ta_term": "களிப்பு நெறிமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "point prevalence",
+            "ta_term": "புள்ளி நிலவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "poisoning",
+            "ta_term": "நச்சேற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "polygene",
+            "ta_term": "பன்மரபணு(சார்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "polysomnographic recording",
+            "ta_term": "பல்லுறக்கப் பதிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pons",
+            "ta_term": "முகுளப்பாலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "population",
+            "ta_term": "மக்கள்தொகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "positive correlation",
+            "ta_term": "நேர்முக ஒப்புறவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "positive goal",
+            "ta_term": "நேர்முக இலக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "positive health behaviour",
+            "ta_term": "நேர்முக நலவாழ்வு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "positive reniforcers",
+            "ta_term": "நேர்முக வலிவூட்டிகள் (உறுதியூட்டிகள்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "positive symptoms",
+            "ta_term": "நேர்முக அறிகுறிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "positron emission tomography",
+            "ta_term": "நேர்மின்னணு உமிழ் பரு வரைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "post conventional level",
+            "ta_term": "பின்னை மரபு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "post traumatic stress disorder",
+            "ta_term": "பின்தாக்க இறுக்கக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "postpartum depression",
+            "ta_term": "பேறுசூழ் மனவிறக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pragmatics",
+            "ta_term": "பயன்பாட்டியல், நடைமுறையியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pragmatics of language",
+            "ta_term": "மொழியின் நடைமுறையியல் (பயன்பாட்டியல்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pre conventional level",
+            "ta_term": "முன்னை மரபு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "precipitating factors",
+            "ta_term": "நிகழ்விப்புக் காரணிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "preconscious",
+            "ta_term": "உணரும் முன், நினைவுமுன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "predisposing factors",
+            "ta_term": "முன்பாதிப்புக் காரணிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prefrontal cortex",
+            "ta_term": "முன்நெற்றிப் புறணி, முன்நுதல் புறணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prefrontal lobotomy",
+            "ta_term": "முன்நுதல் மடல் துளைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prehensile",
+            "ta_term": "பிடிப்புத் தன்மை, பிடிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "preparation",
+            "ta_term": "ஆயத்தப்பாடு, தயாரிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "presenting problem",
+            "ta_term": "உரைப்புச் சிக்கல், வெளிப்படுத்தற் சிக்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pressured speech",
+            "ta_term": "இறுக்கப் பேச்சு, அமிழ்வேகப் பேச்சு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prestige suggestion",
+            "ta_term": "தன்மதிப்புப் பரிந்துரை (க் குறிப்பு)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prevalence",
+            "ta_term": "நிலவல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "preventable mortality",
+            "ta_term": "தவிர்தகு உயிரிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prevention paradox",
+            "ta_term": "தவிர்ப்பு முரண்புதிர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "preventive health behaviour",
+            "ta_term": "தவிர்த்தல் நலவாழ்வு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "previous life experiences",
+            "ta_term": "வாழ்க்கை முன் பட்டறிவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary appraisal",
+            "ta_term": "முதன்மை மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary effect",
+            "ta_term": "முதன்மை விளைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary emotions",
+            "ta_term": "முதன்மை உணர்ச்சிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary motor area",
+            "ta_term": "முதன்மை இயக்கப் பகுதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary prevention",
+            "ta_term": "முதனிலைத் தவிர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary process thinking",
+            "ta_term": "முதன்மைச் செயலாக்கச் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary reinforcer",
+            "ta_term": "முதனிலை வலிவூட்டி, முதனிலை உறுதியூட்டி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary sensory area",
+            "ta_term": "முதன்மை உணர்வுப் பகுதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary sex characteristics",
+            "ta_term": "முதன்மைப் பாலினப் பான்மைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "primary visual sensory cortex",
+            "ta_term": "முதன்மைப் பார்வை உணர்வுப் புறணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "proactive interference",
+            "ta_term": "முன்னியக்கக் குறுக்கீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "proband",
+            "ta_term": "முதல்நிருணயப் பதிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "problem focussed coping",
+            "ta_term": "சிக்கல் முனைப்புச் சமாளிப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "problem focussed coping strategy",
+            "ta_term": "சிக்கல் முனைப்புச் சமாளிப்புச் செயல்நெறி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "problem solving",
+            "ta_term": "சிக்கல் தீர்த்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "procedural memory",
+            "ta_term": "செய்முறை நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "processing capacity",
+            "ta_term": "செயற்படுத்தும் திறன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "productive aphasia",
+            "ta_term": "கூறுதல் பேச்சின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "productive dysphania",
+            "ta_term": "கூறுதல் திரிபுப்பேச்சு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "progressive mental deterioration",
+            "ta_term": "வளர் மனநிலைச் சிதைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "prosocial behaviour",
+            "ta_term": "சமூகச்சார்பு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "protection motivation",
+            "ta_term": "பாதுகாப்பு உந்துதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "proximity",
+            "ta_term": "அணுக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "pseudo hallucination",
+            "ta_term": "போலித் திரிபெண்ணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psycho social threat",
+            "ta_term": "உளவியல்-சமூக அச்சுறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychoanalysis",
+            "ta_term": "உளப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychological amnesia",
+            "ta_term": "உளவியல் நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychological medicine",
+            "ta_term": "உளஞ்சார் மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychological services",
+            "ta_term": "உளவியல் பணிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychological threat",
+            "ta_term": "உளவியல் அச்சுறுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychology",
+            "ta_term": "உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychophysics",
+            "ta_term": "உளவியற்பியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychosomatic (adj)",
+            "ta_term": "மன-உடல்சார், உள்ளம்-உடல்சார்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychosomatic disorders",
+            "ta_term": "உளவுடல் கோளாறுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychotherapist",
+            "ta_term": "உளவியல் மருத்துவர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "psychotherapy",
+            "ta_term": "உளவியல் மருத்துவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "puberty",
+            "ta_term": "பூப்பு, பாலினப் பக்குவம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "public opinion polls",
+            "ta_term": "மக்கள் கருத்துக் கணிப்புகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "punisher",
+            "ta_term": "தண்டனையூட்டி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "punishment",
+            "ta_term": "தண்டனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "puzzle boxes",
+            "ta_term": "புதிர்ப் பெட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "random sampling",
+            "ta_term": "தற்போக்குக் கூறெடுத்தல், தற்போக்கு ஆய்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reappraisal",
+            "ta_term": "மீள் மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reasoned action",
+            "ta_term": "காரணமுற்றச் செயல்பாடு, அறிவார்ந்த செயல்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "recall",
+            "ta_term": "நினைவுமீட்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "recency effect",
+            "ta_term": "அண்மை விளைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "recent memory",
+            "ta_term": "அண்மை நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "receptive aphasia",
+            "ta_term": "புரிதல் பேச்சின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "receptive dysphasia",
+            "ta_term": "புரிதல் திரிபுப்பேச்சு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "receptive posture",
+            "ta_term": "ஏற்புத் தோரணை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "receptor potential",
+            "ta_term": "ஏற்புத் திறல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "receptors",
+            "ta_term": "ஏற்பிகள், வாங்கிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "recognition ability",
+            "ta_term": "அடையாள அறிதிறன், அடையாளத் திறன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "recognition of sound",
+            "ta_term": "ஒலி அடையாளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reconditioning",
+            "ta_term": "மீள்பழக்குதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reconstructive process",
+            "ta_term": "மீள்கட்டுமானச் செயல்முறைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "rectinal disparity",
+            "ta_term": "விழித்திரை வேறுபாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "re-experience",
+            "ta_term": "மீள் பட்டறிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reflective thinking",
+            "ta_term": "நினைவுகூர் சிந்தனை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reinforcement",
+            "ta_term": "மீளுறுதிமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reinforcer",
+            "ta_term": "மீளுறுதியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "relaxation response",
+            "ta_term": "தளர்வகை விளைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "releaser stimulus",
+            "ta_term": "விடுவிப்பித் தூண்டல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "releasing factors",
+            "ta_term": "விடுவிப்புக் காரணிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "rem sleep",
+            "ta_term": "ரெம் உறக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "remote memory",
+            "ta_term": "பழமை நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "repressed memories",
+            "ta_term": "ஒடுக்கிய நினைவுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "repression",
+            "ta_term": "அடக்கிவைத்தல், ஒடுக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "repressive coping style",
+            "ta_term": "ஒடுக்குமுறைச் சமாளிப்புப் பாணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "resilience",
+            "ta_term": "தாங்குதன்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "respondent conditioning",
+            "ta_term": "துலங்குமுறைப் பழக்குதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reticular formation",
+            "ta_term": "வலைய உருவாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "retinal disparity",
+            "ta_term": "விழித்திரை வேறுபாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "retrieval",
+            "ta_term": "மீளெடுப்பு, மீட்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "retrieval cues",
+            "ta_term": "மீளெடுப்புக் குறிப்புகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "retrieval failure",
+            "ta_term": "மீளெடுப்புத் தோல்வி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "retroactive interference",
+            "ta_term": "பின்னியக்கக் குறுக்கீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "retrograde amnesia",
+            "ta_term": "பின்னோக்கு நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "revision",
+            "ta_term": "மீள்பார்வை, திருத்தம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "reward areas",
+            "ta_term": "பரிசுப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "richness of memory",
+            "ta_term": "நினைவு வளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "right brained people",
+            "ta_term": "வலது மூளையாளர்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "right handers",
+            "ta_term": "வலக்கையாளர்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "right-sided paralysis",
+            "ta_term": "வலது பக்கவாதம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "rod cells",
+            "ta_term": "கம்பு அணுக்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "rod system",
+            "ta_term": "கம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "rods and cones",
+            "ta_term": "கம்புகளும் கூம்புகளும்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "role confusion",
+            "ta_term": "பாத்திரக் குழப்பம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "safety needs",
+            "ta_term": "பாதுகாப்புத் தேவைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "schedule of reinforcement",
+            "ta_term": "மீளுறுதிமை நிரல், மீளுறுதிமை அமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "scholastic aptitude",
+            "ta_term": "நூல்நெறி மனப்பாங்கு, பண்டித மனப்பான்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "school psychology",
+            "ta_term": "பள்ளி உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "science",
+            "ta_term": "அறிவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "secondary appraisal",
+            "ta_term": "துணைநிலை மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "secondary prevention",
+            "ta_term": "துணைநிலைத் தவிர்ப்பு, இரண்டாவதுகட்டத் தவிர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "secondary reinforcer",
+            "ta_term": "துணைநிலை மீளுறுதியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "secondary sexual characteristics",
+            "ta_term": "துணைநிலை பாலினப் பண்புகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "secondary traits",
+            "ta_term": "துணைநிலைத் தற்சாயல்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sedatives",
+            "ta_term": "தூக்கமருந்துகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "selective amnesia",
+            "ta_term": "தெரிவு நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self attribution",
+            "ta_term": "தற்சார்பியல்பு, தன் இயற்பண்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self esteem",
+            "ta_term": "தன் மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self inflicted injuries",
+            "ta_term": "தற்தோற்றுவிப்புக் காயங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self management",
+            "ta_term": "தன் மேலாண்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self regulation",
+            "ta_term": "தன் நெறிமுறை, தன் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self report methods",
+            "ta_term": "தன் அறிக்கை முறைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self sacrifice",
+            "ta_term": "தன் ஈகம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "self starvation",
+            "ta_term": "தன்பட்டினி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "semantic differential",
+            "ta_term": "பொருள்தொடர்பு வேறுபாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "semantic memory",
+            "ta_term": "பொருள்தொடர்பு நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "semantics",
+            "ta_term": "பொருண்மையியல், பொருள்தொடர்பியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensation seekers",
+            "ta_term": "பரபரப்பு நாடுபவர்கள், பரபரப்புத் தேடிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensation threshold",
+            "ta_term": "புலன்உணர்வு வாயில்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensations",
+            "ta_term": "புலன்உணர்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sense of coherence",
+            "ta_term": "இசைவு உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensory areas",
+            "ta_term": "புலன்உணர்வுப் பகுதிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensory channel",
+            "ta_term": "புலன்உணர்வுப் பாதை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensory cortex",
+            "ta_term": "புலன்உணர்வுப் புறணி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sensory register",
+            "ta_term": "புலன்உணர்வுப் பதிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "serial position effect",
+            "ta_term": "வரிசைநிலை விளைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "serial processing",
+            "ta_term": "தொடர்நிலைச் செயற்படுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sexual dysfunction",
+            "ta_term": "பாலுறவு இயலாமை, பாலுறவுக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sexual maturity",
+            "ta_term": "பாலினப் பக்குவம் (முதிர்வு)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "shaping",
+            "ta_term": "செம்மையாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "shared decision making",
+            "ta_term": "தீர்மானம் எடுத்தலில் பகிர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "short term",
+            "ta_term": "குறுங்கால"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "similarity",
+            "ta_term": "ஒப்பமைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "situation",
+            "ta_term": "சூழல், இடம், நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "situational approach",
+            "ta_term": "சூழல்சார் அணுகுமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "size constancy",
+            "ta_term": "அளவு மாறாமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sleep waking continuum",
+            "ta_term": "உறக்க, விழிப்புத் தொடர்ச்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "smell brain",
+            "ta_term": "மோப்ப மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "smooth muscle",
+            "ta_term": "வழுக்குத் தசை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social embeddedness",
+            "ta_term": "சமூக ஆழ்தளம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social exchange theory",
+            "ta_term": "சமூகப் பரிமாற்றக் கொள்கை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social facilitation",
+            "ta_term": "சமூக வசதியாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social influence",
+            "ta_term": "சமூகச் செல்வாக்கு, புறச் செல்வாக்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social isolation",
+            "ta_term": "சமூகத் தனிமைப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social perception",
+            "ta_term": "சமூக உய்த்துணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social psychology",
+            "ta_term": "சமூக உளவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social support",
+            "ta_term": "சமுதாய ஆதரவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "social withdrawal",
+            "ta_term": "சமூகப் பின்வாங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "socialization",
+            "ta_term": "சமூகமயமாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sociobiology",
+            "ta_term": "சமூக உயிரியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sociology",
+            "ta_term": "சமூகவியல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "solitary play",
+            "ta_term": "தனிமை விளையாட்டு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "somatic nervous system",
+            "ta_term": "உடலிய நரம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "source credibility",
+            "ta_term": "வாயில் செல்லுபடிநிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "species typical behaviour",
+            "ta_term": "இன இயல்பு நடத்தை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "species typical defense reactions",
+            "ta_term": "இன இயல்பு தற்காப்பு எதிர்வினைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "speech language",
+            "ta_term": "பேச்சுமொழி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "spinal cord",
+            "ta_term": "தண்டுவடம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "split brain",
+            "ta_term": "பிளவுற்ற மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "spontaneous recovery",
+            "ta_term": "தன்னூக்க மீட்சி, இயல்நிலை மீள்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "spontaneous speech",
+            "ta_term": "தன்னூக்கப் பேச்சு, இயல்நிலைப் பேச்சு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stage of exhaustion",
+            "ta_term": "களைப்பு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stage of resistance",
+            "ta_term": "எதிர்ப்பு நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "starting box",
+            "ta_term": "தொடக்கப் பெட்டி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "state dependent memory",
+            "ta_term": "நிலைசார் நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stereotype",
+            "ta_term": "அச்சு வகைமை, வார்ப்பு வகைமை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stimulating environment",
+            "ta_term": "தூண்டுவிப்புச் சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stimulus control of behaviour",
+            "ta_term": "நடத்தை மீதான தூண்டல் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stimulus discrimination",
+            "ta_term": "தூண்டல் பாகுபடுத்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stimulus generalization",
+            "ta_term": "தூண்டல் பொதுவாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stimulus imagery",
+            "ta_term": "தூண்டல் மனப்படிமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stimulus substitution",
+            "ta_term": "தூண்டல் பதிலியாக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "storage",
+            "ta_term": "தேக்கம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stress",
+            "ta_term": "இறுக்கம், அழுத்தம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stress inoculation",
+            "ta_term": "அழுத்த ஏமகரணம், இறுக்க ஏமகரணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stress management",
+            "ta_term": "அழுத்த மேலாண்மை, இறுக்க மேலாண்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stress reactions",
+            "ta_term": "அழுத்த வினைகள், அழுத்தச் செயல்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stress resistance",
+            "ta_term": "அழுத்தத் தடுப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stress vulnerability",
+            "ta_term": "அழுத்தவயமாதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stressful life event",
+            "ta_term": "அழுத்தம்தரு வாழ்க்கை நிகழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "stressors",
+            "ta_term": "அழுத்தக்காரணிகள், இறுக்கமூட்டிகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "striped muscles",
+            "ta_term": "வரித்தசைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "subjective contour",
+            "ta_term": "தன்மன உருவரை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "subjective organization",
+            "ta_term": "தன்னிலை நெறிப்படுத்தம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "substance use disorder",
+            "ta_term": "பொருள் பயன்பாட்டுக் கோளாறு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sugar pill",
+            "ta_term": "இனிப்பு மாத்திரை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "suggestion",
+            "ta_term": "பரிந்துரை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "symbolic functions",
+            "ta_term": "குறியீட்டுச் செயற்பாடுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "symmetrical figure",
+            "ta_term": "சமச்சீர் உரு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "symmetrical good figure",
+            "ta_term": "சமச்சீர் நல்உரு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "sympathetic nervous system",
+            "ta_term": "பரிவு நரம்பு மண்டலம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "synapse",
+            "ta_term": "நரம்பியல் சந்தி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "syndrome",
+            "ta_term": "நோயியம் (நோய்த்தொகை)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tactile agnosia",
+            "ta_term": "தொடுகை உணர்திறனின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "target population",
+            "ta_term": "இலக்கு மக்கட்தொகை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tay-sachs disease",
+            "ta_term": "டேசாக் நோய்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tend and befriend reaction",
+            "ta_term": "பேணுதல்வழி நட்பாதல் வினை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tendency toward competition",
+            "ta_term": "போட்டிப்போக்கு மனப்பான்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tertiary approach to prevention",
+            "ta_term": "மூன்றாந் தவிர்ப்பு அணுகுமுறை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tertiary prevention",
+            "ta_term": "மூன்றாந் தவிர்ப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "testosterone",
+            "ta_term": "ஆண்மைக்கிளர்வி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "thalamus",
+            "ta_term": "தலைமம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "theory of personality",
+            "ta_term": "ஆளுமைக் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "theory of reasoned action",
+            "ta_term": "காரணமுற்றச் செயல்பாட்டுக் கோட்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "therapeutic effect",
+            "ta_term": "நலப்படுத்தும் விளைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "thermoceptive (adj)",
+            "ta_term": "வெப்பவுணர்வு(சார்)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "thinking",
+            "ta_term": "சிந்தனை, சிந்தித்தல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "threat appraisal",
+            "ta_term": "அச்ச மதிப்பீடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "threatening situation",
+            "ta_term": "அச்சுறுத்துச் சூழல், அச்சமூட்டுச் சூழல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "threshold",
+            "ta_term": "வாயில், நுழைநிலை, உணர்நிலை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tip of tongue phenomenon",
+            "ta_term": "நுனிநாக்கு நிகழ்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tobacco use",
+            "ta_term": "புகையிலைப் பயன்பாடு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "tot phenomenon",
+            "ta_term": "TOT செயற்பாங்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "traditional marriage",
+            "ta_term": "மரபுத் திருமணம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "trait",
+            "ta_term": "பண்புக்கூறு, தனிக்கூறு, தற்சாயல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "transduction",
+            "ta_term": "வடிவமாற்றம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "transient global amnesia",
+            "ta_term": "நிலைமாற்ற முழுமை நினைவிழப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "transient stress reactions",
+            "ta_term": "நிலைமாற்ற மனஇறுக்க வினைகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "traumatic experience",
+            "ta_term": "புண்படுத்து பட்டறிவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "trigger zone",
+            "ta_term": "தொடங்கு பகுதி, கிளப்பு பகுதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "truth serum",
+            "ta_term": "உண்மை ஊனீர்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unattainable goals",
+            "ta_term": "அடையவியலாத இலக்குகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unchosen action",
+            "ta_term": "தெரிவுசெய்யப்படாத செயல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unconditioned response",
+            "ta_term": "பழக்கமுறாத் துலங்கல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unconditioned stimulus",
+            "ta_term": "பழக்காத தூண்டல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unconscious (adj)",
+            "ta_term": "நினைவிலி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unconscious images",
+            "ta_term": "நினைவிலி உளப்படிமங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unlearning",
+            "ta_term": "அல்கற்றல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unmarried couple",
+            "ta_term": "திருமணமாகா இணை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "unsafe sex",
+            "ta_term": "காப்பற்ற பாலுறவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "vaccination",
+            "ta_term": "தடுப்பூசி போடுதல்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "validity",
+            "ta_term": "செல்லீடு, செல்லுபடி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "verbal memory",
+            "ta_term": "சொல்லாக்க நினைவு, சொல்வகை நினைவு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "verbose brain",
+            "ta_term": "சொல்வகை மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "vestibular sense",
+            "ta_term": "உறுப்பு உணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "visual acuity",
+            "ta_term": "பார்வைத் துல்லியம்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "visual agnosia",
+            "ta_term": "பார்வை உணர்திறனின்மை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "visual illusions",
+            "ta_term": "பார்வைத் திரிபுணர்வுகள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "vocational aptitude",
+            "ta_term": "தொழில்நெறி மனப்பாங்கு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "waking brain",
+            "ta_term": "விழிப்புநிலை மூளை"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "warmth/warm sensation",
+            "ta_term": "வெப்பவுணர்வு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "wellness cycle",
+            "ta_term": "நன்னிலைச் சுழற்சி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "wernicke pattern of speech",
+            "ta_term": "வெர்னிக் பேச்சமைப்பு"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "wernicke’s area",
+            "ta_term": "வெர்னிக் பகுதி"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "withdrawal syndrome",
+            "ta_term": "பின்வாங்கு நோயியம் (நோய்த்தொகை)"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "work performance",
+            "ta_term": "பணிச் செயல்திறன்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "worksite prevention programmes",
+            "ta_term": "பணியிடத் தடுப்புத் திட்டங்கள்"
+        },
+        {
+            "subject": "Psychology",
+            "en_term": "written language",
+            "ta_term": "எழுத்துமொழி"
+        }
+    ]
+}

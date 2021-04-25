@@ -1,0 +1,1254 @@
+{
+    "tamil_glossary": [
+        {
+            "subject": "Fish",
+            "en_term": "anchovy taper-tail (coilia quadragesimalis)",
+            "ta_term": "கட்டி களா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "anchovy, commerson’s (stolephorus commersonii)",
+            "ta_term": "வெள்ளை நெத்திலி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "anchovy, hair fin setipinna taty",
+            "ta_term": "சிகப்பு கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "anchovy, indian s. indica",
+            "ta_term": "கருப்பு நெத்திலி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "anchovy, spined s.tri",
+            "ta_term": "நெத்திலி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "angel fish, bow mouthed rhina ancylostoma",
+            "ta_term": "பிட்புயம்மிக்கே, மான் உளுவை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "barred half beak (h.mariginatus)",
+            "ta_term": "கூரைமேதல், முறல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "barred long – tom (ablennes hians)",
+            "ta_term": "முறல், வாழியமேதல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "bengal tongue sole (cynoglossus cynoglossus)",
+            "ta_term": "நாக்குமீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "berring, spotted (harengula ovalis)",
+            "ta_term": "திரவங்கனை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "black king fish cobia (rachycentron canadus)",
+            "ta_term": "கடல்விரால்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "black tipped leather skin (tolooparah)",
+            "ta_term": "கீட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "blue spret (spratellodides japonicus)",
+            "ta_term": "ஈக்கு தொண்டன், சல்லித் தொண்டன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "boar fish (antigonia rubescens)",
+            "ta_term": "கருணாவில மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "brown dotty back (pseudochromis fuscus)",
+            "ta_term": "சடயன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "butterfly ray, long tailed (g. poecilura)",
+            "ta_term": "அட்ளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "butterfly ray, short tailed (gymnura micrura)",
+            "ta_term": "வண்ணாத்திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, dwarf macrones keletius",
+            "ta_term": "காயல் கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, flat mouthed (pseudarius platystomus)",
+            "ta_term": "மண்ட கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, frog headed (batrachocephalus mino)",
+            "ta_term": "சட்டத்தலையன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, giant (netuma thalassinus)",
+            "ta_term": "ஊசிக்கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, short nosed (t. subrostratus)",
+            "ta_term": "பொரிக்கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, soldier (osteogeneiosus militaris)",
+            "ta_term": "மாம்பழக்கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, striped dwarf (m. vittatus)",
+            "ta_term": "வரிக்கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cat fish, veined (tachysurus venosus)",
+            "ta_term": "மடிக்கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cavalla, long nose (c. chrysophrys)",
+            "ta_term": "நீள்முக்கு பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cavalla, malabar c. malabaricus",
+            "ta_term": "மஞ்சப்பாரை, முண்டம் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, banded cheek reef (e. morrhua)",
+            "ta_term": "கல்லு கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, banded reef (e. fasciatus)",
+            "ta_term": "மரக்கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, blue and yellow reef (e. flavocaeruleus)",
+            "ta_term": "தோ கலவா, மஞ்சள் கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, blue lined coral (e. formosus)",
+            "ta_term": "சஞ்சோன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, brown coral (cephalopholis pachyceon)",
+            "ta_term": "புள்ளி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, brown-lined (e. undulosus)",
+            "ta_term": "பஞ்சி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, brown-spotted reef (epinephelus chlorostigma)",
+            "ta_term": "சிக்கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, dusky rock (e. rogaa)",
+            "ta_term": "ஒரண்டை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, greasy reef (e. tauvina)",
+            "ta_term": "கூடுமுரிச்சான்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, malabar reef (e. malabaricus)",
+            "ta_term": "மூஞ்சான்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, peacock coral (c. argus)",
+            "ta_term": "தம்பாள்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, red coral (s. sonnerati)",
+            "ta_term": "புள்ளி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, six barred reef (e. diacanthus)",
+            "ta_term": "கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, slender scaled scad blue finned coral (selaroides leptolepis)",
+            "ta_term": "உளவு பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, trout reef (e. fario)",
+            "ta_term": "கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, trout reef (s. fario)",
+            "ta_term": "வெர்ரி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, vermilion coral (e. miniatus)",
+            "ta_term": "புனாக் கள்ளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "cod, wire netting reef e. merra bloch",
+            "ta_term": "புள்ளி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "common sprat (dussumiria acuta)",
+            "ta_term": "தொண்டன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "coral-trout, leopard (plectopomus leopardus)",
+            "ta_term": "புள்ளி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "coral-trout, spotted (p. maculaltus)",
+            "ta_term": "முஞ்சோள்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "croacker, coitor (johnius coitor)",
+            "ta_term": "முட்டி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "croaker tiger toothed (o. ruber)",
+            "ta_term": "பண்ணா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "croaker, blotched (nibea maculata)",
+            "ta_term": "கத்தளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "croaker, blotched tiger toothed (pterotolithes maculatus)",
+            "ta_term": "பண்ணா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "croaker, kathala (kathala axillaris)",
+            "ta_term": "கத்தளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "croaker, lesser tiger toothed otolithus cuvieri",
+            "ta_term": "பண்ணா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "darwin’s red fish (gephyroberyx darwini)",
+            "ta_term": "தோ கிளாத்தி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "deep queen fish (c. tala)",
+            "ta_term": "மஞ்ச கட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "dolphin fish (corvphaena hippurus)",
+            "ta_term": "அவ்லிஸ்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "dussumier’s pony fish (leiognathus dussumieri)",
+            "ta_term": "கவுட்டா காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "eel, canine cat fish (p. canius)",
+            "ta_term": "கூல் தேளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "eel, level finned (anguilla bicolor bicolor)",
+            "ta_term": "விலாங்கு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "eel, long finned (a.nebulosa)",
+            "ta_term": "புள்ளி விலாங்கு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "eel, striped cat fish (plotosus anguillaris)",
+            "ta_term": "அங்காள் கெளிறு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "emperor government bream (l. sebae)",
+            "ta_term": "குளச்சல், வரிக்கத்தளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "etroplus, banded (e. suratensis)",
+            "ta_term": "கறிமீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "file fish, brown (pseudobalistes fuscus)",
+            "ta_term": "அங்கலாத்தி, வரிகலாத்தி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "file fish, red toothed (odonus niger)",
+            "ta_term": "கருப்பு கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "flag tail, barred (k. taeniurus)",
+            "ta_term": "பஞ்ச காரால்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "flag tail, spotted (kuhlia marginatus)",
+            "ta_term": "சம்பவிலா மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "flying fish, four winged (cypselurus comatus)",
+            "ta_term": "பறவை மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "flying fish, two winged (exocoetus volitans)",
+            "ta_term": "பறவ கோலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "four finger thread fin (eleutheronema tetradactylum)",
+            "ta_term": "சீனாக்காலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ganges gizzard shad (gonialosa manmina)",
+            "ta_term": "கருக்கா உல்லம்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "giant herring/ten pounder (elops machnata)",
+            "ta_term": "மண்ணா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "goatee croaker (dendrophysa russelli)",
+            "ta_term": "கத்தளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "goby, bar eyed (glossogobius giuris)",
+            "ta_term": "உளுவை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "grew sweet lip (gaterin schetaf)",
+            "ta_term": "கல்லு கலவா, தோலன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "grouper (h. lanceolatus)",
+            "ta_term": "கொமரி கலவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "herring, dorab wolf (chirocentrus dorab)",
+            "ta_term": "கரை வாளை, துப்பு வாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "herring, long finned (opisthopterus tardoore)",
+            "ta_term": "மீராக்கை/தோட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "herring, rusell’s smooth back (raconda russellina)",
+            "ta_term": "குணாத் தோட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "herring, smooth wolf (c. nudus)",
+            "ta_term": "கலக்கு வாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "herring, spotted (harengula orolis)",
+            "ta_term": "திரவங்கனை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "indian goat fish (parupeneus indicus)",
+            "ta_term": "கால் நகரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "indian halibut (psettodes erumei)",
+            "ta_term": "எருமை நாக்கு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "indian shad (euplatygaster indica)",
+            "ta_term": "பரு வெங்கனை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "indo pacific taxpan (megalops cyprinoides)",
+            "ta_term": "மருவா, மாராங்கெண்டை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "jack, yellow fin (c. ignobilis)",
+            "ta_term": "கருங்கண்ணிப்பாரை, வத்தலாம்பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "japanese silver bream (acanthopegurus latus)",
+            "ta_term": "கருப்பமட்டவன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "japanese thread fin bream (nemipterus japoracus)",
+            "ta_term": "லோமியா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "knight fish (monocentrus japonicus)",
+            "ta_term": "பேத்தை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "large scaled banded grunter (eutheropon theraps)",
+            "ta_term": "முட்டாள் கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "lined silver grunter (pomadasys hasta)",
+            "ta_term": "கொருக்கை, செரையா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "lizard fish, greater (s. tumbil)",
+            "ta_term": "வெளிச்சி, தும்பிலி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "lizard fish, slender (saurida gracilis)",
+            "ta_term": "தண்ணிப்பண்ணா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "long finned silver hiddy (pentaprion longimanus)",
+            "ta_term": "நெடுங்காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "longbilled half beak (hemirhampus georgii)",
+            "ta_term": "கட்டமேதல், முறல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mackerel, barred spanish (cybium commersoni)",
+            "ta_term": "சீலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mackerel, indian (rastrelliger kanagurta)",
+            "ta_term": "அயிலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mackerel, indo-pacific spanish (s. guttatus)",
+            "ta_term": "கட்டையன் சீலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mackerel, narrow-barred spanish (scomberomorus commersoni)",
+            "ta_term": "நெட்டையன் சீலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mackerel, spotted spanish (indocybium guttatum)",
+            "ta_term": "நெய் சீலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mackerel, streaked spanish (i. lineolatum)",
+            "ta_term": "புள்ளி சீலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "milk fish (chanos chanos)",
+            "ta_term": "பாலை மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moon fish (mene maculata)",
+            "ta_term": "கண்ணாடிக் காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moray, black lined (gymnothorax favagineus)",
+            "ta_term": "புள்ளி அஞ்சாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moray, leopard (g. ungulatus)",
+            "ta_term": "தவிட்டு அஞ்சாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moray, starry (echidna nebulosa)",
+            "ta_term": "பூ அஞ்சாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moray, white spotted (grammistes punctatus)",
+            "ta_term": "கருப்பு அஞ்சாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moray, yellow spotted (e. xanthospilus)",
+            "ta_term": "புளியன் அஞ்சாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "moray, zebra (gymnomuraena zebra)",
+            "ta_term": "வரி அஞ்சாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet (l. macrolepis)",
+            "ta_term": "மடவை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet, diamond scale (l. waigiensis)",
+            "ta_term": "நரிமீன் செரையா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet, dussumier’s (liza dussumieri)",
+            "ta_term": "செரையா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet, flat head grey (mugil cephalus)",
+            "ta_term": "கருப்பு வெள்ளியா, மணலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet, gold spot (l. parsia)",
+            "ta_term": "காடன் செரையா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet, kelaart’s (m. kelaartii)",
+            "ta_term": "உருண்டை வெள்ளியா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "mullet, yellow tail (l. cascasia)",
+            "ta_term": "அவுளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "numb fish (narke dipterygia)",
+            "ta_term": "குழி முண்டாள்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "perch, john’s snapper (moses l. johni)",
+            "ta_term": "நா செப்பிலி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "perch, six lined (g. sexlineatus)",
+            "ta_term": "மையாலாபுயன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "perch, trimpeter (pelates quadrilineatus)",
+            "ta_term": "வரிக்கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pig face bream yellow banded (l. ramak)",
+            "ta_term": "வௌ மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pig face bream, starry (lethrinus nebulosus)",
+            "ta_term": "புள்ளி வௌ மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pig faced leather jacket (paramonacanthus choirocephalus)",
+            "ta_term": "கொம்பு உரா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pomfret, brown (parastromateus niger)",
+            "ta_term": "கருவாவல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pomfret, chinese (p. chinensis)",
+            "ta_term": "வாவல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pomfret, silver (pampus argenteus)",
+            "ta_term": "வெள்ள வாவல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish toothed (gazza minuta)",
+            "ta_term": "ஒருவா காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish, banded (l. fasciatus)",
+            "ta_term": "வரிக்காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish, deep pugnose (s. ruconius)",
+            "ta_term": "பூச்சிகாரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish, greater banded (l. equulus)",
+            "ta_term": "கொம்பு காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish, organe finned (l. bindus)",
+            "ta_term": "பொட்டு காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish, pugnose (secutor insidiator)",
+            "ta_term": "ஒட்டு காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "pony fish, splendid",
+            "ta_term": "சலப்பட்ட காரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, banded whiptail sting",
+            "ta_term": "புளியன் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, black edged sting",
+            "ta_term": "புவாத்திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, blue spotted fantail (taeniura lymma)",
+            "ta_term": "தடங்கான் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, blue spotted sting",
+            "ta_term": "கண்ணான்முழி திருக்கை, பாஞ்சாலன் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, cowtail (pastinachus sephen)",
+            "ta_term": "ஆடாத்திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, granulated shovel nose (rhinobatas granulatus)",
+            "ta_term": "கச்சு உளுவை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, javanese cow (rhinoptera javanica)",
+            "ta_term": "வல்வாடித் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, lesser devil (mobula diabolus)",
+            "ta_term": "கொப்பு திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, meyen’s (t. meyeni)",
+            "ta_term": "வட்டத் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, mottled eagle (a.maculatus)",
+            "ta_term": "மணிவாளன் புள்ளித் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, nichof’s eagle (aetomylaeus nichofill)",
+            "ta_term": "செப்பத்திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, pale edged sting (a.zugei)",
+            "ta_term": "சொம்படக்கா, உள்ளான் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, scaly sting (amphotistius imbricatus)",
+            "ta_term": "செந்திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, spotted eagle (aetobatus narinari)",
+            "ta_term": "சங்கோசான் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, spotted electric (narcine timlei)",
+            "ta_term": "திமிளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "ray, white spotted shovel nose (rhynchobatus djiddeosis)",
+            "ta_term": "பால் உளுவை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "round bat fish (platax orbiculatus)",
+            "ta_term": "செல்லல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sail fish, indian (histiophorus gladius)",
+            "ta_term": "கொப்பர குல்லா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "saint peter’s leather skin (c.sancti-petri)",
+            "ta_term": "ஒலைக்கட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardine, black tip (s. melanura)",
+            "ta_term": "பூச்சாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardine, fringe scale (s. fimbriata)",
+            "ta_term": "செவிட்டு சாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardine, oil (s. longiceps)",
+            "ta_term": "பேய்ச் சாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardine, perforated scale (s. perforata)",
+            "ta_term": "பருதிரவங்கனை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardine, spotted (s. sirm)",
+            "ta_term": "கீரிமீன் சாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardine, white (kowala kowala)",
+            "ta_term": "மட்டகுந்தாள், வெள்ளைச்சூடை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sardinella, white (sardinella albella)",
+            "ta_term": "மட்டி சூடை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "saw fish, green (p. zijsron)",
+            "ta_term": "வேளா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "saw fish, small toothed (p. microdon)",
+            "ta_term": "இழுப்பா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "saw-fish, pointed (pristis cuspidatus)",
+            "ta_term": "கலக்கு வேளா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "scad, golden (selar kalla)",
+            "ta_term": "தோபாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "scad, russel’s (decapterus russelli)",
+            "ta_term": "எலிமீன் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sea perch, giant (lates calcarifer)",
+            "ta_term": "கொடுவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sea perch, two banded (diploprion bifasciatum)",
+            "ta_term": "வண்ணாத்தி கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sea pike, blunt-jawed (s. obtusata)",
+            "ta_term": "கரை ஊளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sea pike, giant (sphyraena jello)",
+            "ta_term": "ஊலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sea pike, pointed finned (s. acutipinnis)",
+            "ta_term": "மா ஊளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sea pike, short jawed (s. langsar)",
+            "ta_term": "நெடுவா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shad, bloch’s gizzard (nematolosa nasus)",
+            "ta_term": "குருங்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shad, jewelled (i. filigera)",
+            "ta_term": "செங்கண்ணி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shad, kelee (hilsa kelee)",
+            "ta_term": "கொய் மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shad, toothed (pellona ditchella)",
+            "ta_term": "பருத்திக் கண்ணான்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, arrow headed hammer (head s.blochii)",
+            "ta_term": "மடயன் சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, balfour’s (hemigaleus baefouri)",
+            "ta_term": "நெடுந்தலையன் சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, black (e. melanoptera)",
+            "ta_term": "கொம்புளி சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, black tip (e. spallanzani)",
+            "ta_term": "கீரிப்பல்லன் சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, eulamia’s grey (eulamia ellioti)",
+            "ta_term": "சட்டி தலையன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, grey-dog (scoliodon palasoorah)",
+            "ta_term": "நெடுந்தலையன், பால்சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, gummy (myrmillo manazo)",
+            "ta_term": "களறியன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, maclot’s (hypoprion macloti)",
+            "ta_term": "மசவு பிளால்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, marbled cat (atelomycterus marmoratus)",
+            "ta_term": "வரிப்புளியன் சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, ridge cat (chiloscyllium indicum)",
+            "ta_term": "வரிக்குரங்கு சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, round headed hammer (head s.zygaena)",
+            "ta_term": "கொம்பன் சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, rusty (ginglymostoma ferrungineum)",
+            "ta_term": "கோச்சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, squat headed hammer head (sphyrna tudus)",
+            "ta_term": "கிழங்கான்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, tawny (nebrius concolor)",
+            "ta_term": "நெய் கோமாரியான்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, tiger (galeocerda cuvieri)",
+            "ta_term": "கொண்டன் பிளால்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, walbehm’s sharp nosed (s. walbeehmi)",
+            "ta_term": "வெம்புளியன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, whale (rhincodon typus)",
+            "ta_term": "மகரச்சுறா, திமிங்கிலச்சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, white cheeked (e. dussumieri)",
+            "ta_term": "நெழியன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark, yellow dog (s. sorrakowah)",
+            "ta_term": "வழுக்கு சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "shark. zebra (stegostoma fasciatum)",
+            "ta_term": "சுறா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sickle fish, spotted (drapane punctata)",
+            "ta_term": "பைந்தி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "silver bait fish (monodactylus angenteus)",
+            "ta_term": "மூலன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "silver sillago (sillago sihama)",
+            "ta_term": "ஒரா மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "slender queen fish (c. tol)",
+            "ta_term": "கருப்பு கட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "slender shad/elongata illisha (ilisha elongata)",
+            "ta_term": "பூவாளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "small scalled banded grunter (autisthes puta)",
+            "ta_term": "தாளான் கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "smooth flute mouth (fistularia petimba)",
+            "ta_term": "கோவிஞ்சி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, big eye (l. lineolatus)",
+            "ta_term": "பருத்த விளமீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, blood red (l. sanguineus)",
+            "ta_term": "கருமிரல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, blue and yellow (l. kasmira)",
+            "ta_term": "பட்டாணிக்கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, blue lined ( l. rivulatus)",
+            "ta_term": "குருவிலா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, cross banded (l. decussatus)",
+            "ta_term": "புள்ளிக்கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, malabar red (l. malabaricus)",
+            "ta_term": "கெண்டை செவ்வாலை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, mangrove red (lutianus argentimaculatus)",
+            "ta_term": "செப்பிலி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, one spot golden (l. fulviflamma)",
+            "ta_term": "நெடுங்கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "snapper, russel’s one spot (l. russelli)",
+            "ta_term": "மஞ்சக்கீளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "soldier fish, black tipped (m. murdjan)",
+            "ta_term": "பருவ விளமீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "soldier fish, japanese (h. ittodai)",
+            "ta_term": "பல்வர்கள், செம்மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "soldier fish, smooth cheeked (myriopristis pralinus)",
+            "ta_term": "கருப்புவால் புட்சக்கன்னி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "soldier fish, spot tailed (holocentrus caudimaculatus)",
+            "ta_term": "கல்வெட்டி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "soldier fish. white spotted (h. lacteo-guttatus)",
+            "ta_term": "கொடும்புளி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sole fish, spotted tongue (c. puncticeps)",
+            "ta_term": "புள்ளிநாக்கு மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "spade fish (ephippus orbis)",
+            "ta_term": "திரவி, பைந்தி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "spine foot, marbled (s. spinus)",
+            "ta_term": "ஒராமீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "spine foot, streaked (siganus javus)",
+            "ta_term": "தாடித் தோட்டா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "spotted butter fish (scatophagus argus)",
+            "ta_term": "இலத்தி, புள்ளிஇலத்தி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "spotted etroplus (etroplus maulatus)",
+            "ta_term": "சேத்தல்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sprat, estuarine (ehirava fluviatilis)",
+            "ta_term": "குருந்தொண்டன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sprat, van hasselt’s (d. hasselti)",
+            "ta_term": "இந்திரன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sting ray, whip tail (himantura bleekeri)",
+            "ta_term": "புளியன் திருக்கை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "stripped tuna/skip jack (katsuwonus polomis)",
+            "ta_term": "சூறை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "sweep lip yellow banded (g. lineatus)",
+            "ta_term": "மஞ்சள் மன்தனம்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "talang, leather skin (chorinemus lysan)",
+            "ta_term": "மஞ்ச கட்டா குட்டி"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "tassel fish, golden six thread (p. sexfilis)",
+            "ta_term": "கணா காளா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "tassel fish, seven thread (p. heptadactylus)",
+            "ta_term": "கட்டி காளா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "thread fin, common (p. plebeius)",
+            "ta_term": "பார் மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "thread fin, indian (polynemus indicus)",
+            "ta_term": "தாழன் காளா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "threadfin bream, bleeker’s (n. bleekeri)",
+            "ta_term": "லோமியா"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, armed (carangoides armatus)",
+            "ta_term": "பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, black tailed (c.carangus)",
+            "ta_term": "தோட்டாம் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, black tipped (caranx melampygus)",
+            "ta_term": "கள்ளப்பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, false (lactarius lactarius)",
+            "ta_term": "குதிப்பு"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, ferdau’s (c. ferdao)",
+            "ta_term": "லோமியான் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, golden toothless (gnathanodon speciosus)",
+            "ta_term": "பொரமீன் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, green back (c. sansun)",
+            "ta_term": "கருங்கண்ணிப் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, naked breast (c. gymnostethoides)",
+            "ta_term": "பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, oblong (caranx oblongus)",
+            "ta_term": "செஞ்சட்டால் பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, starry (c. stellatus)",
+            "ta_term": "பாரை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, thread finned (alectis indica)",
+            "ta_term": "ஒட்டப்பாரை, அக்கா கிளி மீன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "trevally, torpedo (megalaspis cordyla)",
+            "ta_term": "வங்கடை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "tuna, blue fin (kishinoella tonggol)",
+            "ta_term": "நீலச்சூறை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "tuna, eastern little (euthynnus affinis)",
+            "ta_term": "கீழைச்சூறை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "tuna, yellow fin (neothunnus macropterus)",
+            "ta_term": "கிளவாளை"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "wahoo (acanthocybium solandri)",
+            "ta_term": "கல்சீலா, சவரன்"
+        },
+        {
+            "subject": "Fish",
+            "en_term": "whipfin majarra (gerres filamentosus)",
+            "ta_term": "ஊடகம்"
+        }
+    ]
+}

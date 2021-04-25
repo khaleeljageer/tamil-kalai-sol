@@ -1,0 +1,5929 @@
+{
+    "tamil_glossary": [
+        {
+            "subject": "Politics",
+            "en_term": "abortion",
+            "ta_term": "கருக்கலைவு, கருக்கலைத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "absolutism",
+            "ta_term": "முற்றாட்சிக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "accountability",
+            "ta_term": "கணக்குகாட்டு பொறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "activist",
+            "ta_term": "செயல்முனைவாளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "additional member system (ams)",
+            "ta_term": "கூடுதல் உறுப்பினர் முறை (கூ.உ.மு.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "adjournment (debate)",
+            "ta_term": "(விவாத) ஒத்திவைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "administrative law",
+            "ta_term": "ஆட்சிமுறைச் சட்டம், நிருவாகச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "adversary politics",
+            "ta_term": "எதிர்ப்பு அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "affirmative action",
+            "ta_term": "உறுதிபடுத்துச் செயல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "afghanistan war",
+            "ta_term": "ஆப்கானிஸ்தான் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "african national congress (anc)",
+            "ta_term": "ஆப்பிரிக்கத் தேசியப் பேராயம் (ஆ.தே.பே.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "african union",
+            "ta_term": "ஆப்பிரிக்க ஒன்றியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "age",
+            "ta_term": "அகவை, வயது"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "agenda setting",
+            "ta_term": "செயல்நிரல் அமைத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "aggregation",
+            "ta_term": "கோரிக்கை நிறைவேற்றச் செயல்முனைவு (கட்சிகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "agrarian parties",
+            "ta_term": "உழவர் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "agreement",
+            "ta_term": "உடன்பாடு, உடன்பாட்டு ஆவணம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "alienation",
+            "ta_term": "அயன்மையாதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "al-qaida",
+            "ta_term": "அல்-கொய்தா"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "alternative vote",
+            "ta_term": "மாற்று வாக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "altruism",
+            "ta_term": "பொதுநலநோக்கு, மற்றவர் நலக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "amenity",
+            "ta_term": "ஏந்து, வசதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "american enlightenment",
+            "ta_term": "அமெரிக்க அறிவொளிக்காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "american revolution",
+            "ta_term": "அமெரிக்கப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ams (additional member system)",
+            "ta_term": "கூ.உ.மு. (கூடுதல் உறுப்பினர் முறை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "amsterdam treaty",
+            "ta_term": "ஆம்ஸ்டெர்டாம் உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anarchism",
+            "ta_term": "அரசிலா நிலை, ஆட்சியிலா நிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anarcho - syndicalism",
+            "ta_term": "குலைதிறக் கூட்டுக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anarchy",
+            "ta_term": "குலைதிறப் போக்கு, ஆட்சிமையிலாப் போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anc (african national congress)",
+            "ta_term": "ஆ.தே.பே. (ஆப்பிரிக்கத் தேசியப் பேராயம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anglo-lrish agreement",
+            "ta_term": "ஆங்கில-ஐரிய உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anglo-saxon capitalism",
+            "ta_term": "ஆங்கிலச் சாக்சானிய முதலாளியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "animal rights",
+            "ta_term": "விலங்கு உரிமைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anomie",
+            "ta_term": "சமூக உறவுக் குலைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anthropocentrism",
+            "ta_term": "மானிட மையக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anthropology",
+            "ta_term": "மானிடவியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anti-ballistic missile treaty",
+            "ta_term": "கண்டந்தாவு ஏவுகணைத் தடுப்பு உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anticlericalism",
+            "ta_term": "திருச்சபை மறுப்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anti-globalization",
+            "ta_term": "உலகமயமாதல் எதிர்ப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anti-semitism",
+            "ta_term": "செமித்திய எதிர்ப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anti-system party",
+            "ta_term": "நிறுவன எதிர்ப்புக் கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "anzus",
+            "ta_term": "ஆஞ்சஸ் உடன்படிக்கை (கட்சி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "apartheid",
+            "ta_term": "இனஒதுக்கல் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "apparat",
+            "ta_term": "அரசு எந்திரம் (உருசியச் சொல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "apparentement",
+            "ta_term": "சட்டமுறைக் கட்சிக்கூட்டு (பிரெஞ்சு வழக்கு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "appeasement",
+            "ta_term": "களவாணி அமைதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "appellate jurisdiction",
+            "ta_term": "மேல்முறையீட்டு வரம்பு (ஆட்சி எல்லை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "apportionment",
+            "ta_term": "துறை நிதிஓதுக்கீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "appropriation",
+            "ta_term": "நிதிஒதுக்கீடு, பாதீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "approval voting",
+            "ta_term": "ஒப்புதல் வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "arab - israli conflict",
+            "ta_term": "அரபு-இஸ்ரேலிய போராட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "aristocracy",
+            "ta_term": "மேல்தட்டாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "arms control",
+            "ta_term": "படைக்கலக் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "arms races",
+            "ta_term": "படைக்கலப் போட்டிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "arrow’s theorem",
+            "ta_term": "ஆரோவின் தேற்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "articulation",
+            "ta_term": "சொற்றிறம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "asiatic mode of production",
+            "ta_term": "ஆசியப் பொருளாக்க முறைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "association of southeast asian nations",
+            "ta_term": "தென்கிழக்காசிய நாடுகள் கூட்டமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "asylum",
+            "ta_term": "புகலிடம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "athenian democracy",
+            "ta_term": "அதீனிய மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "australian ballot",
+            "ta_term": "ஆஸ்திரேலியத் தேர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "autarchy, autarky",
+            "ta_term": "தனி வல்லாட்சி, தனி வல்லாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "authoritarian personality",
+            "ta_term": "ஓச்சாளுமை, அதிகாரமுறை ஆளுமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "authoritarianism",
+            "ta_term": "ஓச்சல் சார்புக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "autogestion",
+            "ta_term": "தொழிலக மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "autonomous republic",
+            "ta_term": "தன்னாட்சி குடியரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "autonomy",
+            "ta_term": "தன்னாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "backbencher",
+            "ta_term": "பின் இருக்கையர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "backlash",
+            "ta_term": "சீர்திருத்த எதிர்வினை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "balance of power",
+            "ta_term": "அதிகாரச் சமனிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "balkan politics",
+            "ta_term": "பால்கனிய அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "balkanization",
+            "ta_term": "உட்சூழ்வுறல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ballot",
+            "ta_term": "வாக்குச்சீட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "banzhat index",
+            "ta_term": "பஞ்சாத் சுட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bargaining theory",
+            "ta_term": "பேரக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "barnett formula",
+            "ta_term": "பார்னெட் வாய்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "base / superstructure",
+            "ta_term": "அடித்தளம் / மேற்கோப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "behaviour(al)ism",
+            "ta_term": "நடத்தைசார் கொள்கை, நடத்தையியல் வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "belfast good friday agreement",
+            "ta_term": "பெல்ஃபாஸ்ட் நல்வெள்ளி உடன்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "beltway",
+            "ta_term": "தன்னல அரசியல் கும்பல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "benelux",
+            "ta_term": "பெனெலக்ஸ் (முந்நாட்டுக் கூட்டணி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "berlin wall",
+            "ta_term": "பெர்லின் சுவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "big brother attitude",
+            "ta_term": "‘பெரிய அண்ணன்’ மனப்பான்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bill",
+            "ta_term": "சட்ட முன்வரைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bill of attainder",
+            "ta_term": "புலனாயா குற்ற உறுதிபாட்டுச் சட்ட முன்வரைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bill of rights",
+            "ta_term": "உரிமைகள் சட்ட முன்வரைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "binomial distribution",
+            "ta_term": "ஈருறுப்புப் பரவல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "black caucus",
+            "ta_term": "கறுப்பர் சட்டமன்ற உறுப்பினர் கழகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "black panthers",
+            "ta_term": "கறுப்புச் சிறுத்தைகள் (வேங்கைகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "black power",
+            "ta_term": "கொடுங்கோன்மை, கறுப்புப் பண அதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "black sections",
+            "ta_term": "கறுப்புப் பிரிவுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bolshevism",
+            "ta_term": "போல்ஷெவியம், (பெரும்பான்மையம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bonapartism",
+            "ta_term": "போனபார்த்தியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "boundary commission (parliamentary boundary commission)",
+            "ta_term": "எல்லை ஆணையம் (நாடாளுமன்ற எல்லை ஆணையம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bourgeoisie",
+            "ta_term": "முதலாளி வகுப்பு, பூர்ஷுவா"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "boycott",
+            "ta_term": "புறக்கணிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "brinkmanship",
+            "ta_term": "நெருக்கடி அரசியல் உருவாக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "british national party",
+            "ta_term": "பிரிட்டன் தேசியக் கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "budgeting",
+            "ta_term": "பாதீட்டுமுறை, வரவுசெலவுத் திட்டமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "bureaucracy",
+            "ta_term": "ஆட்சியலுவலர் தொகுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "butterflyballot",
+            "ta_term": "தெளிவறு வாக்குச்சீட்டு, குழப்பு வாக்குச்சீட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cabinet",
+            "ta_term": "அமைச்சரவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cadre",
+            "ta_term": "ஊழியர், தொண்டர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "campaign for nuclear disarmament",
+            "ta_term": "அணுப்படைக்கலத் தவிர்ப்புப் பரப்புரை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "candidate selection",
+            "ta_term": "வேட்பாளர் தெரிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "canvassing",
+            "ta_term": "வாக்குத்திரட்டல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cap (common agricultural policy)",
+            "ta_term": "(பொ.வே.கொ.) பொது வேளாண்மைக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "capitalism",
+            "ta_term": "முதலாளியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "carpet - bagger",
+            "ta_term": "பெரும்பொருள் பையினர் (அமெரிக்கப் பொது)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "caste",
+            "ta_term": "சாதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "castroism",
+            "ta_term": "காஸ்ட்ரோவியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "catastrophe theory",
+            "ta_term": "பேரழிவுக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "categorical variable",
+            "ta_term": "வகையின மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "catholic parties",
+            "ta_term": "கத்தோலிக்கக் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "caucus",
+            "ta_term": "கட்சி உறுப்பினர் கூட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "caudillismo",
+            "ta_term": "வட்டார அரசியல் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "central - local relations",
+            "ta_term": "மைய-வட்டார உறவுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "central bank",
+            "ta_term": "நடுவண் வங்கி, மத்திய வங்கி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "central committee",
+            "ta_term": "நடுவண் குழு, மத்தியக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "centre - periphery politics",
+            "ta_term": "மைய-விளிம்புநிலை அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "centre party",
+            "ta_term": "நடுவண் கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chad",
+            "ta_term": "துளைபட்ட வாக்குச்சீட்டுத் துண்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chancellor of the duchy of lancaster",
+            "ta_term": "லங்காஸ்டர் மாநிலத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chancellor of the exchequer",
+            "ta_term": "கருவூலத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chaos theory",
+            "ta_term": "குலைதிறக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "charisma",
+            "ta_term": "கவர்ச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "charity",
+            "ta_term": "அறக்கட்டளை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chief secretary to the treasury",
+            "ta_term": "கருவூல முதன்மைச் செயலர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chiltern hundreds",
+            "ta_term": "சிட்டர்ன் நூற்றுவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chinese democracy movement",
+            "ta_term": "சீன மக்களாட்சி இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chinese political thought",
+            "ta_term": "சீன அரசியல் சிந்தனை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "chinese revolution",
+            "ta_term": "சீனப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "christian democracy",
+            "ta_term": "கிறித்தவ மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "christian fundamentalism",
+            "ta_term": "கிறித்தவ அடிப்படைவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "christian socialism",
+            "ta_term": "கிறித்தவச் சமவுடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "church and state",
+            "ta_term": "திருச்சபையும் அரசும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cia (central intelligence agency)",
+            "ta_term": "நடுவண் புலனாய்வு முகவம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "citizenship",
+            "ta_term": "குடியுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civic culture",
+            "ta_term": "குடிமைப் பண்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civic humanism",
+            "ta_term": "குடிமக்கள் மனிதநேயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civil disobedience",
+            "ta_term": "குடிமக்கள் சட்டமறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civil liberties",
+            "ta_term": "குடிமக்கள் இயல்உரிமைகள் (தன்னுரிமைகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civil rights",
+            "ta_term": "குடிமக்கள் உரிமைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civil service",
+            "ta_term": "குடிமைப் பணி, பொதுப் பணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "civil society",
+            "ta_term": "பொதுச் சமூகம், குடிமைச் சமூகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "class",
+            "ta_term": "வகுப்பு, வருக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "class action suit",
+            "ta_term": "வருக்கச் சார்புத் தனியர் வழக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "class consciousness",
+            "ta_term": "வகுப்புணர்வு, வருக்க உணர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "classical economics",
+            "ta_term": "செவ்வியற் பொருளியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cleavage",
+            "ta_term": "விரிசல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "clerisy",
+            "ta_term": "பண்பாட்டுக் காவலர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "clientelism",
+            "ta_term": "வாடிக்கையாளர் சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "closed / open rules",
+            "ta_term": "மறைமுக/நேரடி விதிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "closed shop",
+            "ta_term": "மூடு அங்காடி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "closure / cloture",
+            "ta_term": "(சட்டமன்றத்தில்) விவாத முடிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "coalition",
+            "ta_term": "கட்சிக்கூட்டு, அரசியல்கூட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "coat-tail effect",
+            "ta_term": "செல்வாக்குள்ள வேட்பாளர் தேர்வு விளைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "codecision",
+            "ta_term": "இணைந்த முடிவெடுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cohabitation",
+            "ta_term": "இணைந்த வாழ்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cold war",
+            "ta_term": "பனிப்போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "collective action problem",
+            "ta_term": "கூட்டுச் செயல்பாட்டுச் சிக்கல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "collective leadership",
+            "ta_term": "கூட்டுத் தலைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "collective responsibility",
+            "ta_term": "கூட்டுப் பொறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "collective security",
+            "ta_term": "பொதுக் காப்புறுதி, கூட்டுக் காப்புறுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "collectivism",
+            "ta_term": "கூடியியங்கற் கொள்கை, கூட்டுச் செயல்பாட்டுக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "collectivization",
+            "ta_term": "கூட்டுப் பண்ணையாக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "colonialism",
+            "ta_term": "குடியேற்றஞ்சாரியம், குடியேற்ற அதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "comitology",
+            "ta_term": "கடப்பாட்டியல் (ஐரோப்பிய ஒன்றிய சட்டமியற்றல் கடப்பாடு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "committee",
+            "ta_term": "குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "committee of the whole (house)",
+            "ta_term": "முழுமன்றக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "committee on standards in public life",
+            "ta_term": "பொதுவாழ்க்கைத் தரக்குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "committee stage",
+            "ta_term": "குழு ஆய்வுநிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "commodity fetishism",
+            "ta_term": "சரக்கு அயன்மையாதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "common foreign and security policy (cfsp)",
+            "ta_term": "பொது அயல்நாட்டு, பாதுகாப்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "common good",
+            "ta_term": "பொது நன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "common law (lex communis)",
+            "ta_term": "பொதுச் சட்டம், எழுதாச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "common market",
+            "ta_term": "பொதுச் சந்தை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "commonwealth (british)",
+            "ta_term": "பிரிட்டானியப் பொதுஉறவு நாடுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "commonwealth of independent states (cis)",
+            "ta_term": "தற்சார்பு அரசுகளின் பொதுமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "communalism",
+            "ta_term": "வகுப்புவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "commune",
+            "ta_term": "குமுகம், ஊராட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "communism",
+            "ta_term": "பொதுவுடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "communist party",
+            "ta_term": "பொதுவுடைமைக் கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "communitarianism",
+            "ta_term": "வகுப்புவாதக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "community",
+            "ta_term": "குமுகாயம், சமுதாயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "community politics",
+            "ta_term": "வகுப்புவாத அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "community power",
+            "ta_term": "வகுப்புவாத ஓச்சல் (அதிகாரம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "comparative government",
+            "ta_term": "ஒப்பீட்டு அரசமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "competitive party system",
+            "ta_term": "கட்சிப் போட்டி முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "completeness",
+            "ta_term": "முழுமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "compulsory voting",
+            "ta_term": "கட்டாய வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "concorde fallacy",
+            "ta_term": "கன்கார்டே விமானப் போலிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "concurrent majoritise",
+            "ta_term": "ஒருங்கமை பெரும்பான்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conditionality",
+            "ta_term": "கட்டுத்தளை (புறக்கடன் பெறுவதற்கான)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conference committee",
+            "ta_term": "மாநாட்டுக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conference on security and co-operation in europe (csce)",
+            "ta_term": "ஐரோப்பிய கூட்டுறவு காப்புறுதி மாநாடு (ஐ.கூ.கா.மா.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conflict resolution",
+            "ta_term": "பூசல் தீர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "congress (india)",
+            "ta_term": "பேராயக்கட்சி (இந்தியா)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "congress (us)",
+            "ta_term": "பேராயக்கட்சி (ஓ.அ.நா.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "congress of people’s deputies (russia)",
+            "ta_term": "மக்கள் துணைவர் பேராயம் (உருசியா)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conseil constitutionnel",
+            "ta_term": "தேர்தல் உறுதிபடுத்தும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conseil d’etat",
+            "ta_term": "பிரெஞ்சு உச்சநீதி குழுமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "consensus",
+            "ta_term": "பொதுஏற்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "consent",
+            "ta_term": "சம்மதம், இசைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "consequentialism",
+            "ta_term": "விளைவுசாரியம், விளைவுசார்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conservation",
+            "ta_term": "வளம்பேணல், வளங்காத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conservatism",
+            "ta_term": "மரபுபேணல் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "conservative party",
+            "ta_term": "மரபுசார்புக் கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "consociational democracy",
+            "ta_term": "மேல்தட்டு உடன்படிக்கை மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "constituency",
+            "ta_term": "அரசமைப்புத் தொகுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "constitution",
+            "ta_term": "அரசமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "constitutional law",
+            "ta_term": "அரசமைப்புச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "containment",
+            "ta_term": "படைநிறுவ கட்டுக்குள் வைத்தல் கொள்கை (அமெரிக்க நட்புநாட்டுக் கொள்கை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "context",
+            "ta_term": "சூழல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "continuous revolution",
+            "ta_term": "தொடர் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "continuous variable",
+            "ta_term": "தொடர் மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "contract",
+            "ta_term": "ஒப்பந்தம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "contradiction",
+            "ta_term": "முரண்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "convention",
+            "ta_term": "உச்சிமாநாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cooperative movement",
+            "ta_term": "கூட்டுறவு இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "corporation",
+            "ta_term": "மாநகராட்சி, தொழிலிணையம், தொழிற்குழுமம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "corporatism",
+            "ta_term": "தொழிற்குழுமச் சார்புக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "corruption",
+            "ta_term": "ஊழல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cost-benefit analysis",
+            "ta_term": "விலை-பயன் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "council of ministers of the european union",
+            "ta_term": "ஐரோப்பிய ஒன்றிய அமைச்சரவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "covenant",
+            "ta_term": "கடப்பாட்டுச் சூளேற்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "credible threat",
+            "ta_term": "வாய்ப்புமிகு அச்சுறுத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "critical elections",
+            "ta_term": "உய்யநிலைத் தேர்தல்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "critical theory",
+            "ta_term": "உய்யநிலைக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cronyism",
+            "ta_term": "வாடிக்கையாளர் கொள்கை வகை (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "crossbench",
+            "ta_term": "நடுநிலை உறுப்பினர் (மக்கள்தொகை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cross-sectional analysis",
+            "ta_term": "வெட்டுமுகப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "csce",
+            "ta_term": "ஐ.பா.கூ.மா. (ஐரோப்பிய பாதுகாப்புக் கூட்டுறவு மாநாடு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cuban missile crisis",
+            "ta_term": "கியூபா ஏவுகணை நெருக்கடி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cuban revolution",
+            "ta_term": "கியூபா புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cube law, (cube rule)",
+            "ta_term": "மும்மடி விதி (தேர்தல் விதி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cultural revolution",
+            "ta_term": "பண்பாட்டுப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cumulative vote",
+            "ta_term": "திரள்தொகுப்பு வாக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "curvilinear disparity, law of",
+            "ta_term": "வளைகோட்டு வேறுபாட்டு விதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "customs union",
+            "ta_term": "சுங்க ஒன்றியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "cycle",
+            "ta_term": "தேர்தல் சுழற்சி (பன்முக வாக்களிப்பு முறை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "darwinism",
+            "ta_term": "டார்வினியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dayton peace agreement",
+            "ta_term": "டேட்டன் அமைதி உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dealignment",
+            "ta_term": "அணி கலைதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "decision theory",
+            "ta_term": "முடிவெடுப்புக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "declaration of independence",
+            "ta_term": "விடுதலை அறிவிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "decolonization",
+            "ta_term": "குடியேற்ற நீக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "deep ecology",
+            "ta_term": "ஆழ்சூழலியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "deflation",
+            "ta_term": "பணச்சரிவு, பணமதிப்புச்சரிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "delegate",
+            "ta_term": "உரிமை வழங்கு, அதிகாரம் வழங்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "delegated legislation",
+            "ta_term": "பிறங்குரிமை சட்டமியற்றல், அமைச்சரவைச் சட்டமியற்றல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "delimitation",
+            "ta_term": "வரம்பு நீக்கல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "demagogue",
+            "ta_term": "கும்பல் தலைவன்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "demarchy",
+            "ta_term": "குலுக்குச்சீட்டுத் தேர்வு மக்களாட்சி, தேர்தல்சாரா மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democracy",
+            "ta_term": "மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democratic centralism",
+            "ta_term": "மக்கள்சார் நடுவுநிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democratic deficit",
+            "ta_term": "மக்களாட்சிப் பற்றாக்குறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democratic party (usa)",
+            "ta_term": "மக்களாட்சி கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democratic peace",
+            "ta_term": "மக்களாட்சிசார் அமைதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democratic socialism",
+            "ta_term": "மக்களாட்சிசார் நிகருடைமைக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "democratization",
+            "ta_term": "மக்களாட்சிமயமாக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dependency",
+            "ta_term": "சார்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "desegregation",
+            "ta_term": "பிரிவுநீக்கல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "despotism",
+            "ta_term": "கொடுங்கோலாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "detente",
+            "ta_term": "இருப்புநிலைத் தொடர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "deterrence",
+            "ta_term": "அச்சுறுத்திக் கட்டுப்படுத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "development",
+            "ta_term": "வளர்ச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "devolution",
+            "ta_term": "கலைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dialectical materialism",
+            "ta_term": "இணைமுரண் பொருள்முதலியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dictatorship",
+            "ta_term": "முற்றதிகாரம், சர்வாதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dictatorship of the proletariat",
+            "ta_term": "பாட்டாளிய முற்றதிகாரம், பாட்டாளிச் சர்வாதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "difference principle",
+            "ta_term": "வேறுபாட்டு நெறிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "diggers",
+            "ta_term": "கால்வாரிகள் (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dignified / efficient",
+            "ta_term": "பெருமைசால்/ திறமைசால்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "diminishing marginal utility",
+            "ta_term": "குறைந்துவரும் விளிம்புநிலைப் பயன்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "diplomacy",
+            "ta_term": "தூதுறவு, நயவுறவு (நாடுகளிடை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "direct action",
+            "ta_term": "நேரடி நடவடிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "direct democracy",
+            "ta_term": "நேரடி மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "directional theory of voting",
+            "ta_term": "கொள்கைசார் வாக்களிப்புக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dirigisme",
+            "ta_term": "அரசு பொருளாதாரக் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dirty public goods",
+            "ta_term": "அரசுப் பொதுச் சொத்துகள் (மின்நிலையம், விமான நிலையம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "disarmament",
+            "ta_term": "படைக்கல நீக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "discrete variable",
+            "ta_term": "இடைவிட்ட மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "discrimination",
+            "ta_term": "பாகுபாடு, பிரித்துணர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "disjointed incrementalism",
+            "ta_term": "துண்டுதுண்டான வளர்ச்சிக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dissolution",
+            "ta_term": "கலைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "distributive justice",
+            "ta_term": "பகிர்தகவு நீதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "divine right of kings",
+            "ta_term": "அரசர் தெய்வீக உரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "division of labour",
+            "ta_term": "உழைப்புப் பிரிவினை, வேலைப் பிரிவினை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "domestic analogy",
+            "ta_term": "உள்நாட்டு ஒப்புமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dominant party",
+            "ta_term": "செல்வாக்கான கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dominion",
+            "ta_term": "தன்னாட்சி(ப்பகுதி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "domino theory",
+            "ta_term": "டொமினோ கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "donor fatigue",
+            "ta_term": "கொடைத் தயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "double ballot",
+            "ta_term": "இரட்டை வாக்குச்சீட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "downing street joint declaration",
+            "ta_term": "டௌனிங் தெரு கூட்டுப் பிரகடனம் (கூட்டறிவிப்பு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "due process",
+            "ta_term": "செயல்முறைப்படி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "duverger’s law",
+            "ta_term": "துவர்சர் விதி (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dyad",
+            "ta_term": "நாட்டிணை (அமைதி ஆய்வு), இணைநாடுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "dyarchy",
+            "ta_term": "ஈராட்சிமுறை (இரட்டதிகார முறை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "early day motion",
+            "ta_term": "முற்காலைக் கருத்தெடுப்பு (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "east",
+            "ta_term": "கிழக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ecocentrism",
+            "ta_term": "சூழல் சாரியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ecological association",
+            "ta_term": "சூழல் கழகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ecology",
+            "ta_term": "சூழலியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "economic and monetary union (emu)",
+            "ta_term": "பொருளியல், பணவள ஒன்றியம் (பொ.ப.ஓ.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "economic commission for latin america (ecla)",
+            "ta_term": "இலத்தீன் அமெரிக்கப் பொருளியல் ஆணையம் (இ.அ.பொ.ஆ.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "economic man (rational economic man)",
+            "ta_term": "பொருளியல் மனிதன்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "economics and politics",
+            "ta_term": "பொருளியலும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "effective number of parties",
+            "ta_term": "கட்சிகளின் தொகு எண்ணிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "egalitarianism",
+            "ta_term": "தலைமாந்தர்சாரியம், தலைமாந்தர் சார்பதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "election / electoral commission",
+            "ta_term": "தேர்தல் ஆணையம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "electoral college",
+            "ta_term": "வாக்காளர் குழாம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "electoral geography",
+            "ta_term": "தேர்தல் புவிப்பரப்பியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "electoral system",
+            "ta_term": "தேர்தல் முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "electoral volatility",
+            "ta_term": "வாக்களிப்பு மாறுதிறன்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "elitism",
+            "ta_term": "உயர்தட்டுக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "emigration",
+            "ta_term": "புலம்பெயர்வு, நாடுபெயர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "eminent domain",
+            "ta_term": "பெயர்பெற்ற ஆள்வகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "empire",
+            "ta_term": "பேரரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ems (european monetary system)",
+            "ta_term": "ஐ.நா.அ. (ஐரோப்பிய நாணய அமைப்பு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "endogeneity / endogenous",
+            "ta_term": "அகத்தோற்றவழி, அகத்தோற்றம்சார்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "enlightenment, american",
+            "ta_term": "அமெரிக்க அறிவொளிக்காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "enlightenment, french",
+            "ta_term": "பிரெஞ்சு அறிவொளிக்காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "enlightenment, scottish",
+            "ta_term": "ஸ்காட்டிய அறிவொளிக்காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "entitlement",
+            "ta_term": "உரிமை (ஆவணம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "entrenchment",
+            "ta_term": "நிலைச்சட்ட வகை (எ.கா. அரசமைப்புச் சட்டம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "entryism",
+            "ta_term": "மறைமுக அதிகார நுழைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "environmentalism",
+            "ta_term": "சுற்றுச்சூழலியம், சுற்றுச்சூழல் வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "epa (environmental protection agency)",
+            "ta_term": "சு.பா.மு. (சுற்றுக்சூழல் பாதுகாப்பு முகவம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "equal opportunity",
+            "ta_term": "சம வாய்ப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "equal protection",
+            "ta_term": "சமப் பாதுகாப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "equality",
+            "ta_term": "சமனம், சமத்துவம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "equilibrium",
+            "ta_term": "சமநிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "equity",
+            "ta_term": "விகிதப்பங்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "essentially contested concepts",
+            "ta_term": "தொடர்விவாதப் பொருண்மைகள் (கருத்துகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "established church",
+            "ta_term": "ஏற்புத் திருக்கோயில் (திருச்சபை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "estates general, states general",
+            "ta_term": "அரசுப் பொதுமன்றம் (பிரபு ஆட்சியியல், பொதுமக்கள் மன்றம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ethnic cleansing",
+            "ta_term": "இனக்குழு ஒழிப்பு, இன ஒழிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ethnicity",
+            "ta_term": "இனக்குழுத்தன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "euro",
+            "ta_term": "யூரோ (நாணய வகை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "eurocommunism",
+            "ta_term": "ஐரோப்பிய பொதுவுடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european central bank",
+            "ta_term": "ஐரோப்பிய நடுவண் வங்கி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european commission",
+            "ta_term": "ஐரோப்பிய (அரசியல்) ஆணையம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european community",
+            "ta_term": "ஐரோப்பியச் சமுதாயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european council",
+            "ta_term": "ஐரோப்பிய (அரசியல்) மன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european court of human rights",
+            "ta_term": "ஐரோப்பிய மனித உரிமைகள் நீதிமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european court of justice",
+            "ta_term": "ஐரோப்பிய நீதிமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european monetary system",
+            "ta_term": "ஐரோப்பிய நாணய அமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european parliament",
+            "ta_term": "ஐரோப்பிய நாடாளுமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "european union",
+            "ta_term": "ஐரோப்பிய ஒன்றியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "evolution",
+            "ta_term": "படிமலர்ச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "evolutionary game theory",
+            "ta_term": "படிமலர்ச்சி ஆட்டக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "exchange theory",
+            "ta_term": "பரிமாற்றக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "exchange value",
+            "ta_term": "பரிமாற்ற மதிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "executive",
+            "ta_term": "செயல் அலுவலர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "executive agreement",
+            "ta_term": "செயல் உடன்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "executive office of the president",
+            "ta_term": "குடியரசுத் தலைவர் பதவி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "executive privilege",
+            "ta_term": "செயலர் முன்னுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "existentialism",
+            "ta_term": "இருத்தலியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "exit",
+            "ta_term": "வெளியேறு, வெளிவழி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "exit poll",
+            "ta_term": "தேர்தலுக்குப் பிந்தையக் (கருத்துக்) கணிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "exogeneity / exogenous",
+            "ta_term": "புறத்தோற்றவழி/ புறத்தோற்றம்சார்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "exploitation",
+            "ta_term": "சுரண்டல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "externalities",
+            "ta_term": "அறுதிமங்கள், அறுதிநிலைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "extreme right parties",
+            "ta_term": "மீ வலதுசாரிக் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "faction",
+            "ta_term": "குறுங்குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "factor analysis",
+            "ta_term": "காரணிப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "factors of production",
+            "ta_term": "ஆக்கக் காரணிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "false consciousness",
+            "ta_term": "பிறழ் உணர்வு, போலி உணர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "falsifiability",
+            "ta_term": "பொய்ப்பிக்கத் தகுமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fascism",
+            "ta_term": "பாசிசம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fatwa",
+            "ta_term": "சமயக் கட்டளை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "federal assembly (russia)",
+            "ta_term": "கூட்டாட்சி மன்றம் (உருசியா)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "federal bureau of investigation (fbi)",
+            "ta_term": "கூட்டுப் புலனாய்வுக் குழுமம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "federalism",
+            "ta_term": "கூட்டாட்சிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "federalist papers, the",
+            "ta_term": "அமெரிக்க ஒன்றியக் கூட்டாட்சி விளக்க ஆவணம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "feminism",
+            "ta_term": "பெண்ணியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "feudalism",
+            "ta_term": "நிலமானிய அமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fifth republic, french",
+            "ta_term": "ஐந்தாம் பிரெஞ்சுக் குடியரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "filibuster",
+            "ta_term": "நாடாளுமன்ற நடவடிக்கைத் தடுப்பு (நீண்ட விவாத வழியாக)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "firm, theory of the",
+            "ta_term": "குழுமக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "first - past - the post",
+            "ta_term": "எளிய பன்முகத் தேர்தல் (அமெரிக்கா, இந்தியா...)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "first international",
+            "ta_term": "முதல் அகிலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "first strike",
+            "ta_term": "முதல் வேலைநிறுத்தம், முதல் தாக்குதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fiscal crisis",
+            "ta_term": "நிதி நெருக்கடி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fiscal policy",
+            "ta_term": "நிதிக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fixed term parliament",
+            "ta_term": "நிலையான காலத்தவணை நாடாளுமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "floating voter",
+            "ta_term": "இயங்கும் வாக்காளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "floor leader",
+            "ta_term": "அவை முன்னவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "focus group",
+            "ta_term": "இலக்குக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "forces of production",
+            "ta_term": "ஆக்கக் காரணிகள், உற்பத்திக் காரணிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "formative elections",
+            "ta_term": "உருவாக்கத் தேர்தல்கள் (அரசியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fourth international",
+            "ta_term": "நான்காம் அகிலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fourth republic, french",
+            "ta_term": "நான்காம் பிரெஞ்சுக் குடியரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "franchise",
+            "ta_term": "வாக்குரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "frankfurt school",
+            "ta_term": "ஃபிராங்க்பர்ட் சிந்தனைப் பள்ளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fraternity",
+            "ta_term": "உடன்பிறப்பியல்பு, சகோதரத்துவம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "free rider",
+            "ta_term": "கூட்டுநடவடிக்கைப் பயனாளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "free trade",
+            "ta_term": "கட்டற்ற தொழில்வணிகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "free trade area",
+            "ta_term": "கட்டற்ற தொழில்வணிகப் பகுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "free vote",
+            "ta_term": "கட்டிலா வாக்குரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "freedom",
+            "ta_term": "விடுதலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "freedom house index",
+            "ta_term": "சட்டமன்ற (அரசியல்) விடுதலைச் சுட்டென்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "freedom of association",
+            "ta_term": "குழுமம் உரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "freedom of information",
+            "ta_term": "தகவல்பெறும் உரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "freedom of religion",
+            "ta_term": "சமய உரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "freedom of speech",
+            "ta_term": "பேச்சுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "french enlightenment",
+            "ta_term": "பிரெஞ்சு அறிவொளிக் காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "french revolution",
+            "ta_term": "பிரெஞ்சுப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "front organization",
+            "ta_term": "முன்னணி நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "front, national",
+            "ta_term": "தேசிய முன்னணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "front-bencher",
+            "ta_term": "முதல் இருக்கையர் (விசுப்பலகையர்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "functional representation",
+            "ta_term": "செயல்பாட்டுச் சார்பான்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "functionalism",
+            "ta_term": "செயல்பாட்டுக் கொள்கை, செயல்பாட்டுவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fundamentalism, christian",
+            "ta_term": "கிறித்தவ அடிப்படைவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "fundamentalism, islamic",
+            "ta_term": "இசுலாமிய அடிப்படைவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "game theory",
+            "ta_term": "ஆட்டக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "garden city movement",
+            "ta_term": "நகரச் சூழல் மேம்பாட்டியக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gaullism",
+            "ta_term": "காலியம், கால்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gemeinschaft / gesellschaft",
+            "ta_term": "சமூக ஒருங்கு, சமூக உறவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gender and politics",
+            "ta_term": "பாலினமும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "general agreement on tariffs and trade (gatt)",
+            "ta_term": "கட்டணவீத, தொழில்வணிகப் பொது உடன்படிக்கை (கதொபொஉ)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "general agreement on trade in services (gats)",
+            "ta_term": "சேவை, தொழில்வணிகப் பொது உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "general strike",
+            "ta_term": "பொது வேலைநிறுத்தம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "general systems theory",
+            "ta_term": "பொது அமைப்புக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "general will",
+            "ta_term": "பொது விருப்புறுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "genocide",
+            "ta_term": "இனப்படுகொலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "geopolitics",
+            "ta_term": "புவி(க்கோள) அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "german unification",
+            "ta_term": "ஜெர்மனி இணைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gerrymandering",
+            "ta_term": "வெற்றிநோக்கத் தொகுதிப்பிரிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gesellschaft",
+            "ta_term": "சமூக உறவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gibbard - saterthwaite theorem",
+            "ta_term": "கிப்பார்டு சாட்டர்வைட் தேற்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gift relationship, the",
+            "ta_term": "கொடை உறவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "girondins",
+            "ta_term": "கிரோண்டி உறுப்பினர்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "glasnost",
+            "ta_term": "திறந்த ஆட்சியமைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "global warming",
+            "ta_term": "புவிக்கோள வெது வெதுப்பாக்கம், புவி வெப்பமிகுதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "globalization",
+            "ta_term": "உலகமயமாதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "glorious revolution",
+            "ta_term": "புனிதப் புரட்சி, மக்கள் பெரும்புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "good friday agreement",
+            "ta_term": "நல்வெள்ளி உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "governability",
+            "ta_term": "ஆளுதிறம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "grand old party",
+            "ta_term": "பெரும்பழமைக் கட்சி (அமெரிக்கக் குடியரசுக் கட்சி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "grandfather clause",
+            "ta_term": "தாத்தா விதிப்பிரிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "great leap forward",
+            "ta_term": "முன்னோக்கிய பெரும்பாய்ச்சல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "greek political thought",
+            "ta_term": "கிரேக்க அரசியல் சிந்தனை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "green parties",
+            "ta_term": "பசுமைநாட்டக் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "green revolution",
+            "ta_term": "பசுமைப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "greenham common",
+            "ta_term": "கிரீன்ஹாம் மகளிர் அமைதி இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "greenpeace",
+            "ta_term": "பசுமையற அமைதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "group representation",
+            "ta_term": "குழுச் சார்பாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "groupthink",
+            "ta_term": "குழுச்சிந்தனை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "guerrilla warfare",
+            "ta_term": "கொரில்லாப் போர்முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "guild socialism",
+            "ta_term": "வணிகக்குழு நிகருடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "guillotine",
+            "ta_term": "கட்டாய நாடாளுமன்ற முடிப்பு, வெட்டெந்திரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gulag",
+            "ta_term": "குலக் முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gulf co-operation council (gcc)",
+            "ta_term": "வளைகுடா கூட்டுறவுக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "gulf war",
+            "ta_term": "வளைகுடாப் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "habeas corpus",
+            "ta_term": "ஆட்கொணர் (ஆணை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "head of government",
+            "ta_term": "அரசமைப்புத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "head of state",
+            "ta_term": "அரசுத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "hegemony",
+            "ta_term": "ஓச்சதிகாரம், வல்லாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "hermeneutics",
+            "ta_term": "விளக்கவியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "hindu nationalism",
+            "ta_term": "இந்து தேசியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "hindutva",
+            "ta_term": "இந்துப் பெரும்பான்மை வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "historical institutionalism",
+            "ta_term": "வரலாற்று நிறுவனச் சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "historical materialism",
+            "ta_term": "வரலாற்றுப் பொருள்முதலியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "historicism",
+            "ta_term": "வரலாற்றுச் சார்பியம், வரலாற்று வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "home rule",
+            "ta_term": "நாட்டுத் தன்னாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "homeland security, department of",
+            "ta_term": "தாயகப் பாதுகாப்புத் துறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "house of commons",
+            "ta_term": "பொதுமக்கள் அவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "house of lords",
+            "ta_term": "நிலக்கிழார் அவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "house of representatives",
+            "ta_term": "பேராளர் அவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "housework",
+            "ta_term": "வீட்டுப்பணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "human rights",
+            "ta_term": "மனித உரிமைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "human rights act",
+            "ta_term": "மனித உரிமைகள் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "humanitarian intervention",
+            "ta_term": "மனிதநேயத் தலையீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "hung parliament",
+            "ta_term": "தொங்கு நாடாளுமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "idealism",
+            "ta_term": "கருத்து முதலியம், கருத்து முதல் வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ideal-regarding principle",
+            "ta_term": "நெறிமுறைக் கருத்தியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ideology",
+            "ta_term": "கருத்தியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "imf (international monetary fund)",
+            "ta_term": "ப.ப.நி. (பன்னாட்டுப் பண நிதியம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "immigration",
+            "ta_term": "நாடுபெயர்வு, புலம்பெயர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "immobilisme",
+            "ta_term": "நிலையற்ற ஆட்சி (அரசு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "impeachment",
+            "ta_term": "பதவிநீக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "imperial preference",
+            "ta_term": "பேரரசு விருப்பச் சார்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "imperial presidency",
+            "ta_term": "பேரரசுத் தலைமை முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "imperialism",
+            "ta_term": "பேரரசுக் கொள்கை, பேரரசுவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "impossibility theorem",
+            "ta_term": "இயலாமைத் தேற்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "impoundment",
+            "ta_term": "நிதி செலவிட எதிர்ப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "incomes policy",
+            "ta_term": "வருமானக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "incrementalism",
+            "ta_term": "சிறுமாற்ற முடிவெடிப்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "independence of irrelevant alternatives",
+            "ta_term": "பொருந்தா மாற்றுகளின் தற்சார்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "individual ministerial responsibility",
+            "ta_term": "தனி அமைச்சரின் பொறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "individualism",
+            "ta_term": "தனிமனிதக் கொள்கை, தனிமனித வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "industrial democracy",
+            "ta_term": "தொழிலக மக்களாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "industrial relations",
+            "ta_term": "தொழிலக உறவுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "industrial society",
+            "ta_term": "தொழிலகச் சமூகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "inflation",
+            "ta_term": "பணவீக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "initiative",
+            "ta_term": "முன்முனைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "inkatha",
+            "ta_term": "இங்கதா (கட்சி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "institutional racism",
+            "ta_term": "நிறுவன இனக்கொள்கை, நிறுவன இனவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "intelligence services",
+            "ta_term": "உளவுப் பணிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "intelligentsia",
+            "ta_term": "அறிவு வாழிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "interdependence",
+            "ta_term": "சார்புடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "interest groups",
+            "ta_term": "ஆர்வக் குழுக்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "interests, individual",
+            "ta_term": "தனி ஆர்வங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "intergovernmentalism",
+            "ta_term": "பன்னாட்டு முடிவேற்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "internal colonialism",
+            "ta_term": "நாட்டகக் குடியேற்றக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international court of justice",
+            "ta_term": "பன்னாட்டு நீதிமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international law",
+            "ta_term": "பன்னாட்டுச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international monetary fund",
+            "ta_term": "பன்னாட்டுப் பண நிதியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international political economy",
+            "ta_term": "பன்னாட்டு அரசியல் பொருளாதாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international relations",
+            "ta_term": "பன்னாட்டு உறவுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international socialism",
+            "ta_term": "பன்னாட்டு நிகருடைமைக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "international society",
+            "ta_term": "பன்னாட்டுச் சமூகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "internet and politics",
+            "ta_term": "இணையமும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "internment",
+            "ta_term": "கேள்வியின்றிச் சிறைப்பிடித்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "interval level variable",
+            "ta_term": "இடைவெளி மட்ட மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "intifada",
+            "ta_term": "பாலத்தீன எழுச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "invisible hand",
+            "ta_term": "முகமறியாத் தலையீடு, கட்புலப்படாத் தலையீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "iraq war",
+            "ta_term": "ஈராக் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "irish republican army (ira)",
+            "ta_term": "ஐரியக் குடியரசுப் படை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "iron curtain",
+            "ta_term": "இரும்புத் திரை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "iron law of oligarchy",
+            "ta_term": "மேல்தட்டினர் இரும்புச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "iron law of wages",
+            "ta_term": "கூலிசார் இரும்புச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "iron triangles",
+            "ta_term": "இரும்பு முக்கோணங்கள் (தன்னார்வக் குழுக் கூட்டு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "irredentism",
+            "ta_term": "எல்லை மீட்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "islamic fundamentalism (islamism)",
+            "ta_term": "இசுலாமிய அடிப்படைக் கொள்கை (இசுலாமியம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "islamic politics",
+            "ta_term": "இசுலாமிய அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "isolationism",
+            "ta_term": "தனிப்படுத்தற் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "issue voting",
+            "ta_term": "சிக்கல்சார் வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "item veto",
+            "ta_term": "உறுப்படி (இனம்)சார் மறுப்புரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jacobinism",
+            "ta_term": "யோகோபினியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jamaat-e islami",
+            "ta_term": "இசுலாமிய அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jerrymandering",
+            "ta_term": "வெற்றியீட்டத் தொகுதிப் பிரிப்பு (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jim crow laws",
+            "ta_term": "வெள்ளையர்-கருப்பர் பாகுபாட்டுச் சட்டங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jingoism",
+            "ta_term": "போர்வேட்புக் கொள்கை (பிரிட்டன்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "joint committee",
+            "ta_term": "கூட்டுக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jubilee 2000",
+            "ta_term": "2000-ஆம் ஆண்டு முழக்கம் (ஏழை நாடுகளின் கடன் தள்ளுபடி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "judaism",
+            "ta_term": "யூதவியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "judicial activism",
+            "ta_term": "நீதிமன்றச் செயல்முனைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "judicial restraint",
+            "ta_term": "நீதிமன்றத் தற்கட்டுப்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "judicial review",
+            "ta_term": "தீர்ப்பு மீள்பார்வை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "judiciary",
+            "ta_term": "நீதித்துறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "junta",
+            "ta_term": "அரசுக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jurisprudence",
+            "ta_term": "சட்டக் கோட்பாட்டியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "jury (theorem)",
+            "ta_term": "தீர்ப்பு நடுவர் (தேற்றம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "just war",
+            "ta_term": "முறையான போர், அறநிலைப் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "justice",
+            "ta_term": "நயம், நீதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kashmir problem",
+            "ta_term": "காசுமீரச் சிக்கல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kemalism",
+            "ta_term": "கெமாலியம் (இளந்துருக்கியர் கொள்கை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kgb (committee for state security)",
+            "ta_term": "அ.கா.கு. (அரசுக் காப்புறுதிக் குழு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "khmer rouge",
+            "ta_term": "கம்பூச்சியப் பொதுவுடைமைப் படைக்குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kibbutz",
+            "ta_term": "கூட்டுப்பண்ணை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kinship",
+            "ta_term": "சுற்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kitchen cabinet",
+            "ta_term": "நீழல் அமைச்சகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "korean war",
+            "ta_term": "கொரியப் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kulak",
+            "ta_term": "குலக் (இனக்குழுவகை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "kyoto protocol",
+            "ta_term": "கயோட்டோ நெறிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "labour movement",
+            "ta_term": "தொழிலாளர் இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "labour party",
+            "ta_term": "தொழிற்கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "labour theory of value",
+            "ta_term": "மதிப்பின் உழைப்புக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "laissez - faire",
+            "ta_term": "தான்தோன்றிப் போக்கு, தன்விருப்பச் செயல் போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lamarckism",
+            "ta_term": "லமார்க்கியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lame duck",
+            "ta_term": "நொண்டிவாத்து (தேர்தல் தோல்விக்குப்பின் பதவி வகிப்பவர்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "language",
+            "ta_term": "மொழி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "law",
+            "ta_term": "சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "league of nations",
+            "ta_term": "பன்னாட்டுக் குழு (சர்வதேசச் சங்கம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "left",
+            "ta_term": "இடதுசாரி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "legislature",
+            "ta_term": "சட்டமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "legitimacy",
+            "ta_term": "அறநிலை, சட்டமுறைத் தகுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "leisure class",
+            "ta_term": "ஓய்வு வகுப்பு (மேல் குடியினர்), உழைக்காத வகுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "leninism",
+            "ta_term": "லெனினியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "levelers",
+            "ta_term": "சமநிலைக் கொள்கையர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "liberal democratic party (japan)",
+            "ta_term": "தாராளமய மக்களாட்சிக் கட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "liberal parties",
+            "ta_term": "தாராளக் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "liberalism",
+            "ta_term": "தாராளமயக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "liberation theology",
+            "ta_term": "விடுதலை இறையியல், முக்தி இறையியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "libertarianism",
+            "ta_term": "தாராளமயக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "liberty",
+            "ta_term": "இயல் உராமை, தன்னுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "life peerage",
+            "ta_term": "வாழ்நாள் நிகர்பேராளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "life-cycle effect",
+            "ta_term": "வாழ்க்கைச் சுழற்சி விளைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "limit vote",
+            "ta_term": "வரம்புறுத்தும் வாக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lobbyists",
+            "ta_term": "தேர்தல் வாக்குத் திரட்டுவோர், பரப்புரையாளர்கள்(வேட்பாளரின்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "local government",
+            "ta_term": "உள்ளாட்சி அமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "local government finance",
+            "ta_term": "உள்ளாட்சி நிதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "local politics",
+            "ta_term": "உள்ளூர் (வட்டார) அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lome convention",
+            "ta_term": "லோம் மாநாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "longitudinal analysis",
+            "ta_term": "வரலாற்றுப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lord chancellor",
+            "ta_term": "சட்ட ஆட்சித்தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lord president of the council",
+            "ta_term": "சட்டமன்ற ஆட்சித்தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "loya jirga",
+            "ta_term": "பேராயம் (இனக்குழு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "loyalty",
+            "ta_term": "நம்பிக்கை, விசுவாசம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "lumpen oroletariat",
+            "ta_term": "லும்பன் பாட்டாளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "maastricht, treaty of",
+            "ta_term": "மாஸ்ட்ரிச்ட் உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "machine",
+            "ta_term": "எந்திரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "macroeconomics",
+            "ta_term": "பெருநிலைப் பொருளியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mafia",
+            "ta_term": "கொள்ளைக் கும்பல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "majoritarianism",
+            "ta_term": "பெரும்பான்மை சார்புக் கொள்கை, பெரும்பான்மை வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "majority - minority districting",
+            "ta_term": "பெரும்பான்மை-சிறுபான்மை பகுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "majority government",
+            "ta_term": "பெரும்பான்மை அரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "majority rule",
+            "ta_term": "பெரும்பான்மை ஆட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "maladministration",
+            "ta_term": "பிறழ் ஆட்சிமுறை, ஆட்சிமுறைக் கேடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "manchester school",
+            "ta_term": "மான்செஸ்ட்டர்ப் பள்ளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mandate",
+            "ta_term": "மக்கள் தீர்ப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "manifesto",
+            "ta_term": "அரசியல் அறிக்கை, கட்சி அறிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "manipulation",
+            "ta_term": "சமாளிப்பு, சரிகட்டல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "marginal seat",
+            "ta_term": "விளிம்புநிலைத் தொகுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "marginal utility",
+            "ta_term": "வரம்புநிலைப் பயன்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "marginalism",
+            "ta_term": "விளிம்புநிலைச் சாரியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "market",
+            "ta_term": "சந்தை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "market socialism",
+            "ta_term": "சந்தை நிகருடைமை (சமவுடைமை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "marshall aid",
+            "ta_term": "மார்ஷல் உதவி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "martial law",
+            "ta_term": "படைத்தலைமை ஆட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "marxism",
+            "ta_term": "மார்க்சீயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mass media",
+            "ta_term": "மக்கள் ஊடகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mass society",
+            "ta_term": "பெருந்திரள் சமூகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "masses",
+            "ta_term": "மக்கள்திரள், பொதுமக்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "massive retaliation",
+            "ta_term": "பெருந்திரள் தாக்குதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "master and slave",
+            "ta_term": "ஆண்டான்-அடிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "materialism",
+            "ta_term": "பொருள்முதலியம், பொருள்முதல் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "matriarchy",
+            "ta_term": "தாய்வழி முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "maximin",
+            "ta_term": "பெருமச்சிறுமம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mayor",
+            "ta_term": "மேயர் (நகர மேலர்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mccarthyism",
+            "ta_term": "மெக்கார்த்தீயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "measurement (levels of)",
+            "ta_term": "அளத்தல் (மட்டங்கள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "median voter",
+            "ta_term": "நடுவுநிலை வாக்காளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "medieval political theory",
+            "ta_term": "இடைக்கால அரசியல் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mensheviks",
+            "ta_term": "மென்ஷெவிக்குகள் (சிறுபான்மையினர்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mercantilism",
+            "ta_term": "வணிகச் சார்பியம், வணிகச் சார்புக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mercosur",
+            "ta_term": "தென்கூம்பு நாடுகளின் பொதுச்சந்தை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "meritocracy",
+            "ta_term": "தரவழித் தேர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "methodology",
+            "ta_term": "முறையியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mexican revolution",
+            "ta_term": "மெக்சிகப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "michigan school",
+            "ta_term": "மிச்சிகன் பள்ளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "microeconomics",
+            "ta_term": "நுண்பொருளியல், நுண்ணியற் பொருளியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "middle class",
+            "ta_term": "நடுத்தர வகுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "migration",
+            "ta_term": "இடம்பெயர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "militant tendency",
+            "ta_term": "மீமுனைவுப் பொதுவுடைமைப் போக்கு (தொழிற்கட்சி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "militarism",
+            "ta_term": "போர்நாட்டப்போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "military - industrial complex",
+            "ta_term": "படைக்கலத் தொழில் கூட்டமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "millenarianism",
+            "ta_term": "கிறித்து இரண்டாம் வருகை (ஆயிரம் ஆண்டுக்காலம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "minimax",
+            "ta_term": "சிறுமப்பெருமம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "minister",
+            "ta_term": "அமைச்சர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "minority government",
+            "ta_term": "சிறுபான்மை அரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "minority leader",
+            "ta_term": "சிறுபான்மைத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "minority politics",
+            "ta_term": "சிறுபான்மை அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mobility",
+            "ta_term": "அசைதிறம், இயங்குதிறம், பெயர்திறம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mobilization of bias",
+            "ta_term": "சார்புநிலையை அணிதிரட்டல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "monarchism",
+            "ta_term": "முடியாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "monetarism",
+            "ta_term": "பணச் சார்பியம், பணஆட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "monetary policy",
+            "ta_term": "பணஞ்சார் கொள்கை, நிதிக்கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "monotonicity",
+            "ta_term": "ஒற்றைச் சாயன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "monroe doctrine",
+            "ta_term": "மன்றோ நெறிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "moral majority",
+            "ta_term": "அறப் பெரும்பான்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "most favoured nation (mfn)",
+            "ta_term": "மிகுநயப்பு நாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "multiculturalism",
+            "ta_term": "பல்பண்பாட்டியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "multilateralism",
+            "ta_term": "பன்முகச்சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "multi-level governance",
+            "ta_term": "பலமட்ட ஆளுகை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "multinational corporation",
+            "ta_term": "பன்னாட்டுத் தொழில்குழுமம் (தொழிலிணையம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "multiparty system",
+            "ta_term": "பலகட்சி முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "mutual assured destruction",
+            "ta_term": "சமவாய்ப்பு இணைநிலை அழிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nafta",
+            "ta_term": "வ.அ.க.வ.உ. (வடஅமெரிக்க கட்டற்ற வணிக உடன்பாடு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "napoleonic law",
+            "ta_term": "நெப்போலியச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "narodnik",
+            "ta_term": "நரோத்னிக் இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nash equilibrium",
+            "ta_term": "நாஷ் சமநிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national front (france)",
+            "ta_term": "தேசிய அணி (பிரெஞ்சு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national front (uk)",
+            "ta_term": "தேசிய அணி (ஐஅ)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national interest",
+            "ta_term": "தேசியப் பற்று, நாட்டார்வம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national missile defense (nmd)",
+            "ta_term": "தேச ஏவுகணைப் பாதுகாப்பு (தே.ஏ.பா.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national security council (nsc)",
+            "ta_term": "தேசப் பாதுகாப்பு மன்றம் (தே.பா.ம.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national socialism",
+            "ta_term": "தேசிய நிகருடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "national treatment",
+            "ta_term": "(இறக்குமதிக்கான) தேசியநிலை அணுகுமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nationalism",
+            "ta_term": "தேசீயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nationalization",
+            "ta_term": "நாட்டுடைமையாக்கல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nation-state",
+            "ta_term": "தேசிய அரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nato",
+            "ta_term": "வ.அ.உ.நி. (வட அட்லாண்டிக் உடன்படிக்கை நிறுவனம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "natural law",
+            "ta_term": "இயல்நெறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "natural rights",
+            "ta_term": "இயல் உரிமைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nature, convention",
+            "ta_term": "இயற்கை உச்சிமாநாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nazi",
+            "ta_term": "நாசி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "needs",
+            "ta_term": "தேவைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neoclassical economics",
+            "ta_term": "புதுச்செவ்வியல் பொருளியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neo-colonialism",
+            "ta_term": "புதுக்குடியேற்றப்போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neocorporatism",
+            "ta_term": "புதுத் தொழிற்குழுமஞ் சாரியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neo-fascism",
+            "ta_term": "புதுப் பாசிசம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neofunctionalism",
+            "ta_term": "புதிய செயல்பாட்டுக் கொள்கை (ஐரோப்பிய ஒன்றியம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neoliberalism",
+            "ta_term": "புதுத் தாராளமயக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nep (new economic policy)",
+            "ta_term": "பு.பொ.கொ. (புதிய பொருளியல் கொள்கை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neutralism",
+            "ta_term": "நடுவுநிலைக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "neutrality",
+            "ta_term": "நடுவுநிலைப் போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new deal",
+            "ta_term": "புது நடைமுறை (சீர்திருத்தம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new economic policy",
+            "ta_term": "புதுபுதிய பொருளியல் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new institutionalism",
+            "ta_term": "புது நிறுவனச்சார்பியம், புது நிறுவனவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new labour",
+            "ta_term": "புதிய தொழிலாளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new left",
+            "ta_term": "புதிய இடதுசாரி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new right",
+            "ta_term": "புதிய வலதுசாரி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "new social movements",
+            "ta_term": "புதிய சமூக இயக்கங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nice treaty",
+            "ta_term": "நைஸ் உடன்படிக்கை (ஐரோப்பிய ஒன்றியம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nimby - (not in my backyard)",
+            "ta_term": "எ.பு.வே. (என் புறக்கடையில் வேண்டாம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nolan committee",
+            "ta_term": "நோளன் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nomenclature",
+            "ta_term": "பெயர், பெயரீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nominal level variable",
+            "ta_term": "இயல்மட்ட மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nominating convention",
+            "ta_term": "பதவியாளர் அறிவிப்பு மரபு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "non-alignment",
+            "ta_term": "அணிசாராமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "non-governmental organization (ngo)",
+            "ta_term": "அரசுசாரா நிறுவனம் (அ.சா.நி.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "non-violence",
+            "ta_term": "இன்னாசெய்யாமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "non-zero-sum game",
+            "ta_term": "சுழியாகாக் கூட்டுத்தொகை ஆட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "norm",
+            "ta_term": "இயல்கூறு, வரன்முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "normal distribution",
+            "ta_term": "இயல்பரவல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "north",
+            "ta_term": "வடக்கு நாடுகள் அணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "north american free trade agreement (nafta)",
+            "ta_term": "வடஅமெரிக்க கட்டற்ற வணிக உடன்பாடு (வ.அ.க.வ.உ.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "north atlantic treaty organisation",
+            "ta_term": "வடஅட்லாண்டிக் உடன்படிக்கை நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "northern ireland",
+            "ta_term": "வட அயர்லாந்து"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "nuclear proliferation",
+            "ta_term": "அணுப்படைக்கலப் பெருக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "obedience",
+            "ta_term": "பணிவுடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "obligation",
+            "ta_term": "கடப்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "office of management and budget (omb)",
+            "ta_term": "மே.பா.அ. (மேலாண்மை, பாதீட்டு அலுவலகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "official secrets acts",
+            "ta_term": "அலுவலகக் கமுக்கச் சட்டங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "oligarchy",
+            "ta_term": "மேல்தட்டுச் சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "oligopoly",
+            "ta_term": "மேல்தட்டாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ombudsman",
+            "ta_term": "குறைதீர்ப்பாளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "one member one vote (omov)",
+            "ta_term": "ஓர் உறுப்பினர் ஒரு வாக்கு (ஓ.உ.ஒ.வா.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "one-party states",
+            "ta_term": "ஒற்றைக்கட்சி அரசுகள் (நாடுகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "open primary",
+            "ta_term": "திறந்த பொதுத்தேர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "open rule",
+            "ta_term": "திறந்த விதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "opinion polls",
+            "ta_term": "கருத்து வாக்கெடுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ordinal level variable",
+            "ta_term": "ஒழுங்குமட்ட மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "organic analogy",
+            "ta_term": "உயிரிஉடல் (சூழல்) ஒப்புமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "organization of african unity (oau)",
+            "ta_term": "ஆப்பிரிக்க ஒற்றுமை நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "organization of american states (oas)",
+            "ta_term": "அமெரிக்க மாநிலங்களின் நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "organization of petroleum exporting countries (opec)",
+            "ta_term": "பாறைஎண்ணெய் ஏற்றுமதி நாடுகளின் நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "oriental despotism",
+            "ta_term": "கீழைக் கொடுங்கோன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "orientalism",
+            "ta_term": "கீழைச் சார்பியம், கீழைச் சார்புவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "original internet",
+            "ta_term": "மூல இணையம், முதல்வகை இணையம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "original jurisdiction",
+            "ta_term": "மூலச்சட்ட வரம்பெல்லை, முதற்சட்ட வரம்பெல்லை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "oslo agreement",
+            "ta_term": "ஓஸ்லோ உடன்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "osmotherly rules",
+            "ta_term": "பொது ஊழியர் விதிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ostpolitik",
+            "ta_term": "கீழை அரசியல் கொள்கை (ஜெர்மனி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pacifism",
+            "ta_term": "அமைதித் தீர்வுக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pairing",
+            "ta_term": "எதிர்வாக்கினர் பாராமை (சட்டமன்றம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "palestine liberation organization",
+            "ta_term": "பாலஸ்தீன விடுதலை நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pan-africanism",
+            "ta_term": "பேராப்பிரிக்கக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pan-africanist congress (pac) (south africa)",
+            "ta_term": "பேராப்பிரிக்கக் கொள்கைப் பேராயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pan-arabism",
+            "ta_term": "பேரரபியக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "panel study / survey",
+            "ta_term": "வல்லுநர்குழு ஆய்வு/அளக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pankhurst family",
+            "ta_term": "பேங்கர்ஸ்ட் குடும்பம் (பெண் வாக்குரிமை இயக்கம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "panscheel",
+            "ta_term": "ஐந்து ஒழுக்கக் கொள்கை, (பஞ்சசீலக் கொள்கை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pantouflage",
+            "ta_term": "செல்வாக்கால் பதவி கவரல் (தனியார் அமைப்பில்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pardon (presidential)",
+            "ta_term": "(குடியரசுத் தலைவர்) மன்னிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "parliament",
+            "ta_term": "நாடாளுமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "parliamentary boundary commission",
+            "ta_term": "நாடாளுமன்ற எல்லை ஆணையம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "parliamentary commissioner for standards",
+            "ta_term": "செந்தரங்களுக்கான நாடாளுமன்ற ஆணையர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "parliamentary privilege",
+            "ta_term": "நாடாளுமன்றத் தனியுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "parliamentary question",
+            "ta_term": "நாடாளுமன்றக் கேள்வி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "parliamentary sovereignty",
+            "ta_term": "நாடாளுமன்ற இறையாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "participation, political",
+            "ta_term": "அரசியல் பங்கேற்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "partition",
+            "ta_term": "பிரிவினை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "party conference",
+            "ta_term": "கட்சி மாநாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "party convention",
+            "ta_term": "கட்சி நிறுவன மாநாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "party identification",
+            "ta_term": "கட்சி இனங்காணல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "party list",
+            "ta_term": "கட்சிப் பட்டியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "party organisation",
+            "ta_term": "கட்சி நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "party system",
+            "ta_term": "கட்சி முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "paternalism",
+            "ta_term": "தந்தைவழி மரபு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "path dependence",
+            "ta_term": "தடச்சார்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "patriarchy",
+            "ta_term": "தந்தைவழி முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "patriotism",
+            "ta_term": "நாட்டுப்பற்று"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "patronage",
+            "ta_term": "புரவாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "peacekeeping",
+            "ta_term": "அமைதிக்காப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "peasantry",
+            "ta_term": "உழவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pedersen index",
+            "ta_term": "பெடர்சன் சுட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "people’s democracy",
+            "ta_term": "மக்கள் சார்பாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "perestroika",
+            "ta_term": "கட்டமைப்புத் திருத்தம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "perfectionism",
+            "ta_term": "முழுநிறைவியல், முழுநிறைவுக் கொள்கை (அரசு, தனியர்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "permanent revolution",
+            "ta_term": "நிலைத்த புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "peron (ism)",
+            "ta_term": "பெரோனியம் (இலத்தீன மெரிக்க அரசியல் இயக்கம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "personal as political",
+            "ta_term": "தனியர் சார்பு அரசியலாகக் (கருதல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "petersberg declaration (tasks)",
+            "ta_term": "பீட்டர்ஸ்பெர்கு அறிவிப்பு (அரும்பணிகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "petite bourgeoisie",
+            "ta_term": "குட்டி முதலாளியம், குட்டி பூர்ஷுவா"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pfi",
+            "ta_term": "த.நி.மு. (தனியர் நிதி முன்முனைவு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "phenomenology",
+            "ta_term": "தோற்றநிகழ்வுக் கொள்கை, தோற்றநிகழ்வு வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "physiocrats",
+            "ta_term": "இயல்பொருளியல் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pillarisation",
+            "ta_term": "சமயப் பிரிவினைக் கொள்கை (கிறித்துவம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "planning",
+            "ta_term": "திட்டமிடல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "plebiscite (adj)",
+            "ta_term": "மக்கள் தீர்ப்பு(சார்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "plo (palestine liberation organization)",
+            "ta_term": "பா.வி.இ. (பாலஸ்தீன விடுதலை இயக்கம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pluralism",
+            "ta_term": "பன்மைக்கொள்கை, பன்மைவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "plurality",
+            "ta_term": "பன்மை, பன்முகமை (குடியரசுத் தலைவர்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pocket veto",
+            "ta_term": "திருப்பியனுப்பா மறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "polarization",
+            "ta_term": "முனைமயுறல், ஒருபால்கோடல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "police",
+            "ta_term": "காவல்படை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "policy networks",
+            "ta_term": "கொள்கை வலைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "policy studies",
+            "ta_term": "கொள்கை ஆய்வுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "policy transfer",
+            "ta_term": "கொள்கை மாற்றம், (காப்பீட்டுப் பட்டய மாற்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "polis",
+            "ta_term": "நகராட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "politbeauro",
+            "ta_term": "அரசாயம் (பொதுவுடமைக் கட்சி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political action committee (pac)",
+            "ta_term": "அரசியல் நடவடிக்கைக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political arithmetic",
+            "ta_term": "அரசியல் கணக்கு (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political asylum",
+            "ta_term": "அரசியல் புகல் (தஞ்சம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political behaviour",
+            "ta_term": "அரசியல் நடத்தை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political business cycle",
+            "ta_term": "அரசியல் அலுவற் சுழற்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political correctness",
+            "ta_term": "அரசியல் நேர்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political culture",
+            "ta_term": "அரசியல் பண்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political development",
+            "ta_term": "அரசியல் புதுநிலை வளர்ச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political economy",
+            "ta_term": "அரசியல் பொருளாதாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political geography",
+            "ta_term": "அரசியல் புவிப்பரப்பியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political participation",
+            "ta_term": "அரசியல் பங்கேற்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political philosophy",
+            "ta_term": "அரசியல் மெய்யியல், அரசுக் கோட்பாட்டியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political science",
+            "ta_term": "அரசியல் அறிவியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political socialization",
+            "ta_term": "அரசியல்சார் சமூகமயமாக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political sociology",
+            "ta_term": "அரசியல்சார் சமூகவியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "political theory",
+            "ta_term": "அரசியல் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "politics",
+            "ta_term": "அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "poll tax",
+            "ta_term": "வாக்களிப்பு வரி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "polyarchy",
+            "ta_term": "குழுவாட்சிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pooled sovereignty",
+            "ta_term": "திரள் இறையாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "popular front",
+            "ta_term": "செல்வாக்கான அணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "populism",
+            "ta_term": "மக்கள் கவர்ச்சிக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pork barrel legislation",
+            "ta_term": "தொகுதிநிதி ஒதுக்கீட்டுச் சட்டமியற்றல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pornography",
+            "ta_term": "காம விவரிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "positional goods",
+            "ta_term": "சூழல் இருப்பு வளம் (சூழற் பொருளியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "positive discrimination",
+            "ta_term": "உறுதியான விளிம்பினர் (பாகுபாட்டினர்) பங்கேற்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "positivism",
+            "ta_term": "நேர்க்காட்சிக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "possion distribution",
+            "ta_term": "பாயிசான் பரவல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "post-colonial state",
+            "ta_term": "பின்னைக் குடியேற்ற அரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "post-fordism",
+            "ta_term": "பின்னை ஃபோர்டியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "post-industrialism",
+            "ta_term": "பின்னைத் தொழில்முறைக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "post-materialism",
+            "ta_term": "பின்னைப் பொருள்முதலியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "post-modernism",
+            "ta_term": "பான்னைப் புத்தியம், பின் நவீனத்துவம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "post-structuralism",
+            "ta_term": "பின்னமைப்பு வாதம், பின்னைக் கட்டமைப்பு வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "poujadism",
+            "ta_term": "பௌசாடியியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "power",
+            "ta_term": "அதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "power elite",
+            "ta_term": "அதிகாரத் தலைமாந்தர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "power index",
+            "ta_term": "அதிகாரஞ் சுட்டு (தேர்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "power sharing",
+            "ta_term": "அதிகாரப் பகிர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prague spring",
+            "ta_term": "‘பிரேகு இளவேனில்’ (அலெக்சாந்தர் துப்செக் தலைமைக் காலம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prefect",
+            "ta_term": "முழுநிறைவான, கருத்தியலான"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "preference",
+            "ta_term": "விருப்புரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "preference ordering",
+            "ta_term": "விருப்புரிமை வரிசைப்படுத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prerogative",
+            "ta_term": "முன்னுரிமை அதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "president",
+            "ta_term": "குடியரசுத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "president elect",
+            "ta_term": "தேர்வுக் குடியரசுத்தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pressure group",
+            "ta_term": "ஓச்சதிகாரக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "primary election",
+            "ta_term": "முதன்மைத் தேர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prime minister",
+            "ta_term": "தலைமையமைச்சர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "primitive accumulation",
+            "ta_term": "முதனிலைத் திரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "primitive communism",
+            "ta_term": "தொல் பொதுவுடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "principal-agent problem",
+            "ta_term": "தனியர்-முகவர் சிக்கல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prior restraint",
+            "ta_term": "முன்கட்டுப்பாடு, முன்னமை தளை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prisoner’s dilemma",
+            "ta_term": "கைதியின் ஊசலாட்டப் புதிர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "private bill",
+            "ta_term": "தனியார் சட்ட முன்வரைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "private finance initiative",
+            "ta_term": "தனியார் நிதி முன்முனைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "private member’s bill",
+            "ta_term": "தனி உறுப்பினர் சட்டமுன்மொழிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "privatization",
+            "ta_term": "தனியார்மயமாக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "privy council",
+            "ta_term": "உயராட்சிக்குழு, செல்வாக்கினர் குழு, மேலவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "prochoice",
+            "ta_term": "முன்தேர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "progressive movement",
+            "ta_term": "முற்போக்கு இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "progressive taxation",
+            "ta_term": "வளர்முக வரிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "proletariat",
+            "ta_term": "பாட்டாளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pro-life",
+            "ta_term": "வாழ்க்கைசார், வாழ்க்கைக்கான, உலகியலான"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "propaganda",
+            "ta_term": "பரப்புரை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "property",
+            "ta_term": "சொத்து"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "proportional representation",
+            "ta_term": "விகிதமுறை ஆட்சிப்பகிர்வு (பேராண்மை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "protection(ism)",
+            "ta_term": "பாதுகாப்புசாரியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "protectorate",
+            "ta_term": "பாதுகாப்பகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "protestant parties",
+            "ta_term": "புரோட்டஸ்டன்ட் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "psephology",
+            "ta_term": "வாக்களிப்பியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "psychology",
+            "ta_term": "உளவியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "pubic interest",
+            "ta_term": "பொதுமக்கள் ஆர்வம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public - private partnership (ppp)",
+            "ta_term": "அரசு-தனியார் பங்கேற்பு (அ.த.ப.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public accounts committee (pac)",
+            "ta_term": "பொதுக் கணக்காயர் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public administration",
+            "ta_term": "பொது ஆட்சிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public bill",
+            "ta_term": "பொதுக்கொள்கைச் சட்டமுன்வரைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public choice",
+            "ta_term": "பொதுமக்கள் தேர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public good",
+            "ta_term": "பொது நன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public opinion",
+            "ta_term": "பொதுமக்கள் கருத்து"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "public sector borrowing requirement (bsbr)",
+            "ta_term": "பொதுத்துறைக் கடன் தேவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "publius",
+            "ta_term": "பப்ளியஸ் (உரோமக் குடியரசை நிலைப்படுத்தியவன்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "punishment",
+            "ta_term": "தண்டனை, தண்டம், ஒறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "quakers",
+            "ta_term": "அஞரின்பர்கள் (அமைதி நண்பர்கள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "qualified majority rule",
+            "ta_term": "தகுந்த பெரும்பான்மை ஆட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "qualitative methods",
+            "ta_term": "பண்பியல் முறைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "quango",
+            "ta_term": "பகுதி அரசு நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "quantitative methods",
+            "ta_term": "அளவியல் முறைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "queen’s (or) king’s) speech",
+            "ta_term": "அரசி அல்லது அரசர் பேச்சு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "question time",
+            "ta_term": "கேள்வி நேரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "quorum",
+            "ta_term": "கோரெண், சிறும உறுப்பினர் எண்ணிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "race and politics",
+            "ta_term": "இனமும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "radical parties",
+            "ta_term": "முனைப்பான கட்சிகள், தீவிரக் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "radical-right",
+            "ta_term": "முனைப்பான வலதுசாரி, தீவிர வலதுசாரி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "raison d’ etat",
+            "ta_term": "தடையிலாது செயல்படு காரணம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ranking member",
+            "ta_term": "முதுவல் (நெடுங்கால) உறுப்பினர், மூத்த உறுப்பினர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rapid reaction force (rrf)",
+            "ta_term": "விரை எதிர்வினை (சமூக) விசை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ratio level variable",
+            "ta_term": "விகித மட்ட மாறி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rational choice",
+            "ta_term": "அறிவார்ந்த தேர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "realignment",
+            "ta_term": "அணாமாற்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "realism",
+            "ta_term": "நடப்பியல் கொள்கை, நடப்பியல் வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "realpolitik",
+            "ta_term": "மெய் அரசியல்சார்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "recall",
+            "ta_term": "மீளழைப்பு, திரும்ப அழைத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "redistricting",
+            "ta_term": "மீள்பகுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "referendum",
+            "ta_term": "பொது வாக்கெடுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "refugee",
+            "ta_term": "அகதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "regime",
+            "ta_term": "காலம், மண்டலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "regionalism",
+            "ta_term": "வட்டாரச் சார்பியம், வட்டாரவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "regressive taxation",
+            "ta_term": "குறைபோக்கு வரிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "regulation",
+            "ta_term": "ஒழுங்குமுறை, கட்டுப்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "reification (deification)",
+            "ta_term": "புறவயப்படுத்தல் (இறைவயப்படுத்தல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "relation and politics",
+            "ta_term": "உறவுமுறையும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "relations of production",
+            "ta_term": "உற்பத்தி உறவுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "relative autonomy",
+            "ta_term": "சார்புத் தன்னாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rent-seeking",
+            "ta_term": "வாடகைக் கோரல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "report stage representation",
+            "ta_term": "அறிக்கை நிலை முறையீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "representative government",
+            "ta_term": "விகிதப் பங்கேற்பு அரசுமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "republic",
+            "ta_term": "குடியரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "republican party (usa)",
+            "ta_term": "குடியரசுக் கட்சி (அ.ஒ.நா.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "republicanism",
+            "ta_term": "குடியரசுக் கொள்கை, குடியரசுவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "reselection",
+            "ta_term": "மீள்தெரிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "reservation",
+            "ta_term": "ஒதுக்கீடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "responsible government",
+            "ta_term": "பொறுப்பேற்பு அரசமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "revenue sharing",
+            "ta_term": "வருவாய் பகிர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "revisionism",
+            "ta_term": "திருத்தல்போக்குக் கொள்கை, திருத்தல்வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "revolution",
+            "ta_term": "புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rhenish capitalism",
+            "ta_term": "இரேனிய முதலாளியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rhetoric",
+            "ta_term": "(வெற்று) முழக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rider",
+            "ta_term": "பொருந்தா விதியிணைப்பு (சட்டமியற்றல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "right (wing)",
+            "ta_term": "வலதுசாரி (பிரிவு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "right to life",
+            "ta_term": "வாழ்வுரிமை, உயிர் காப்புரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rights",
+            "ta_term": "உரிமைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "risk",
+            "ta_term": "இடர், மறையிடர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "risorgimento",
+            "ta_term": "மீள்எழுச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rogue state",
+            "ta_term": "முரட்டு அரசு (அமெரிக்க எதிர்ப்பு அரசு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "roll-call",
+            "ta_term": "இருந்து வாக்களிப்பு முறை (சட்டமன்றம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "roman law",
+            "ta_term": "உரோமானியச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "romanticism",
+            "ta_term": "வியன்புனைவுப் போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rome, treaty of",
+            "ta_term": "உரோம் உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rotten borough",
+            "ta_term": "நிலக்கிழார் வேட்பாளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "royal commissions",
+            "ta_term": "அரச ஆணையங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "royal prerogative",
+            "ta_term": "அரசர்சார் முன்னுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rule utilitarianism",
+            "ta_term": "விதிப் பயனீட்டுக் கொள்கை, விதிப் பயன்நோக்குவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "rules committee",
+            "ta_term": "விதிக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "russian congress of people’s deputies",
+            "ta_term": "உருசிய மக்கள் சார்பாளர் பேராயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "russian federal assembly",
+            "ta_term": "உருசியக் கூட்டாட்சி மன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "russian revolution",
+            "ta_term": "உருசியப் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "russian revolution, 1991",
+            "ta_term": "உருசியப் புரட்சி, 1991"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "saddlepoint",
+            "ta_term": "தொய்வுநிலை (சிறுமப் பெருமம்) (ஆட்டக் கோட்பாடு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "salience",
+            "ta_term": "பிரச்சினை அழுத்தம் (வாக்களிப்பியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "saliency theory",
+            "ta_term": "சிக்கல் செறிமைக் கோட்பாடு (வாக்களிப்பியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sampling",
+            "ta_term": "பதக்கூறெடுத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sanctions",
+            "ta_term": "ஒப்பளிப்புகள், தடைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sandinism",
+            "ta_term": "சாண்டினியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sans-culottes",
+            "ta_term": "காற்சட்டைப் புரட்சியாளர் (பிரெஞ்சுப் புரட்சி)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "schengen area (or schengenland)",
+            "ta_term": "செஞ்சன் பகுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "scottish enlightenment",
+            "ta_term": "ஸ்காட்டிய அறிவொளிக்காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "secession",
+            "ta_term": "அரசு அதிகாரத் தொடரேற்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "second ballot",
+            "ta_term": "இரண்டாம் வாக்குச்சீட்டு, இரண்டாம் தேர்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "second chambers",
+            "ta_term": "இரண்டாம் ஆட்சிமன்றங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "second international",
+            "ta_term": "இரண்டாம் அகிலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "second reading",
+            "ta_term": "இரண்டாம் வாசிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "secondary legislation",
+            "ta_term": "துணைச் சட்டமியற்றல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "second-strike capacity",
+            "ta_term": "இரண்டாம் தாக்குதல் திறன்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "secret service",
+            "ta_term": "கமுக்கப் பணி, உளவுப் பணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "secretary of state",
+            "ta_term": "அரசுச் செயலர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "secularization",
+            "ta_term": "சமயஞ்சாரா இயக்கம், சமயநீக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "security council",
+            "ta_term": "பாதுகாப்பு மன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "segregation",
+            "ta_term": "பிரிதல், தனிப்படுதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "select committee",
+            "ta_term": "தெரிவுக் குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "self regarding action",
+            "ta_term": "தற்கட்டுப்பாட்டுச் செயல், தன்மதிப்புச் செயல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "self-determination",
+            "ta_term": "தன்முடிவெடுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "self-government",
+            "ta_term": "தன்னாட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "self-interest",
+            "ta_term": "தன்னார்வம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "self-ownership",
+            "ta_term": "தன் உரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "senate",
+            "ta_term": "ஆட்சிக்குழு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "seniority",
+            "ta_term": "முன்மை, மூதுரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "separate but equal",
+            "ta_term": "தனித்த சமம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "separate electorates",
+            "ta_term": "தனி உரிமை வாக்காளர்கள் (சமயம், இனக்குழு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "separation of powers",
+            "ta_term": "அதிகாரப் பிரிவினை, அதிகாரப் பகிர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sexism",
+            "ta_term": "பாலுறவு சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "shadow cabinet",
+            "ta_term": "நிழல் அமைச்சரவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "shapley shubik index",
+            "ta_term": "அரசியல் கூட்டுஅதிகாரச் சுட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "shari’a",
+            "ta_term": "இசுலாமியச் சட்டம் (ஷரியா)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "shi’i",
+            "ta_term": "இசுலாமியச் சிறுபான்மைப் பிரிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "shining path",
+            "ta_term": "ஒளிர்தடவழி இயக்கம் (பெரும் பொதுவுடைமை இயக்கம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "side-constraint",
+            "ta_term": "நெறி கட்டுத்தளை (உரிமைச்சிக்கல்சார் கருத்துரு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "simple plurality electoral system",
+            "ta_term": "எளிய பன்மை வாக்கமைப்பு முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "single european act (sea)",
+            "ta_term": "ஒற்றை ஐரோப்பியச் சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "single issue politics",
+            "ta_term": "தனிச்சிக்கல்சார் அரசியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "single peakedness",
+            "ta_term": "தனி முகடுறுமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "single transferable vote (stv)",
+            "ta_term": "மாற்றியல்பு தனி வாக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sittichkeit",
+            "ta_term": "நெறிப்படு வாழ்க்கை (எகலியக் கருத்து)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "slavery",
+            "ta_term": "அடிமை முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social capital",
+            "ta_term": "சமூக முதல் (மூலதனம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social charter",
+            "ta_term": "சமூகப் பட்டயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social choice",
+            "ta_term": "சமூகத் தேர்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social contract",
+            "ta_term": "சமூக ஒப்பந்தம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social credit",
+            "ta_term": "சமூகக் கடப்பாடு (பொருளியல்), சமூகக் கடப்பாட்டு இயக்கம் (அரசியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social darwinism",
+            "ta_term": "சமூக டார்வினியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social democracy, social democrat",
+            "ta_term": "சமூக மக்களாட்சி, சமூக மக்களாட்சியர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social dumping",
+            "ta_term": "சமூகக் கொட்டல் (பொருளியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social exclusion",
+            "ta_term": "சமூக விலக்கு (தவிர்ப்பு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social justice",
+            "ta_term": "சமூக நீதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social market",
+            "ta_term": "சமூகச் சந்தை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social mobility",
+            "ta_term": "சமூக இயங்குதிறம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social movements",
+            "ta_term": "சமூக இயக்கங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social security",
+            "ta_term": "சமூகக் காப்புறுதி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social stratification",
+            "ta_term": "சமூக அடுக்காக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "social welfare function",
+            "ta_term": "சமூகநலச் செயல்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "socialism",
+            "ta_term": "நிகருடைமை, சமஉடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "socialism in one country",
+            "ta_term": "தனிநாட்டு நிகருடைமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "socialist parties",
+            "ta_term": "சமஉடைமைக் கட்சிகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "society",
+            "ta_term": "சமூகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sociobiology",
+            "ta_term": "உயிரியல்சார் சமூக நடத்தையியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sociology and politics",
+            "ta_term": "சமூகவியலும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "solidarity",
+            "ta_term": "ஒருங்குதிரள்மை, அணிதிரள்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sophisticated voting",
+            "ta_term": "நுட்பமுறை வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sophists",
+            "ta_term": "அறிஞர், ஆசிரியர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "south",
+            "ta_term": "தெற்கு அணிப்பிரிவு நாடுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "southeast asia treaty organization (seato)",
+            "ta_term": "தென்கிழக்கு ஆசிய உடன்படிக்கை நிறுவனம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sovereignty",
+            "ta_term": "இறையாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "spartacists",
+            "ta_term": "ஜெர்மனி சமூக மக்களாட்சிப் புரட்சியாளர்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "spatial competition, theory of",
+            "ta_term": "இடவெளிசார் தேர்தல் போட்டிக் கோட்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "speaker",
+            "ta_term": "பேச்சாளர், அவைத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "special relationship",
+            "ta_term": "சிறப்பு உறவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "species – being",
+            "ta_term": "உணர்வமை இனம், மனித இன இருப்புச் சாரம், இன இணைவாழ்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sphere of influence",
+            "ta_term": "செல்வாக்கு வெளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "spin",
+            "ta_term": "வாக்குமாறல், (அரசியலில்) காட்டிக்கொடுத்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "split - ticket voting",
+            "ta_term": "பிரிநிலைச் சீட்டு வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "spoils system",
+            "ta_term": "கீழறுப்பு முறை, வீணடிப்பு முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sponsored candidate",
+            "ta_term": "புரவாண்மை (பரிந்துரைப்பு) வேட்பாளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sport",
+            "ta_term": "விளையாட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stakeholder",
+            "ta_term": "பங்கேற்பாளர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stakhanovism",
+            "ta_term": "ஸ்டாக்கனோவியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stalinism",
+            "ta_term": "ஸ்டாலினியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "standards in public life",
+            "ta_term": "பொதுவாழ்க்கை நெறித்தரங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "standing committee",
+            "ta_term": "நிலைக்குழு, நிலை ஆயம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stare decisis",
+            "ta_term": "முன்தீர்ப்புப் பின்பற்றல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "state",
+            "ta_term": "அரசு, மாநிலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "state capture",
+            "ta_term": "அரசைக் கைப்பற்றுதல், அதிகாரம் கைப்பற்றுதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "state department",
+            "ta_term": "அரசுத் துறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "state of nature",
+            "ta_term": "இயற்கையின் நிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "state of the union message",
+            "ta_term": "ஒன்றியச் செய்திநிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "state socialism",
+            "ta_term": "அரசு நிகருடைமை (சமவுடைமை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stateless society",
+            "ta_term": "அரசிலாத சமூகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "states general",
+            "ta_term": "குறுநிலக்கிழார்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "states’ rights",
+            "ta_term": "அரசின் உரிமைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "statism",
+            "ta_term": "அரசுக் கட்டுப்பாட்டு முறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "statute law",
+            "ta_term": "நிலைச்சட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "statutory instruments",
+            "ta_term": "நிலைச்சட்ட ஆவணங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stoicism",
+            "ta_term": "நிலையேற்புக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "stop-go",
+            "ta_term": "பணவீக்க, இறக்கச் சுழற்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "straight ticket voting",
+            "ta_term": "நேரடிச் சீட்டு வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategic arms limitation talks (salt)",
+            "ta_term": "போர்த்தந்திர படைக்கலக் கட்டுப்பாட்டுப் பேச்சுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategic arms reduction talks (sart)",
+            "ta_term": "போர்த்தந்திர படைக்கலக் குறைப்புப் பேச்சுகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategic defence policy (sdp)",
+            "ta_term": "போர்த்தந்திர நாட்டுக்காப்பு நெறிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategic defense initiative (sdi)",
+            "ta_term": "போர்த்தந்திர நாட்டுக்காப்பு முன்முனைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategic voting",
+            "ta_term": "செயல்தந்திர வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategy",
+            "ta_term": "ஆட்டத்தந்திரம் (சதுரங்கம்), செயல்தந்திரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strategy-proofness",
+            "ta_term": "செயல்தந்திர நிறுவுதிறன் (வாக்களிப்பியல்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "strict construction(ism)",
+            "ta_term": "கண்டிப்பான அரசமைப்புச் சாரியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "structural adjustment",
+            "ta_term": "கட்டமைப்புச் சரிசெய்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "structural functionalism",
+            "ta_term": "கட்டமைப்புச் செயல்பாட்டுக் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "structuralism",
+            "ta_term": "கட்டமைப்புச் சாரியம், கட்டமைப்பு வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "structuration",
+            "ta_term": "கட்டமைப்பாக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "structure - induced equilibrium",
+            "ta_term": "கட்டமைப்பு தூண்டிய சமநிலை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "subsidiarity",
+            "ta_term": "துணையமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "subversion",
+            "ta_term": "கவிழ்த்தல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "successive voting",
+            "ta_term": "தொடர்முறை வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "suez crisis",
+            "ta_term": "சூயஸ்(க்கால்வாய்) நெருக்கடி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "suffrage",
+            "ta_term": "வாக்குரிமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "suffragette",
+            "ta_term": "மகளிர் வாக்குரிமைப் போராட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "suffragist",
+            "ta_term": "மகளிர் வாக்குரிமைப் போராளி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sunni",
+            "ta_term": "சுன்னி (இசுலாமியப் பெரும்பான்மைப் பிரிவு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "supergame",
+            "ta_term": "தொடர் அடுக்கு விளையாட்டு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "superpower",
+            "ta_term": "உயர் வல்லரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "superstructure",
+            "ta_term": "மேற்கட்டுமானம், மேற்கோப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "supply side",
+            "ta_term": "வழங்கல்பக்க(ம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "supranationalism",
+            "ta_term": "எல்லைகடந்த நாட்டுப்பற்று"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "supreme court",
+            "ta_term": "உச்சநீதிமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "supreme soviet",
+            "ta_term": "உச்ச சோவியத், சோவியத் பேரவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "surplus value",
+            "ta_term": "உபரிமதிப்பு, மிகை மதிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "survey research",
+            "ta_term": "அளக்கைமுறை ஆராய்ச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "sustainable development",
+            "ta_term": "நீடிப்புத்திற வளர்ச்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "swing",
+            "ta_term": "அலைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "syndicalism",
+            "ta_term": "கூட்டோச்சற் கொள்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "systems analysis",
+            "ta_term": "அமைப்புப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "tacit consent",
+            "ta_term": "தந்திரச் சம்மதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "tactical voting",
+            "ta_term": "செயல்தந்திர வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "taliban",
+            "ta_term": "தாலிபான்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "television and politics",
+            "ta_term": "தொலைக்காட்சியும் அரசியலும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "terrorism",
+            "ta_term": "அச்சுறுத்தும் போக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "thatcherism",
+            "ta_term": "தாட்சரியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "theocracy",
+            "ta_term": "இறைவல்லாண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "think-tanks",
+            "ta_term": "சிந்தனைக் குழுக்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "third international",
+            "ta_term": "மூன்றாம் அகிலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "third reading",
+            "ta_term": "(சட்ட முன்வரைவின்) மூன்றாம் வாசிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "third republic, french",
+            "ta_term": "பிரெஞ்சு மூன்றாம் குடியரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "third way",
+            "ta_term": "மூன்றாம் வழிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "third world",
+            "ta_term": "மூன்றாம் உலகம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "thomism",
+            "ta_term": "தோமியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "three-line whip",
+            "ta_term": "மூவணி ஓச்சல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "tiananmen square",
+            "ta_term": "டின்னமென் சதுக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ticket-splitting",
+            "ta_term": "பிரிநிலை வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "time-series analysis",
+            "ta_term": "காலத்தொடர் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "titoism",
+            "ta_term": "டிட்டோவியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "toleration",
+            "ta_term": "பொறுத்தல், பொறுமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "toryism",
+            "ta_term": "தோரியம், மரபுசாரியம், மரபுவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "totalitarianism",
+            "ta_term": "முழுவல்லாண்மை, முற்றதிகாரக் கொள்கை, தொகுநலன் மேலோச்சம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "trade unions",
+            "ta_term": "தொழிற்சங்கங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "trade war",
+            "ta_term": "தொழில்வணிகப் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "traditionalism",
+            "ta_term": "மரபுச்சார்பியம், மரபுவாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "transitivity",
+            "ta_term": "விருப்ப மாறுதியன்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "treaty of rome",
+            "ta_term": "ரோம் உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "treaty of versailles",
+            "ta_term": "வார்சேல்ஸ் உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "trotskyism",
+            "ta_term": "டிராட்சுகிசியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "truman doctrine",
+            "ta_term": "டுரூமன் நெறிமுறை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "trusteeship",
+            "ta_term": "அறக்கட்டளை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "truth and reconciliation",
+            "ta_term": "உண்மையும் மீளேற்பும்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "turnout",
+            "ta_term": "வெளியீடு, ஆக்க அளவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "two-party systems",
+            "ta_term": "இருகட்சி முறைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "tyranny",
+            "ta_term": "கொடுங்கோன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "tyranny of the majority",
+            "ta_term": "பெரும்பான்மை கொடுங்கோன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ulster",
+            "ta_term": "வட அயர்லாந்து இன உரிமைக் கட்சி பெயர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ultra vires",
+            "ta_term": "(சட்ட) வரம்புக்குப் புறம்பான"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "unanimity",
+            "ta_term": "ஒருமித்த முடிவெடுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "uncertainty",
+            "ta_term": "உறுதியின்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ungovernability",
+            "ta_term": "ஆளவியலாமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "unicameralism",
+            "ta_term": "ஒற்றை அவைச் சட்டமன்றம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "unilateralism",
+            "ta_term": "ஒருபக்கச்சார்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "unionism",
+            "ta_term": "தொழிற்சங்கச் சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "united front",
+            "ta_term": "கூட்டணி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "united nations (un)",
+            "ta_term": "பன்னாட்டவை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "universal domain",
+            "ta_term": "பொதுக் களம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "urbanism",
+            "ta_term": "நகரச் சார்பியம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "usual channels",
+            "ta_term": "வழக்க வழிமுறைகள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "utility",
+            "ta_term": "பயன்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "utopianism",
+            "ta_term": "கற்பனாவாதம், கருத்தியல்வாதம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "valence issue",
+            "ta_term": "பொதுக்குறைப் பிரச்சினை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "veil of ignorance",
+            "ta_term": "அறியாமைத் திரை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "velvet revolution",
+            "ta_term": "வெல்வெட் புரட்சி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "versailles, treaty of",
+            "ta_term": "வார்சேலஸ் உடன்படிக்கை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "veto",
+            "ta_term": "மறுப்பு அதிகாரம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "vicepresident",
+            "ta_term": "துணைக் குடியரசுத் தலைவர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "vichy",
+            "ta_term": "பிரெஞ்சுநாட்டு பொம்மையரசுப் பெயர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "vietnam war",
+            "ta_term": "வியட்நாம் போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "violence",
+            "ta_term": "வன்கொடுமை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "virtual representation",
+            "ta_term": "மெய்நிகர் பகராண்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "voice",
+            "ta_term": "செல்வாக்கு, குரல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "voluntary export restraint (ver)",
+            "ta_term": "தன்விருப்பு ஏற்றுமதி கட்டுப்பாடு (த.ஏ.க.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "vote bank",
+            "ta_term": "வாக்கு வங்கி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "voting",
+            "ta_term": "வாக்களித்தல், வாக்களிப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "want - regarding principles",
+            "ta_term": "நெறிமுறைகள் இன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "wants",
+            "ta_term": "விருப்புகள் (தேவைகள்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "war",
+            "ta_term": "போர்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "war crimes",
+            "ta_term": "போர்க் குற்றங்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "ward",
+            "ta_term": "சிறகம், ஆட்சிப்பிரிவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "warsaw pact",
+            "ta_term": "வார்சா ஒப்பந்தம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "washington consensus",
+            "ta_term": "வாஷிங்டன் கருத்திசைவு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "weighted vote",
+            "ta_term": "மாறுமதிப்பு வாக்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "weimar republic",
+            "ta_term": "வீமர் குடியரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "welfare economics",
+            "ta_term": "நலநோக்குப் பொருளியல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "welfare state",
+            "ta_term": "நலநோக்கு அரசு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "west",
+            "ta_term": "மேற்கு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "west lothian question",
+            "ta_term": "மேற்கு லோத்தியப் பிரச்சினை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "western european union (weu)",
+            "ta_term": "மேற்கு ஐரோப்பிய ஒன்றியம் (மே.ஐ.ஒ.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "westphalian state system",
+            "ta_term": "வெஸ்ட்பாலிய அரசமைப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "whig",
+            "ta_term": "மரபு மேல்தட்டினர் (பிரிட்டானிய அரசியல் வழக்கு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "whig interpretation",
+            "ta_term": "மரபுமேல்தட்டு விளக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "whip",
+            "ta_term": "ஓச்சல், கொறடா"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "white primary",
+            "ta_term": "வெள்ளையர் முதன்மை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "winter of discontent",
+            "ta_term": "வெறுப்புக் குளிர்காலம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "withering away of the state",
+            "ta_term": "அரசு உதிர்ந்துபோதல்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "women’s movement",
+            "ta_term": "மகளிர் இயக்கம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "woolsack",
+            "ta_term": "செஞ்சதுர மெத்தை"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "workers’ control",
+            "ta_term": "தொழிலாளர் கட்டுப்பாடு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "working class",
+            "ta_term": "பாட்டாளி வகுப்பு, தொழிலாளர் வகுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "world bank",
+            "ta_term": "உலக வங்கி"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "world system analysis",
+            "ta_term": "உலக அமைப்புப் பகுப்பாய்வு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "world trade organization (wto)",
+            "ta_term": "உலகத் தொழில்வணிக நிறுவனம் (உ.தொ.நி.)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "xenophobia",
+            "ta_term": "அயலரச்சம், அயலார் வெறுப்பு"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "young hegelians",
+            "ta_term": "இளம் எகலியர்கள்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "young, michael (lord young of dartington)",
+            "ta_term": "மைக்கேல் இளவல் (டார்ட்டிங்டனின் இளம் பிரபு)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "zapatismo",
+            "ta_term": "சபாட்டாவியம் (பிரபு அரசியல் கொள்கை வகை)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "zero-sum game",
+            "ta_term": "சம ஈட்ட/இழப்பு ஆட்டம்"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "zionism",
+            "ta_term": "சீயோனியம் (யூதர் இயக்கம்)"
+        },
+        {
+            "subject": "Politics",
+            "en_term": "zoning",
+            "ta_term": "மண்டலப் பகுப்புமுறை (அரசியல் வழக்கு)"
+        }
+    ]
+}
