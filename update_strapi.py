@@ -7,7 +7,6 @@ j_data = json.load(file)
 
 headers = {
     'accept' : 'application/json',
-    'Authorization' : 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNjE5NjcyMjcxLCJleHAiOjE2MjIyNjQyNzF9.TGyJ-KcVx2_Gxo6utmnK5d_DkqBDcMUa6TNN25zI6is',
     'Content-Type' : 'application/json'
 }
 
