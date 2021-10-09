@@ -9,16 +9,16 @@ j_data = json.load(file)
 
 conn = sqlite3.connect('glossary.db')
 cursor = conn.cursor()
-cursor.execute('''CREATE TABLE tamil_glossary
-             ([id] INTEGER PRIMARY KEY, [subject] text, [en_term] text, [ta_term] text)''')
+cursor.execute('''CREATE TABLE tamilGlossary
+             ([id] INTEGER PRIMARY KEY NOT NULL, [subject] TEXT NOT NULL, [en_term] TEXT NOT NULL, [ta_term] TEXT NOT NULL)''')
 
-for i, item in enumerate(j_data['tamil_glossary']):
-    id = int(time.time() * 1000)
+for index, item in enumerate(j_data['tamil_glossary']):
+    id = index
     subject = item['subject']
     en_term = item['en_term']
     ta_term = item['ta_term']
-    print('inserting...%d' % i)
-    query = "INSERT INTO tamil_glossary ('id', 'subject', 'en_term', 'ta_term') VALUES (?, ?, ?, ?);"
+    print('inserting...%d' % index)
+    query = "INSERT INTO tamilGlossary ('id', 'subject', 'en_term', 'ta_term') VALUES (?, ?, ?, ?);"
     value = (id, subject, en_term, ta_term)
     cursor.execute(query, value)
     conn.commit()
